@@ -18,4 +18,4 @@ python main.py
 #### Set of coordinates of warehouses, including start point, such that the first coordinates is start point
 ### ***Output***:
 #### List of ordering points, called route, such that the shipper needs to follow that route and a .html file shows the map like that:
-![](images\map.png) 
+![](/images/map.png) 
