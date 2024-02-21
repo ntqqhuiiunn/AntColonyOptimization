@@ -1,0 +1,8 @@
+Global: 
+  numIters: 123
+  numAnts: 123
+  tau: 0.1 # Initial pheromone level
+  alpha: 1 # Pheromone importance 
+  beta: 3 # Cost importance
+  timeLimit: 300.0 # Time limit using to stop alogorithm
+  

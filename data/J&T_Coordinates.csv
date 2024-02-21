@@ -1,0 +1,1204 @@
+STT,Mã BC,Name,Tỉnh,Quận/Huyện/TP/Thị xã,Địa chỉ,Longitude,Latitude,Note
+1,232A01,(QBH)Bắc Lý,Quảng Bình,Thành phố Đồng Hới,"89 Lê Lợi, Phường Hải Đình, Thành Phố Đồng Hới, Quảng Bình",106.6218486,17.45959389,Cũ
+2,297K01,(KGG) Duơng Đông,Kiên Giang,Thành Phố Phú Quốc,"326 Nguyễn Trung Trực , Khu Phố 5 , P . Dương Đông , TP. Phú Quốc , Kiên Giang",103.978444,10.228111,Cũ
+3,221C03,(HYN) Phùng Hưng,Hưng Yên,Huyện Khoái Châu,"Đường 205, thôn Sài Thị, Xã Thuần Hưng, huyện Khoái Châu, tỉnh Hưng Yên",105.996005,20.781528,Cũ
+4,258D01,(KHH)Cam Ranh,Khánh Hòa,Thành phố Cam Ranh,"2274 Hùng Vương, phường Ba Ngòi, Tp Cam Ranh, Tỉnh Khánh Hòa",109.138246,11.915079,Cũ
+5,237I02,(THA) Thiệu Hóa 2,Thanh Hóa,Huyện Thiệu Hóa,"Xã Thiệu Phú, Huyện Thiệu Hoá, Thanh Hoá",105.6783616,19.9066717,Cũ
+6,237I01,(THA) Thiệu Hóa,Thanh Hóa,Huyện Thiệu Hóa,"SN 19 đường 515 Thôn 1, Xã Thiệu Vận, Huyện Thiệu Hóa, Thanh Hóa",105.676472,19.865944,Cũ
+7,222F02,(BNH) Công Hà,Bắc Ninh,Huyện Thuận Thành,"Công Hà, Phường Hà Mãn, Thị xã Thuận Thành, Bắc Ninh",106.03302,21.03304,Cũ
+736,024U02,(HNI) Ba Trại,Hà Nội,Huyện Ba Vì,"Thửa đất số 34-1, tờ bản đồ số 41, Thôn 7, xã Ba Trại, H. Ba Vì, Hà Nội",105.3718039,21.12022618,Cũ
+737,024U01,(HNI)Chu Minh,Hà Nội,Huyện Ba Vì,"Khu Đồng Cống, Thị trấn Tây Đằng, Huyện Ba Vì, Hà Nội",105.414837,21.203268,Cũ
+10,225B01,(HPG)Ngô Gia Tự,Hải Phòng,Quận Hải An,"369 Lũng Đông, Phường Đằng Hải, Quận Hải An, Hải Phòng",106.7288424,20.8393647,Cũ
+11,225B03,(HPG) Trần Hưng Đạo,Hải Phòng,Quận Hải An,"Tổ dân phố Bình Kiều 1, Phường Đông Hải 2, Quận Hải An, TP Hải Phòng",106.72075,20.84919,Cũ
+659,024X01,(HNI)Chúc Sơn,Hà Nội,Huyện Chương Mỹ,"Km 20, Quốc Lộ 6, Thị trấn Chúc Sơn, Huyện Chương Mỹ, Hà Nội",105.706676,20.924617,Cũ
+735,024X02,(HNI)Xuân Mai,Hà Nội,Huyện Chương Mỹ,"Số nhà 129, Tổ 2 Tân Xuân, Thị Trấn Xuân Mai, Huyện Chương Mỹ, Hà Nội",105.5780953,20.907772,Cũ
+569,024S01,(HNI) TT Phùng,Hà Nội,Huyện Đan Phượng,"số 61 Tây Sơn,Thị trấn Phùng, huyện Đan Phượng, Hà Nội",105.6759182,21.08199888,Cũ
+90,024O01,(HNI)Cao Lỗ,Hà Nội,Huyện Đông Anh,"Số nhà 12 đường Việt Hùng, Xã Uy Nỗ, Huyện Đông Anh, Hà Nội",105.868887,21.1379953,Cũ
+483,024O02,(HNI)Hậu Dưỡng,Hà Nội,Huyện Đông Anh,"Số 112 đường Đồng Quan, Xã Kim Nỗ, Huyện Đông Anh, Hà Nội",105.790498,21.13497,Cũ
+658,024O04,(HNI) Khối 3A,Hà Nội,Huyện Đông Anh,"QL3 Số 4 Tổ 15, Thị trấn Đông Anh, Huyện Đông Anh, Hà Nội",105.84677,21.163723,Cũ
+1069,024O05,(HNI) Hải Bối,Hà Nội,Huyện Đông Anh,"Thôn Đồng Nhân, xã Hải Bối, huyện Đông Anh, thành phố Hà Nội",105.803042,21.118608,Cũ
+25,024N07,(HNI) Ninh Hiệp,Hà Nội,Huyện Gia Lâm,"Số 80A, ngõ 130 đường Hồ Sen, xã Yên Viên, Huyện Gia Lâm, TP Hà Nội",105.919506,21.082898,Cũ
+84,024N08,(HNI) Kiêu Kỵ,Hà Nội,Huyện Gia Lâm,"Số 40 ,Sao biển 24 Vinhomes Ocean Park, Xã Kiêu Kỵ, Huyện Gia Lâm, Hà Nội",105.951546,20.998968,Cũ
+104,024N06,(HNI) Đa Tốn,Hà Nội,Huyện Gia Lâm,"133 đường Đa Tốn, Thôn Thuận Tốn, Xã Đa Tốn, Huyện Gia Lâm, Hà Nội",105.9278902,20.9855729,Cũ
+22,277H02,(ĐTP) Sa Đéc 2,Đồng Tháp,Thành phố Sa Đéc,"63/68 ấp Đông Huề, Xã Tân Khánh Đông, Tp Sa Đéc, Tỉnh Đồng Tháp",105.71714,10.368902,Cũ
+23,225L02,(HPG) An Hưng,Hải Phòng,Huyện An Dương,"Xóm Nam Bình, xã An Hưng, huyện An Dương, thành phố Hải Phòng",106.5811183,20.89892494,Cũ
+24,220F03,(HDG) Thanh Giang,Hải Dương,Huyện Thanh Miện,"Xóm 4, Thôn Phù Tải 2, Xã Thanh Giang, Huyện Thanh Miện, Hải Dương",106.25087,20.71796,Cũ
+105,024M01,(HNI)Cổ Bi,Hà Nội,Huyện Gia Lâm,"138 Cổ Bi, Phường Cổ Bi, Huyện Gia Lâm, Hà Nội",105.940232,21.025779,Cũ
+26,203F03,(QNH) Minh Thành,Quảng Ninh,Thị xã Quảng Yên,"Đường Mạc Đăng Doanh, Phường Đông Mai, Thị Xã Quảng Yên, Quảng Ninh",106.837889,21.007361,Cũ
+27,290I01,(CMU) U Minh,Cà Mau,Huyện U Minh,"Khóm 3, Thị Trấn U Minh, huyện U Minh, Tỉnh Cà Mau",104.962761,9.403705,Cũ
+28,290H01,(CMU) Ngọc Hiển,Cà Mau,Huyện Ngọc Hiển,"Khóm 1, TT Gạch Gốc, huyện Ngọc Hiển, tỉnh Cà Mau",105.01854,8.619659,Cũ
+29,290G02,(CMU) Phú Thuận,Cà Mau,Huyện Phú Tân(CM),"Ấp Vàm Đình, xã Phú Thuận, huyện Phú Tân, Cà Mau",104.940395,8.917159,Cũ
+30,290G01,(CMU) Phú Tân,Cà Mau,Huyện Phú Tân(CM),"Khóm 2, Thị trấn Cái Đôi Vàm, Huyện Phú Tân, Cà Mau",104.817547,8.854884,Cũ
+31,290F02,(CMU) Thới Bình 2,Cà Mau,Huyện Thới Bình,"Khóm 1, Thị trấn Thới Bình, Huyện Thới Bình, Cà Mau",105.090684,9.348544,Cũ
+32,290F01,(CMU) Thới Bình,Cà Mau,Huyện Thới Bình,"Ấp Kinh 5B, xã Tân Phú, huyện Thới Bình, tỉnh Cà Mau",105.195654,9.378268,Cũ
+33,290E03,(CMU) Trần Hợi,Cà Mau,Huyện Trần Văn Thời,"Ấp 2, Xã Trần Hợi, Huyện Trần Văn Thời, Cà Mau",104.914714,9.172091,Cũ
+34,290E02,(CMU) Sông Đốc,Cà Mau,Huyện Trần Văn Thời,"Khóm 9, thị trấn Sông Đốc, Huyện Trần Văn Thời, Tỉnh Cà Mau",104.830953,9.044532,Cũ
+35,290E01,(CMU) Trần Văn Thời,Cà Mau,Huyện Trần Văn Thời,"Đường số 4, Khóm 1 ,TT Trần Văn Thời, Cà Mau",104.970728,9.074152,Cũ
+36,290D02,(CMU) Tân Duyệt,Cà Mau,Huyện Đầm Dơi,"Ấp Bào Sen, xã Tân Duyệt, huyện Đầm Dơi, tỉnh Cà Mau",105.213878,8.934414,Cũ
+37,290D01,(CMU) Đầm Dơi,Cà Mau,Huyện Đầm Dơi,"Đường Nguyễn Tạo, Khóm 4, TT. Đầm Dơi, huyện Đầm Dơi, tỉnh Cà Mau",105.196178,8.993978,Cũ
+38,290C01,(CMU) Năm Căn,Cà Mau,Huyện Năm Căn,"Đường Nguyễn Tất Thành, Khu vực 1, Khóm 4, Thị trấn Năm Căn, Huyện Năm Căn, Cà Mau",104.99514,8.766978,Cũ
+39,290B02,(CMU) Thạnh Phú,Cà Mau,Huyện Cái Nước,"Ấp Tân Hòa, xã Thạnh Phú, huyện Cái Nước, tỉnh Cà Mau",105.079625,9.091954,Cũ
+40,290B01,(CMU)Cái Nước,Cà Mau,Huyện Cái Nước,"Khóm 2, Thị trấn Cái Nước, Huyện Cái Nước, Cà Mau",105.011281,8.948381,Cũ
+41,290A03,(CMU) Lý Thường Kiệt,Cà Mau,Thành phố Cà Mau,"79 Lý Thường Kiệt, Khóm 7, Phường 6, Thành phố Cà Mau, Cà Mau",105.187587,9.173698,Cũ
+42,290A02,(CMU) Nguyễn Tất Thành,Cà Mau,Thành phố Cà Mau,"Đường Nguyễn Đình Chiểu, Phường 8, Thành Phố Cà Mau, Cà Mau",105.145021,9.162962,Cũ
+559,024R01,(HNI)Kim Chung,Hà Nội,Huyện Hoài Đức,"Số nhà 43,45 ngõ 69 đường Vạn Xuân, khu ở tái định cư, thôn Lai Xá, Xã Kim Chung, Huyện Hoài Đức, Hà",105.7220849,21.06022112,Cũ
+841,024R03,(HNI) Sơn Đồng,Hà Nội,Huyện Hoài Đức,"Thửa đất số 38, tờ bản đồ số 10 thôn Yên Bệ, X. Kim Chung, Hoài Đức, Hà Nội",105.70442,21.05151,Cũ
+1152,024R02,(HNI) An Khánh,Hà Nội,Huyện Hoài Đức,"Số nhà 329 Đường An Thượng - Đông La, Thôn Lại Dụ, xã An Thượng, huyện Hoài Đức, thành phố Hà Nội",105.710056,20.980278,Mở mới
+557,024N04,(HNI) Thạch Đà,Hà Nội,Huyện Mê Linh,"Đồng Tuyến, thôn 1, xã Thạch Đà, huyện Mê Linh, thành phố Hà Nội",105.678158,21.17848,Cũ
+967,024N05,(HNI) Thanh Lâm,Hà Nội,Huyện Mê Linh,"Thôn Phú Nhi, xã Thanh Lâm, huyện Mê Linh, thành phố Hà Nội",105.7383823,21.19854706,Cũ
+1163,024N01,(HNI)Tiền Phong,Hà Nội,Huyện Mê Linh,"Khu đô thị Phương Huy, Tiền Phong, Mê Linh, Hà Nội",105.7655567,21.15695234,Mở mới
+43,024X03,(HNI) Phúc Lâm,Hà Nội,Huyện Mỹ Đức,"Thôn Chân Chim, xã Phúc Lâm, huyện Mỹ Đức, thành phố Hà Nội",105.691268,20.809008,Cũ
+106,024Z01,(HNI)Đại Nghĩa,Hà Nội,Huyện Mỹ Đức,"260, Khu Bãi Dâu, Thị trấn Đại Nghĩa, Huyện Mỹ Đức, Hà Nội",105.7420607,20.68632587,Cũ
+101,024Z06,(HNI) Minh Cường,Hà Nội,Huyện Phú Xuyên,"TK Thao Chính, Thị Trấn Phú Xuyên, Huyện Phú Xuyên, Hà Nội",105.906395,20.742321,Cũ
+102,024M02,(HNI)Phú Xuyên,Hà Nội,Huyện Phú Xuyên,"Số 24 Kiều Đoài, Xã Đại Xuyên, Huyện Phú Xuyên, Hà Nội",105.910881,20.714882,Cũ
+346,024T01,(HNI)Phúc Thọ,Hà Nội,Huyện Phúc Thọ,"Số 148, Tổ dân phố số 4, Thị trấn Phúc Thọ, Huyện Phúc Thọ, Hà Nội",105.540255,21.1104183,Cũ
+712,024T02,(HNI) Tam Hiệp,Hà Nội,Huyện Phúc Thọ,"Số nhà 20, Dốc nhà máy đường, xã Tam Hiệp, huyện Phúc Thọ, Hà Nội",105.623308,21.083668,Cũ
+55,214A04,(LCI)Phố Mới,Lào Cai,Thành phố Lào Cai,"75 Nguyễn Huệ,Phường Lào Cai, Thành Phố Lào Cai, Lào Cai",103.9683514,22.50527344,Cũ
+56,225C05,(HPG) Chợ Hàng,Hải Phòng,Quận Lê Chân,"Số 493 Nguyễn Văn Linh, Phường Dư Hàng Kênh, Quận Lê Chân, Hải Phòng",106.68108,20.83439,Cũ
+57,251A30,(ĐNI) Bửu Long,Đồng Nai,Thành phố Biên Hoà,"Thửa đất số 338, tờ bản đồ số 45, Phường Bửu Long, Thành phố Biên Hoà, Tỉnh Đồng Na",106.8066375,10.9581821,Cũ
+58,220H03,(HDG) Quang Thành,Hải Dương,Thị Xã Kinh Môn,"Thôn Miêu Nha, Xã Quang Thành, Thị Xã Kinh Môn, Hải Dương",106.42741,20.97775,Cũ
+59,218J01,(HBH) Kỳ Sơn,Hòa Bình,Thành phố Hòa Bình,"Cạnh Sắt thép Đông Nga, tổ 7 Phường Kì Sơn, Thành phố Hòa Bình, Hòa Bình",105.34879,20.884462,Cũ
+60,273G01,(TGG) Gò Công Tây,Tiền Giang,Huyện Gò Công Tây,"Ấp Bình Đông Trung, Xã Bình Nhì, Huyện Gò Công Tây, Tiền Giang",106.55733,10.356652,Cũ
+61,251B04,(ĐNI) Bàu Cá,Đồng Nai,Huyện Trảng Bom,"Xã Trung Hòa, Huyện Trảng Bom, Đồng Nai",107.053221,10.94217,Cũ
+62,261D01,(DKG)Đăk Mil,Đắk Nông,Huyện Đăk Mil,"20 Ngô Gia Tự, Thị trấn Đắk Mil, Huyện Đắk Mil, Đăk Nông",107.625792,12.45027,Cũ
+63,219A01,(HGG) Minh Khai,Hà Giang,Thành phố Hà Giang,"Số nhà 46, đường Nguyễn Thái Học, Phường Minh Khai, TP Hà Giang",104.985813,22.825634,Cũ
+64,220D02,(HDG) Quang Minh,Hải Dương,Huyện Gia Lộc,"Xã Hưng Đạo, huyện Tứ Kỳ, tỉnh Hải Dương",106.27256,20.78729,Cũ
+65,299B01,(STG) Vĩnh Châu,Sóc Trăng,Thị xã Vĩnh Châu,"Khu 2, thị trấn Vĩnh Châu, huyện Vĩnh Châu, tỉnh Sóc Trăng",105.97923,9.332812,Cũ
+66,254H01,(BRVT) Trường Thành,Bà Rịa – Vũng Tàu,Huyện Đất Đỏ,"Tổ 16 Kp Trường Thành, TT Đất Đỏ, Huyện Đất Đỏ, Tỉnh Bà Rịa -Vũng Tàu",107.2708431,10.4814437,Cũ
+67,254F02,(BRVT) Long Hải,Bà Rịa – Vũng Tàu,Huyện Long Điền,"Tổ 6 đường nguyễn tất thành, kp hải bình, Thị Trấn Long Hải, Huyện Long Điền, Bà Rịa-Vũng Tàu.",107.227913,10.408859,Cũ
+68,254E01,(BRVT)Ngãi Giao,Bà Rịa – Vũng Tàu,Huyện Châu Đức,"438A Hùng Vương , TT Ngãi Giao , Huyện Châu Đức . Tỉnh Bà Rịa Vũng Tàu",107.2480166,10.65861296,Cũ
+69,254D02,(BRVT) Phước Bửu,Bà Rịa – Vũng Tàu,Huyện Xuyên Mộc,"Ấp 1, Xã Hoà Hội, Huyện Xuyên Mộc, Tỉnh Bà Rịa – Vũng Tàu",107.436875,10.594278,Cũ
+70,254D01,(BRVT)Phước Hòa,Bà Rịa – Vũng Tàu,Huyện Xuyên Mộc,"226 Huỳnh Minh Thạnh, Thị Trấn Phước Bửu. Huyện Xuyên Mộc, Bà Rịa Vũng Tàu",107.4042539,10.52011417,Cũ
+71,254C05,(BRVT) Tóc Tiên,Bà Rịa – Vũng Tàu,Thị xã Phú Mỹ,"Thửa đất số 1030 .tờ bản đồ số 33, Khu phố trảng lớn, Phường Hắc Dịch,Thị xã Phú Mỹ, BR-VT",107.1195809,10.6425072,Cũ
+72,254C04,(BRVT) Mỹ Xuân,Bà Rịa – Vũng Tàu,Thị xã Phú Mỹ,"Nguyên Văn Nghị-QL51, Phường Mỹ Xuân, Thị xã Phú Mỹ, Bà Rịa-Vũng Tàu",107.0506835,10.6294432,Cũ
+73,254C02,(BRVT)Tân Phước,Bà Rịa – Vũng Tàu,Thị xã Phú Mỹ,"Thôn Phước Hiệp, Xã Tân Hoà, Thị Xã Phú Mỹ, tỉnh Bà Rịa Vũng Tàu",107.085869,10.517944,Cũ
+74,254B06,(BRVT) Nguyễn Thiện Thuật,Bà Rịa – Vũng Tàu,Thành phố Vũng Tàu,"Số 10A Hồ Tri Tân, phường Rạch Dừa, thành phố Vũng Tàu, tỉnh Bà Rịa Vũng Tàu",107.107618,10.393157,Cũ
+75,254B03,(BRVT) Bình Giã,Bà Rịa – Vũng Tàu,Thành phố Vũng Tàu,"19 Phan Chu Trinh Phường 2, Tp Vũng Tàu, Bà Rịa – Vũng Tàu",107.0798102,10.33837432,Cũ
+76,254B02,(BRVT)Nguyễn An Ninh,Bà Rịa – Vũng Tàu,Thành phố Vũng Tàu,"431 Trần Phú, Phường Thắng Nhì, Thành phố Vũng Tàu, Bà Rịa – Vũng Tàu",107.07294,10.37187,Cũ
+77,254B01,(BRVT)Ba Mươi Tháng Tư,Bà Rịa – Vũng Tàu,Thành phố Vũng Tàu,"1529B Đường 30/4, Phường 12, Thành Phố Vũng Tàu, Tỉnh Bà Rịa Vũng Tàu",107.151983,10.420414,Cũ
+78,254A01,(BRVT)Nguyễn Tất Thành,Bà Rịa – Vũng Tàu,Thành phố Bà Rịa,"307 võ thị sáu, Phường Long Toàn, TP Bà Rịa, BR-VT",107.195977,10.500247,Cũ
+79,258E01,(KHH)Ninh Hòa,Khánh Hòa,Thị xã Ninh Hòa,"Hà Thanh 2, Phường Ninh Đa, Thị xã Ninh Hòa, Khánh Hòa",109.187982,12.252577,Cũ
+80,291B01,(BLU) Giá Rai,Bạc Liêu,Thị xã Giá Rai,"46 quốc lộ 1A ,khóm 1, Phường Hộ Phòng, Thị xã Giá Rai, Bạc Liêu",105.423342,9.22939,Cũ
+81,220F01,(HDG) Thanh Miện,Hải Dương,Huyện Thanh Miện,"Số nhà 500, Nguyễn Lương Bằng, Khu Phố Lê Bình, Thị trấn Thanh Miện, huyện Thanh Miện, Hải Dương",106.245591,20.784576,Cũ
+82,226D03,(HNM) Nhật Tựu,Hà Nam,Huyện Duy Tiên,"Khu đô thị Đồng Văn Xanh, Xã Duy Hải, Huyện Duy Tiên, Hà Nam",105.90516,20.64279,Cũ
+83,226D01,(HNM) Kim Bảng,Hà Nam,Huyện Kim Bảng,"Tổ 5, Thị trấn Quế Huyện Kim Bảng, Hà Nam",105.87126,20.57918,Cũ
+526,024W01,(HNI) Thạch Thán,Hà Nội,Huyện Quốc Oai,"Xóm Gốc Gạo, thôn Ngọc Than, xã Ngọc Mỹ, huyện Quốc Oai, thành phố Hà Nội",105.627472,20.992832,Cũ
+85,232A02,(QBH)Tố hữu,Quảng Bình,Thành phố Đồng Hới,336 lý thường kiệt. Phường Bắc lý. Đồng hới,106.604351,17.470112,Cũ
+86,237A05,(THA) Quảng Hưng 2,Thanh Hóa,Thành phố Thanh Hóa,Phố 2 phường Quảng Hưng tp Thanh Hoá tỉnh Thanh Hoá,105.805556,19.788611,Cũ
+87,258D03,(KHH) Cam Phúc Nam,Khánh Hòa,Thành phố Cam Ranh,"1898 Đại lộ Hùng Vương, Phường Cam Thuận, Thành phố Cam Ranh, Khánh Hòa",109.1876598,11.95624009,Cũ
+88,220K03,(HDG) Kim Anh,Hải Dương,Huyện Kim Thành,"Xã Cổ Dũng, Huyện Kim Thành, Hải Dương",106.429722,20.978889,Cũ
+805,024W02,(HNI) Hòa Thạch,Hà Nội,Huyện Quốc Oai,"Thửa đất số 31, tờ bản đồ số 110, thôn Thắng Đầu, Xã Hòa Thạch, Huyện Quốc Oai, Hà Nội",105.53748,20.95754,Cũ
+89,024P03,(HNI) Minh Trí,Hà Nội,Huyện Sóc Sơn,"Thôn Thắng Trí, xã Minh Trí, huyện Sóc Sơn, thành phố Hà Nội",105.7512553,21.25604259,Cũ
+91,258A10,(KHH) Nam Lê Hồng Phong,Khánh Hòa,Thành phố Nha Trang,"709 Lê Hồng Phong, P. Phước Long, TP. Nha Trang, Khánh Hòa",109.148958,12.257056,Cũ
+92,220K01,(HDG) Kim Thành,Hải Dương,Huyện Kim Thành,"Số 66, Quốc Lộ 5 , Khu Phố Ga, Thị Trấn Phú Thái,Huyện Kim, Thành Tỉnh Hải Dương",106.516408,20.964959,Cũ
+93,213F01,(LCU) Tam Đường,Lai Châu,Huyện Tam Đường,"293 đường Võ Nguyên Giáp,Thị trấn Tam Đường, Huyện Tam Đường, Lai Châu",106.621886,22.322223,Cũ
+94,226E02,(HNM) Bối Cầu,Hà Nam,Huyện Bình Lục,"1044 Trần Hưng Đạo, Thị trấn Bình Mỹ, Huyện Bình Lục, Hà Nam",105.996941,20.493673,Cũ
+95,251A25,(ĐNI) An Bình,Đồng Nai,Thành phố Biên Hoà,"Số A1, tổ 8B, hẻm số 71, Đường Vũ Hồng Phô, Phường An Bình, Thành phố Biên Hoà, tỉnh Đồng Nai",106.8654308,10.9302873,Cũ
+96,225C04,(HPG) Trại Lẻ,Hải Phòng,Quận Lê Chân,"Số 185 Trại Lẻ, Phường Kênh Dương, Quận Lê Chân, Hải Phòng",106.6892993,20.83007174,Cũ
+615,024P01,(HNI)TT.Sóc Sơn,Hà Nội,Huyện Sóc Sơn,"Số 69 Phố Mã, Xã Phù Linh, Huyện Sóc Sơn, Hà Nội",105.853539,21.267775,Cũ
+1013,024P02,(HNI)Phú Minh,Hà Nội,Huyện Sóc Sơn,"Số 91, khu 1, xã Phú Minh, Sóc Sơn, Hà Nội",105.830207,21.19826,Cũ
+230,024V02,(HNI) Hòa Lạc,Hà Nội,Huyện Thạch Thất,"Thửa đất số 81, tờ bản đồ số 38, thôn Hòa Lạc, xã Bình Yên, Thạch Thất, Hà Nội",105.520943,21.026771,Cũ
+902,024V01,(HNI) Thạch Thất,Hà Nội,Huyện Thạch Thất,"26 Đồng Cam, xã kim Quan, Huyện Thạch Thất, Hà Nội",105.577151,21.062198,Cũ
+44,024Y02,(HNI) Thanh Oai,Hà Nội,Huyện Thanh Oai,"269, Phố Vác, Canh Hoạch, xã Dân Hòa, Thanh Oai, Hà Nội",105.7695892,20.8497164,Cũ
+49,024Y03,(HNI) Bình Minh,Hà Nội,Huyện Thanh Oai,"Số 12, ngã ba đường tỉnh lộ 427, thôn Chợ, xã Bình Minh, huyện Thanh Oai, thành phố Hà Nội",105.763835,20.888052,Cũ
+12,024Z04,(HNI) Tân Triều,Hà Nội,Huyện Thanh Trì,"số 68 NV 1 Tổng cục 5 Yên Xá, Xã Tân Triều, Huyện Thanh Trì, Hà Nội",105.7963221,20.9728186,Cũ
+13,024Z03,(HNI) Kim Giang,Hà Nội,Huyện Thanh Trì,"Số nhà 738 Kim Giang, xã Thanh Liệt, huyện Thanh Trì, thành phố Hà Nội",105.819328,20.964822,Cũ
+276,024H82,(HNI) DC Thanh Trì,Hà Nội,Huyện Thanh Trì,"Đường Đại Áng, Đội 8 Thôn Vĩnh Trung, Xã Đại Áng, Huyện Thanh Trì, Hà Nội",105.831261,20.912116,Cũ
+1165,024M05,(HNI)Phan Trọng Tuệ,Hà Nội,Huyện Thanh Trì,"Thửa đất số LK 04-05 khu tái định cư Hữu Hoà, Thanh Trì, Hà Nội",105.8011921,20.95607242,Mở mới
+50,024M07,(HNI) Hòa Bình,Hà Nội,Huyện Thường Tín,"Thôn Trát Cầu, Xã Tiền Phong, Huyện Thường Tín, Hà Nội",105.8419166,20.86212993,Cũ
+108,299G01,(STG) Côn Đảo,Sóc Trăng,Huyện Mỹ Xuyên,"Khu 6, Đường Võ Thị Sáu, Huyện Côn Đảo, Tỉnh Bà Rịa - Vũng Tàu",106.608224,8.684513,Cũ
+109,299D02,(STG) Đại Hải,Sóc Trăng,Huyện Kế Sách,"Ấp Ba Rinh, xã Đại Hải, huyện Kế Sách, Sóc Trăng",105.855743,9.763828,Cũ
+110,299F01,(STG) Long Phú,Sóc Trăng,Huyện Long Phú,"Ấp Ngãi Hội 2, Thị Trấn Đại Ngãi, huyện Long phú, tỉnh Sóc Trăng",106.074306,9.73125,Cũ
+111,299A02,(STG) Văn Ngọc Chính,Sóc Trăng,Thành phố Sóc Trăng,"Số 499 Đường Tôn Đức Thắng, Khóm 3, Phường 5, Tp. Sóc Trăng, Sóc Trăng",105.986872,9.629644,Cũ
+112,299C01,(STG) Thạnh Trị,Sóc Trăng,Huyện Thạnh Trị,"Số 31 Tổ 1 Ấp 2 Quốc Lộ 1A, thị trấn Phú Lộc, huyện Thạnh Trị, tỉnh Sóc Trăng",105.7433,9.428591,Cũ
+113,299D01,(STG) Kế Sách,Sóc Trăng,Huyện Kế Sách,"14B Đường Phan Văn Hùng, Ấp An Thành, TT. Kế Sách, Huyện Kế Sách, Sóc Trăng",105.984506,9.765716,Cũ
+114,299E01,(STG) Mỹ Xuyên,Sóc Trăng,Huyện Mỹ Xuyên,"Đường lê hồng phong, thị trấn mỹ xuyên, huyện mỹ xuyên, sóc trăng",105.979171,9.570065,Cũ
+115,299H01,(STG) Trần Đề,Sóc Trăng,Huyện Trần Đề,"Ấp Giồng Chùa, thị trấn Trần Đề, huyện Trần Đề, Sóc Trăng",106.196605,9.509871,Cũ
+116,299I01,(STG) Ngã Năm,Sóc Trăng,Thị xã Ngã Năm,"Khóm 1, Phường 1, Thị xã Ngã Năm, Sóc răng",105.594972,9.561041,Cũ
+117,299J01,(STG) Mỹ Tú,Sóc Trăng,Huyện Mỹ Tú,"Quang Trung, ấp Mỹ Thuận, Thị trấn Huỳnh Hữu Nghĩa, Huyện Mỹ Tú, Sóc Trăng",105.807543,9.630283,Cũ
+118,299K01,(STG) Cù Lao Dung,Sóc Trăng,Huyện Cù Lao Dung,"Ấp Chợ, thị trấn Cù Lao Dung, huyện Cù Lao Dung, tỉnh Sóc Trăng",106.152149,9.667931,Cũ
+119,299L01,(STG) Châu Thành,Sóc Trăng,Huyện Châu Thành(ST),"312, Ấp An Trạch, xã An Hiệp, huyện Châu Thành, tỉnh Sóc Trăng",105.939356,9.650185,Cũ
+120,299A01,(STG) TP Sóc Trăng,Sóc Trăng,Thành phố Sóc Trăng,"Số 681, Trần hưng đạo, Khóm 8, Phường 3, Thành phố Sóc Trăng, Sóc Trăng",105.961932,9.582054,Cũ
+121,270H01,(VLG) Tam Bình,Vĩnh Long,Huyện Tam Bình,"Ấp Mỹ Phú 1, Xã Tường Lộc, Huyện Tam Bình, Vĩnh Long",105.990387,10.045574,Cũ
+122,236B02,(ĐNG) Phạm Hùng,Đà Nẵng,Huyện Hòa Vang,"348 Phạm Hùng, Xã Hoà Phước, Huyện Hoà Vang, TP Đà Nẵng",108.2074714,15.99116979,Cũ
+123,297L05,(KGG) Rạch Giá,Kiên Giang,Thành phố Rạch Giá,"Số 45, Nguyễn Bỉnh Khiêm, Phường Vĩnh Thanh,Thành phố Rạch Giá, Kiên Giang",105.088827,10.020437,Cũ
+124,297L03,(KGG)Mai Thị Hồng Hạnh,Kiên Giang,Thành phố Rạch Giá,"Lô B4-75 đường 3 Tháng 2, Phường Vĩnh Bảo, Thành phố Rạch Giá, Tỉnh Kiên Giang",105.083694,9.999642,Cũ
+125,206B01,(TPC) Quảng Uyên,Cao Bằng,Huyện Quảng Hòa,"Phố Hòa Bình, Thị trấn Quảng Uyên, Huyện Quảng Hòa, Cao Bằng",106.447191,22.686622,Cũ
+126,233L01,(QTI) Diên Sanh,Quảng Trị,Huyện Hải Lăng,"82 Trần Phú, Thị trấn Diên Sanh, Huyện Hải Lăng, Quảng Trị",107.2490056,16.6878996,Cũ
+127,233G01,(QTI)TT Gio Linh,Quảng Trị,Huyện Gio Linh,178 Lê Duẫn - TT Gio Linh-Huyện Gio Linh-Tỉnh Quảng Trị,107.076311,16.9248,Cũ
+128,233F01,(QTI) Hố xá,Quảng Trị,Huyện Vĩnh Linh,72 Lê Duẩn - TT Hố Xá - Vĩnh Linh - Quảng Trị,107.004195,17.067276,Cũ
+129,233B01,(QTI)Trần Hưng Đạo,Quảng Trị,Thị xã Quảng Trị,"233 Lê Duẫn, Phường 1, Thị xã Quảng Trịị, Quảng Trị",107.190249,16.74025153,Cũ
+130,209A01,(TPB) Phùng Chí Kiên,Bắc Kạn,Thành phố Bắc Kạn,"Tổ 4, Phường Đức Xuân, thành phố Bắc Kạn, Bắc Kạn",105.8395429,22.1498898,Cũ
+131,257D03,(PYN) La Hai,Phú Yên,Huyện Đồng Xuân,"Khu Phố Long Thẳng, Thị Trấn La Hai, Huyện Đồng Xuân, Phú Yên",109.099754,13.375737,Cũ
+132,257B01,(PYN)Sông Cầu,Phú Yên,Thị xã Sông Cầu,"49 Trần Hưng Đạo, Phường Xuân Phú, Thị xã Sông Cầu, Phú Yên",109.2210545,13.45310074,Cũ
+133,258A05,(KHH)Bình Tân,Khánh Hòa,Thành phố Nha Trang,"Số 7 Nguyễn Lộ Trạch,Phường Vĩnh Nguyên, Nha Trang, Khánh Hòa",109.1992605,12.21601764,Cũ
+134,292G01,(CTO)Thốt Nốt,Cần Thơ,Quận Thốt Nốt,"Số 88, Khu vực Phụng Thạnh 1, Phường Thốt Nốt, Quận Thốt Nốt, Thành phố Cần Thơ",105.539244,10.265329,Cũ
+135,292I01,(CTO) Vĩnh Thạnh,Cần Thơ,Huyện Vĩnh Thạnh(CT),"đường Phù Đổng Thiên Vương, Thị trấn Vĩnh Thạnh, Huyện Vĩnh Thạnh, Cần Thơ",105.3972355,10.22970328,Cũ
+136,292E01,(CTO)Ô Môn,Cần Thơ,Quận Ô Môn,"135-137, đường 3/2, Phường Châu Văn Liêm, Quận Ô Môn, Cần Thơ",105.6217604,10.11265952,Cũ
+137,292E02,(CTO) Ô Môn 2,Cần Thơ,Quận Ô Môn,"Khu vực Thới Hòa, Phường Long Hưng, Quận Ô Môn, TP Cần Thơ",105.5684388,10.1546322,Cũ
+138,292C01,(CTO)Cờ Đỏ,Cần Thơ,Huyện Cờ Đỏ,"Âp Thới Bình, Thị trấn Cờ Đỏ, Huyện Cờ Đỏ, Cần Thơ",105.4347462,10.0882007,Cũ
+139,270C01,(VLG) Bình Minh,Vĩnh Long,Thị xã Bình Minh,"Khóm 5, phường Thành Phước, thị xã Bình Minh, Vĩnh Long",105.81012,10.067863,Cũ
+140,273F02,(TGG) Hòa Khánh,Tiền Giang,Huyện Cái Bè,"ấp Khu phố, xã Hòa Khánh, huyện Cái Bè, tỉnh Tiền Giang",105.986105,10.361211,Cũ
+141,275F01,(BTE) Mỏ Cày Bắc,Bến Tre,Huyện Mỏ Cày Bắc,"Ấp Thanh Bắc , Xã Tân Thanh Tây, Huyện Mỏ Cày Bắc, Bến Tre",106.268302,10.176293,Cũ
+142,275G01,(BTE) Chợ Lách,Bến Tre,Huyện Chợ Lách,"Khu phố 1, TT Chợ Lách, H. Chợ Lách, T. Bến Tre",106.121862,10.257022,Cũ
+143,294H01,(TVH) Cầu Kè,Trà Vinh,Huyện Cầu Kè,"Đường Lê Văn Tám, khóm 1, thị trấn Cầu Kè, Cầu Kè, Trà Vinh",106.064095,9.869909,Cũ
+144,270D02,(VLG) Quốc Lộ 53,Vĩnh Long,Huyện Long Hồ,"190B/11 Ấp Long Thuận A, xã Long Phước, huyện Long Hồ, Vĩnh Long",105.990738,10.225056,Cũ
+145,270F01,(VLG) Bình Tân,Vĩnh Long,Huyện Bình Tân,"Tổ 19 khóm Thành Quới, Thị Trấn Tân Quới, huyện Bình Tân, tỉnh Vĩnh Long",105.759937,10.104996,Cũ
+146,273F03,(TGG) An Thái Trung,Tiền Giang,Huyện Cái Bè,"Ấp 1, An Thái Trung, Huyện Cái Bè, Tỉnh Tiền Giang",105.890651,10.316779,Cũ
+147,294G01,(TVH) Cầu Ngang,Trà Vinh,Huyện Cầu Ngang,"Số 56, Đường 3/2, khóm thống Nhất, Thị Trấn Cầu Ngang, Huyện Cầu Ngang, Trà Vinh",106.45272,9.808409,Cũ
+148,294A01,(TVH)Tp.Trà Vinh,Trà Vinh,Thành phố Trà Vinh,"27 Quang Trung, Khóm 5, Phường 4, Thành phố Trà Vinh, Trà Vinh",106.344445,9.942287,Cũ
+149,270D01,(VLG) Long Hồ,Vĩnh Long,Huyện Long Hồ,"Ấp Phú Long, Xã Phú Quới, huyện Long Hồ, Vĩnh Long",105.924763,10.160989,Cũ
+150,294A02,(TVH) Nguyễn Thị Minh Khai,Trà Vinh,Thành phố Trà Vinh,"Khóm 8, phường 7, TP. Trà Vinh, tỉnh Trà Vinh",106.329643,9.934658,Cũ
+151,294B01,(TVH)Duyên Hải,Trà Vinh,Thị xã Duyên Hải,"Khóm 2 Phường 1, thị xã Duyên Hải, tỉnh Trà Vinh",106.491933,9.634407,Cũ
+152,294C01,(TVH)Tiểu Cần,Trà Vinh,Huyện Tiểu Cần,"Khóm 1, thị trấn Tiểu Cần, huyện Tiểu Cần, tỉnh Trà Vinh",106.188203,9.811867,Cũ
+153,270A03,(VLG) Trường An,Vĩnh Long,Thành phố Vĩnh Long,"47F khóm Tân Quới Đông, phường Trường An, TP. Vĩnh Long, tỉnh Vĩnh Long",105.934945,10.263318,Cũ
+154,275I01,(BTE) Thạnh Phú,Bến Tre,Huyện Thạnh Phú,"Thị trấn Thạnh Phú, Huyện Thạnh Phú, Tỉnh Bến Tre",106.5222333,9.9512166,Cũ
+155,294F01,(TVH) Càng Long,Trà Vinh,Huyện Càng Long,"192,Quốc lộ 53,Khóm 3,Thị trấn Càng Long,Huyện Càng Long,Tỉnh Trà Vinh",106.205303,10.000499,Cũ
+156,270G01,(VLG) Mang Thít,Vĩnh Long,Huyện Mang Thít,"Đường 30/4 khóm 2 thị trấn Cái Nhum, huyện Mang Thít, Vĩnh Long",106.105978,10.17527,Cũ
+157,294D01,(TVH) Trà Cú,Trà Vinh,Huyện Trà Cú,"Đường 3/2, khóm 2, thị trấn Trà Cú, huyện Trà Cú, tỉnh Trà Vinh",106.26015,9.687278,Cũ
+158,294E01,(TVH) Châu Thành,Trà Vinh,Huyện Châu Thành(TV),"304 Đường 2/9, TT. Châu Thành, Huyện Châu Thành, Tỉnh Trà Vinh",106.347626,9.870563,Cũ
+159,273F01,(TGG) Cái Bè,Tiền Giang,Huyện Cái Bè,"447, tổ 10, QL1A, Xã An Cư, huyện Cái Bè, Tỉnh Tiền Giang",106.034329,10.367862,Cũ
+160,270A01,(VLG) TP Vĩnh Long,Vĩnh Long,Thành phố Vĩnh Long,"184 Trần Đại Nghĩa, Phường 4, Thành phố Vĩnh Long, Vĩnh Long",105.981921,10.239471,Cũ
+161,270B01,(VLG) Vũng Liêm,Vĩnh Long,Huyện Vũng Liêm,"Tổ 1, ấp Trung Tín, thị trấn Vũng Liêm, huyện Vũng Liêm, Tỉnh Vĩnh Long",106.182034,10.095159,Cũ
+162,270E01,(VLG) Trà Ôn,Vĩnh Long,Huyện Trà Ôn,"Số 120 Đường 30/4, Khu 6, Thị trấn Trà Ôn, Huyện Trà Ôn, Vĩnh Long",105.927138,9.968517,Cũ
+163,233A01,(QTI)Lê Duẩn,Quảng Trị,Thành phố Đông Hà,95 Lê Duẩn-Phường 2-TP Đông Hà- Tỉnh Quảng Trị,107.091286,16.834229,Cũ
+164,233C01,(QTI)TT Cam Lộ,Quảng Trị,Huyện Cam Lộ,120 đường 2/4 - TT Cam Lộ- Huyện Cam Lộ-Tỉnh Quảng Trị,107.004002,16.802316,Cũ
+165,215D01,(ĐBN) Mường Ảng,Điện Biên,Huyện Mường Ảng,"Tổ dân số Khu 3, Thị trấn Mường Ảng, Huyện Mường Ảng, Điện Biên",103.217066,21.51914,Cũ
+166,215C01,(ĐBN) Tuần Giáo,Điện Biên,Huyện Tuần Giáo,"149 khối Trường Xuân,Thị trấn Tuần Giáo, Huyện Tuần Giáo, Điện Biên",103.420458,21.588271,Cũ
+167,215E01,(ĐBN) Tủa Chùa,Điện Biên,Huyện Tủa Chùa,"Khu Đoàn Kết, TT.Tủa Chùa, H.Tủa Chùa, Điện Biên",103.33479,21.858391,Cũ
+168,212K01,(SLA) Vân Hồ,Sơn La,Huyện Vân Hồ,"Bản Bó Nhàng 2,  xã Vân Hồ, huyện Vân Hồ, tỉnh Sơn La",104.756403,20.781003,Cũ
+169,212G01,(SLA) Yên Châu,Sơn La,Huyện Yên Châu,"Số 158 Đường 8/5, Tiểu khu 4, TT.Yên Châu, H. Yên Châu, T. Sơn La",104.304668,21.0486,Cũ
+170,206A01,(TPC) Sông Bằng,Cao Bằng,Thành phố Cao Bằng,"Tổ 7 Phường Sông Hiến, Thành phố Cao Bằng, Cao Bằng",106.2672313,22.6559543,Cũ
+171,206J01,(TPC) Tà Lùng,Cao Bằng,Huyện Quảng Hòa,"TDP Tân Thịnh, Thị trấn Tà Lùng, Huyện Quảng Hòa, Cao Bằng",106.5816263,22.4743475,Cũ
+172,206F01,(TPC) Trà Lĩnh,Cao Bằng,Huyện Trùng Khánh,"Tổ dân phố 2, Thị trấn Trà Lĩnh, Huyện Trùng Khánh, Cao Bằng",106.3238557,22.8259595,Cũ
+173,204D02,(BGG) Bố Hạ,Bắc Giang,Huyện Yên Thế,"Thôn Đồng Quán, Thị trấn Bố Hạ, Huyện Yên Thế, Bắc Giang",106.189414,21.446926,Cũ
+174,275H01,(BTE) Giồng Trôm,Bến Tre,Huyện Giồng Trôm,"ấp Kinh Ngoài, xã Bình Hòa, huyện Giồng Trôm, T. Bến Tre",106.491914,10.172088,Cũ
+175,275C02,(BTE) Tiên Thủy,Bến Tre,Huyện Châu Thành(BT),"152 Ấp Chánh, xã Tiên Thủy, huyện Châu Thành, tỉnh Bến Tre",106.243578,10.272635,Cũ
+176,275C01,(BTE) Châu Thành,Bến Tre,Huyện Châu Thành(BT),"Ấp 2, Xã Quới Sơn, Huyện Châu Thành, Bến Tre",106.381345,10.307087,Cũ
+177,275E02,(BTE) Thới Lai,Bến Tre,Huyện Bình Đại,"Ấp Chợ, xã Thới Lai, huyện Bình Đại, tỉnh Bến Tre",106.538745,10.233089,Cũ
+178,275E01,(BTE) Bình Đại,Bến Tre,Huyện Bình Đại,"38C thị trấn Bình Đại, huyện Bình Đại, Bến Tre",106.693063,10.188766,Cũ
+179,275H02,(BTE) Phước Long,Bến Tre,Huyện Giồng Trôm,"Ấp 7, Xã Phước Long, huyện Giồng Trôm, tỉnh Bến Tre",106.406596,10.169128,Cũ
+180,275D01,(BTE) Ba Tri,Bến Tre,Huyện Ba Tri,"369/AH ấp An Hoà, xã An Bình Tây, huyện Ba Tri",106.58202,10.047953,Cũ
+181,275D02,(BTE) Tân Xuân,Bến Tre,Huyện Ba Tri,"Ấp Tân Thị, Xã Tân Xuân, Huyện Ba Tri, Bến Tre",106.62673,10.120604,Cũ
+182,273I01,(TGG) Tân Phú Đông,Tiền Giang,Huyện Tân Phú Đông,"ấp Kinh Nhiếm, xã Phú Thạnh, huyện Tân Phú Đông, tỉnh Tiền Giang",106.650374,10.266313,Cũ
+183,273E02,(TGG) Hai Bà Trưng,Tiền Giang,Huyện Gò Công Đông,"Ấp Giá Trên, Xã Kiểng Phước, huyện Gò Công Đông, tỉnh Tiền Giang",106.737967,10.391312,Cũ
+184,273E01,(TGG)Gò Công,Tiền Giang,Thị xã Gò Công,"Ấp Hưng Hòa, Xã Long Hưng, Thị xã Gò Công, Tiền Giang",106.682411,10.377843,Cũ
+185,273H01,(TGG) Tân Phước,Tiền Giang,Huyện Tân Phước,"Khu 1, thị trấn Mỹ Phước, huyện Tân Phước, tỉnh Tiền Giang",106.195723,10.47433,Cũ
+186,273D02,(TGG) Long Định,Tiền Giang,Huyện Châu Thành(TG),"Tổ 15, ấp Mới, Long Định, Châu Thành, Tiền Giang",106.2540794,10.4030135,Cũ
+187,273D03,(TGG) Tân Hương,Tiền Giang,Huyện Châu Thành(TG),"Ấp Tân Phú, Xã Tân Hương, Huyện Châu Thành, Tiền Giang",106.365993,10.481308,Cũ
+188,273D01,(TGG)Châu Thành,Tiền Giang,Huyện Châu Thành(TG),"Ấp Ngãi Lợi, Xã Thân Cữu Nghĩa, Huyện Châu Thành, Tiền Giang",106.334563,10.423107,Cũ
+189,273C01,(TGG)Chợ Gạo,Tiền Giang,Huyện Chợ Gạo,"Ấp Bình Thọ Đông, Xã Bình Phan, Huyện Chợ Gạo, Tiền Giang",106.485125,10.35004,Cũ
+190,273B01,(TGG) Cai Lậy,Tiền Giang,Huyện Cai Lậy,"Ấp Bình Tịnh, Xã Bình Phú, Cai Lậy",106.074359,10.416373,Cũ
+191,296H01,(AGG) Tân Châu,An Giang,Thị xã Tân Châu,"Số nhà 101 Trần Hưng Đạo, Phường Long Thạnh, TX Tân Châu, An Giang",105.24838,10.799653,Cũ
+107,024Z02,(HNI) Thắng Lợi,Hà Nội,Huyện Thường Tín,"Số nhà 93 phố Quán Chè, Xã Thắng Lợi, Huyện Thường Tín, Hà Nội",105.883699,20.819989,Cũ
+193,277H01,(ĐTP)Sa Đéc,Đồng Tháp,Thành phố Sa Đéc,"Ấp Phú Thuận, Xã Tân Phú Đông, Thành phố Sa Đéc, Đồng Tháp",105.759415,10.283935,Cũ
+194,220E01,(HDG) Thanh Hà,Hải Dương,Huyện Thanh Hà,"Đường 25.5, Khu 1, Thị trấn Thanh Hà, Huyện Thanh Hà, Hải Dương",106.429083,20.897333,Cũ
+195,219D01,(HGG) Yên Minh,Hà Giang,Huyện Yên Minh,"Tổ 2, Thị trấn Yến Minh, Huyện Yên Minh, Hà Giang",105.1354048,23.1199747,Cũ
+196,297L02,(KGG)Cách Mạng Tháng 8,Kiên Giang,Thành phố Rạch Giá,"Số 27 Cách Mạng Tháng Tám, Phường Vĩnh Lợi, Thành Phố Rạch Giá, Tỉnh Kiên Giang",105.122683,9.955908,Cũ
+197,262G01,(ĐLK) Hùng Vương,Đắk Lắk,Huyện Krông Năng,"168 Hùng Vương, TT Krông Năng, Huyện Krông Năng, Đăk Lăk",108.343275,12.951424,Cũ
+198,262B01,(ĐLK)Buôn Hồ,Đắk Lắk,Thị xã Buôn Hồ,"821 Hùng Vương, P Thiện An, TX Buôn Hồ, Đắk Lắk",108.265437,12.903558,Cũ
+199,262N01,(ĐLK) Krông Buk,Đắk Lắk,Huyện Krông Búk,"xóm 3, thôn 12, xã Pơng Đrang, huyện krông Buk, tỉnh đăk Lăk",108.243117,12.970448,Cũ
+200,262I01,(ĐLK) EA H Leo,Đắk Lắk,Huyện Ea Hleo,"563 Giải Phóng, TT Ea Drăng, Huyện Ea Hleo, Đăk Lăk",108.207088,13.204842,Cũ
+201,263C01,(LĐG)Bảo Lâm,Lâm Đồng,Huyện Bảo Lâm(LĐ),"52 Hùng Vương, Thị trấn Lộc Thắng, Huyện Bảo Lâm, Lâm Đồng",107.839737,11.624957,Cũ
+202,297C01,(KGG) Châu Thành,Kiên Giang,Huyện Châu Thành(KG),"Khu Phố Minh An, Thị Trấn Minh Lương, Huyện Châu Thành, Tỉnh Kiên Giang",105.1622109,9.8997033,Cũ
+203,297C02,(KGG) Châu Thành 2,Kiên Giang,Huyện Châu Thành(KG),"Ấp Hòa Lộc, Xã Thạnh Lộc, Huyện Châu Thành, Kiên Giang",105.137196,9.9856838,Cũ
+204,228G01,(NĐH) Vụ Bản,Nam Định,Huyện Vụ Bản,"Xã Liên Minh, Huyện Vụ Bản, Nam Định",106.09653,20.34035,Cũ
+205,225J02,(HPG) Chiến Lược,Hải Phòng,Huyện Vĩnh Bảo,"Thôn Lôi Trạch, Xã Hòa Bình, Huyện Vĩnh Bảo, Hải Phòng",106.548663,20.651545,Cũ
+206,221G04,(HYN) Liêu Xá,Hưng Yên,Huyện Yên Mỹ,"Liêu Thượng, Xã Liêu Xá, Huyện Yên Mỹ, Hưng Yên",106.057892,20.91852,Cũ
+207,256A05,(BĐH) Nguyễn Thái Học,Bình Định,Thành phố Qui Nhơn,"91A Đống Đa, Phường Thị Nại, Thành Phố Quy Nhơn, Bình Định",109.223214,13.784128,Cũ
+208,236X01,(ĐNG) DC1 Cẩm Lệ,Đà Nẵng,Quận Cẩm Lệ,"117 Cách Mạng Tháng Tám, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng",108.2121184,16.02085242,Cũ
+209,221A01,(HYN) Yên Mỹ,Hưng Yên,Huyện Yên Mỹ,"Thôn Thư Thị, Xã Tân Lập, Huyện Yên Mỹ, Hưng Yên",106.04366,20.895412,Cũ
+210,221A03,(HYN) Trung Hưng,Hưng Yên,Huyện Yên Mỹ,"Thôn Đạo Khê, Xã Trung Hưng, Huyện Yên Mỹ , Tỉnh Hưng Yên",106.029025,20.867883,Cũ
+211,236A07,(ĐNG) VIP Điện Biên Phủ,Đà Nẵng,Quận Thanh Khê,"691 Điện Biên Phủ, Phường An Khê, Quận Thanh Khê, Đà Nẵng",108.1803887,16.0629864,Cũ
+212,221A02,(HYN) Giai Phạm,Hưng Yên,Huyện Yên Mỹ,"Thôn Yên Phú, Xã Giai Phạm, Huyện Yên Mỹ, Hưng Yên",106.03096,20.9402,Cũ
+213,204A03,(BGG) 522 Lê Lợi,Bắc Giang,Thành phố Bắc Giang,"373 Giáp Hải, Phường Dĩnh Kế, Thành Phố Bắc Giang, Bắc Giang",106.22325,21.285046,Cũ
+214,258A04,(KHH) Bắc 2-4,Khánh Hòa,Thành phố Nha Trang,"230 Điện Biên Phủ, phường Vĩnh Hòa, Tp Nha Trang, Khánh Hòa",109.191252,12.288339,Cũ
+215,236E02,(ĐNG) Ngô Quyền,Đà Nẵng,Quận Sơn Trà,"423-425 Ngô Quyền, phường An Hải Bắc, Quận Sơn Trà, TP Đà Nẵng",108.2364197,16.08216767,Cũ
+216,236F02,(ĐNG)Lê Văn Hiến,Đà Nẵng,Quận Ngũ Hành Sơn,"606 Lê Văn Hiến, Phường Hòa Hải, Quận Ngũ Hành Sơn, TP.Đà Nẵng",108.2581135,16.00752479,Cũ
+217,028J07,(HCM) Hòa Hảo,Hồ Chí Minh,Quận 10,"421 Hòa Hảo, Phường 5, Quận 10, TPHCM",106.666644,10.761411,Cũ
+218,028J05,(HCM) Lý Thường Kiệt,Hồ Chí Minh,Quận 10,"451/6/16 Tô Hiến Thành, P14, Q10, Tp Hồ Chí Minh",106.66252,10.773701,Cũ
+219,028C03,(HCM) Quận 3,Hồ Chí Minh,Quận 3,"198 Lý Thái Tổ, Phường 1, Quận 3, TP.Hồ Chí Minh",106.6776431,10.76684944,Cũ
+220,028J08,(HCM) Bà Hạt,Hồ Chí Minh,Quận 10,"206 Bà Hạt, Phường 9, Quận 10, TPHCM",106.670514,10.766643,Cũ
+572,024M03,(HNI) Thường Tín,Hà Nội,Huyện Thường Tín,"Số nhà 110, QL1A Xóm 3, thôn Văn Giáp, xã Văn Bình, huyện Thường Tín, TP. Hà Nội",105.8602734,20.8803049,Cũ
+222,256A06,(BĐH) Hai Bà Trưng,Bình Định,Thành phố Qui Nhơn,"122 Hai Bà Trưng, Lê Lợi, Quy Nhơn, Bình Định",109.229961,13.772181,Cũ
+223,221C02,(HYN) Khoái Châu,Hưng Yên,Huyện Khoái Châu,"Số 65 Đường Sài Thị, Thị Trấn Khoái Châu, Huyện Khoái Châu, Tỉnh Hưng Yên",105.977314,20.840776,Cũ
+224,028H02,(HCM)Tùng Thiện Vương,Hồ Chí Minh,Quận 8,"540 đường Hưng Phú, Phường 9, Quận 8, TP. Hồ Chí Minh",106.656801,10.744726,Cũ
+225,263B02,(LĐG) La Sơn Phu Tử,Lâm Đồng,Thành phố Đà Lạt,"17 Tô Hiệu, Phường 8, Thành phố Đà Lạt, Lâm Đồng",108.4366675,11.96929771,Cũ
+226,207G02,(TQG) Sơn Nam,Tuyên Quang,Huyện Sơn Dương,"Thôn Quyết Thắng
+,xã Sơn Nam,Huyện sơn Dương Tỉnh Tuyen Quang",105.462088,21.554505,Cũ
+227,203C03,(QNH) Móng Cái,Quảng Ninh,Thành phố Móng Cái,690 Đường Hùng Vương-Hải Yên-T.P Móng Cái,107.941752,21.539916,Cũ
+228,277A01,(ĐTP) Nguyễn Trãi,Đồng Tháp,Thành phố Cao Lãnh,"558 Nguyễn Thái Học, P.Hoà Thuận, Tp.Cao Lãnh, Đồng Tháp",105.626705,10.465306,Cũ
+229,263B05,(LĐG) Ngô Quyền,Lâm Đồng,Thành phố Đà Lạt,"52 Lê Thánh Tôn, Phường 6, Thành Phố Đà Lạt, Lâm Đồng",108.4273808,11.9466402,Cũ
+100,024Y01,(HNI)Vân Đình,Hà Nội,Huyện Ứng Hòa,"Đội 1 Thôn Thái Bình, xã Vạn Thái, huyện Ứng Hòa, TP Hà Nội",105.7707173,20.73600566,Cũ
+421,024D06,(HNI) Thành Công,Hà Nội,Quận Ba Đình,"Số 629 đường La Thành, phường Thành Công, quận Ba Đình, Hà Nội",105.8153281,21.0238452,Cũ
+232,225C01,(HPG)Nguyễn Đức Cảnh,Hải Phòng,Huyện An Dương,"379 Tôn Đức Thắng, Xã An Đồng, Huyện An Dương, Hải Phòng",106.65767,20.85051,Cũ
+233,269A03,(GLI)06 Lý Thái Tổ,Gia Lai,Thành phố Pleiku,"08 Lê Thánh Tôn, Phường Ia Kring, Tp Pleiku, Gia Lai",107.99341,13.973352,Cũ
+234,269A04,(GLI) GiaLai KD,Gia Lai,Thành phố Pleiku,"269 Trường Trinh, phường Trà Bá , TP. PleiKu, Gia Lai",108.016033,13.959123,Cũ
+235,269K01,(GLI) Mang Yang,Gia Lai,Huyện Mang Yang,"240 Trần Hưng Đạo , thị trấn Kon Dơng, huyện Mang Yang,  tỉnh Gia Lai",108.256103,14.042932,Cũ
+236,269B01,(GLI)Đăk Đoa,Gia Lai,Huyện Đắk Đoa,"371 Nguyễn Huệ, Thị trấn Đăk Đoa, Huyện Đăk Đoa, Gia lai",108.1172231,13.99590648,Cũ
+237,297L06,(KGG) Kiên Hải,Kiên Giang,Thành phố Rạch Giá,"65 Nguyễn Thượng Hiền, phường Vĩnh Thanh Vân, Rạch Giá, Kiên Giang",105.080345,10.008642,Cũ
+238,238D01,(NAA)Yên Thành,Nghệ An,Huyện Yên Thành,"Xóm 8, Xã Tăng Thành, Huyện Yên Thành, Nghệ An",105.461558,18.99467,Cũ
+239,238K02,(NAA) Nghi Lộc 2,Nghệ An,Huyện Nghi Lộc,"Xóm 11 Xã Nghi Mỹ, huyện Nghi Lộc, tỉnh Nghệ An",105.560525,18.819953,Cũ
+240,237X01,(THA) Nga Sơn,Thanh Hóa,Huyện Nga Sơn,"Số nhà 176 tiểu khu 1. Thị trấn Nga sơn. Huyện nga sơn,tỉnh Thanh Hoá",105.965,20.009167,Cũ
+241,239L01,(HTH) Thạch Hà,Hà Tĩnh,Huyện Thạch Hà,"233 Quang Trung, Thị trấn Thạch hà, Huyện Thạch hà, Hà Tĩnh",105.86,18.370278,Cũ
+469,024D05,(HNI) Đốc Ngữ,Hà Nội,Quận Ba Đình,"108E3 Vĩnh Phúc, Phường Vĩnh Phúc, Quận Ba Đình, Hà Nội",105.8098347,21.0428031,Cũ
+1081,024D07,(HNI) Đội Cấn,Hà Nội,Quận Ba Đình,"Số 93 Đội Cấn, phường Đội Cấn, quận Ba Đình, thành phố Hà Nội",105.8293264,21.03463031,Cũ
+244,225L01,(HPG) Thị trấn An Dương,Hải Phòng,Huyện An Dương,"Đường Máng, Vĩnh Khê, An Dồng, An Dương, Hải Phòng",106.64123,20.85826,Cũ
+245,227G03,(TBH) Song An,Thái Bình,Huyện Vũ Thư,"Thôn Đông Tiến, Xã Vũ Tiến, Huyện Vũ Thư, Thái Bình",106.301279,20.371724,Cũ
+246,227G02,(TBH) Vũ Thư 2,Thái Bình,Huyện Vũ Thư,"Thị Tứ Tân Lập, xã Tân Lập, huyện Vũ Thư, tỉnh Thái Bình",106.2300407,20.4385649,Cũ
+247,263A01,(LĐG) Lộc Tiến - Bảo Lộc,Lâm Đồng,Thành phố Bảo Lộc,"52 Nguyễn Tri Phương, Lộc Tiến, Thành phố Bảo Lộc, Lâm Đồng",107.78783,11.544064,Cũ
+248,255G01,(QNI) Lý Sơn,Quảng Ngãi,Huyện Lý Sơn,"Xã An Hải, Huyện Lý Sơn, Tỉnh Quảng Ngãi",109.1267004,15.3751922,Cũ
+249,220E02,(HDG) Thanh Cường,Hải Dương,Huyện Thanh Hà,"Thôn Hào Xã, Xã Thanh Xá, Huyện Thanh Hà, Hải Dương",106.443225,20.89032,Cũ
+250,225L03,(HPG) Nam Sơn,Hải Phòng,Huyện An Dương,"Số 122 Cách Thượng, xã Nam Sơn, huyện An Dương, TP Hải Phòng",106.601617,20.88097,Cũ
+251,228B01,(NĐH) Hải Hậu,Nam Định,Huyện Hải Hậu,"Tổ dân phố số 3, Thị trấn Yên Định, Huyện Hải Hậu, Nam Định",106.29261,20.19108,Cũ
+252,255F01,(QNI) Mộ Đức,Quảng Ngãi,Huyện Mộ Đức,"Thôn Phước Thịnh, xã Đức Thạnh, huyện Mộ Đức, tỉnh Quảng Ngãi",108.877834,14.984806,Cũ
+1082,024D04,(HNI) Nguyễn Chí Thanh,Hà Nội,Quận Ba Đình,"Số 110B2 đường Nguyễn Chí Thanh, phường Ngọc Khánh, quận Ba Đình, thành phố Hà Nội",105.8125851,21.02809895,Cũ
+254,210G01,(PTO)Phù Ninh,Phú Thọ,Huyện Phù Ninh,"Số nhà 581 đường Chi Lăng, Thị trấn Phong Châu, Huyện Phù Ninh, Phú Thọ",105.31437,21.40453,Cũ
+255,203I02,(QNH) Đầm Hà,Quảng Ninh,Huyện Đầm Hà,"244 Hoàng Văn Thụ, Thị trấn Đầm Hà, Huyện Đầm Hà, Quảng Ninh",107.5889587,21.35502972,Cũ
+256,263H01,(LĐG) Lâm Hà,Lâm Đồng,Huyện Lâm Hà,"Khu đô thị mới Trung tâm thương mại, TT Đinh Văn, Huyện Lâm Hà, Lâm Đồng",108.246018,11.789332,Cũ
+257,291A02,(BLU) Tỉnh lộ 38,Bạc Liêu,Thành phố Bạc Liêu,"Đường Ninh Bình, khóm 3, Phường 2, Thành phố 
+Bạc Liêu, Bạc Liêu",105.727657,9.268533,Cũ
+258,239E01,(HTH)Tân Thọ,Hà Tĩnh,Thị xã Kỳ Anh,"622 Lê Đại Hành tdp Hưng Bình, Phường Sông Trí, Thị xã Kỳ Anh, Hà Tĩnh",106.286444,18.082256,Cũ
+259,239E02,(HTH) Kỳ Anh 2,Hà Tĩnh,Huyện Kỳ Anh,"Thôn Tân Giang, xã Kỳ Giang, Huyện Kỳ Anh, Hà Tĩnh",106.21895,18.17341,Cũ
+260,239F01,(HTH) Kỳ Liên,Hà Tĩnh,Thị xã Kỳ Anh,"537 Lê Thái Tổ, Tổ dân Phố Long Sơn, Phường kỳ Long, Thị Xã Kỳ Anh, Hà Tĩnh",106.39584,18.032,Cũ
+261,297N01,(KGG) U Minh Thượng,Kiên Giang,Huyện U Minh Thượng,"Tổ 5 Ấp Đặng Văn Do, xã Thạnh Yên, huyện U Minh Thượng, tỉnh Kiên Giang",105.130759,9.665722,Cũ
+262,272C01,(LAN) Cần Giuộc,Long An,Huyện Cần Giuộc,"Số 250, tổ 8, ấp Phước hưng, xã Phước Lâm, Huyện Cần Giuộc, Long An",106.5988287,10.60118052,Cũ
+263,227C01,(TBH) Kiến Xương,Thái Bình,Huyện Kiến Xương,"Tổ dân phố Cộng Hòa, TT.Kiến Xương, Huyện Kiến Xương, Thái Bình",106.4372,20.38898,Cũ
+264,226B02,(HNM) Phủ Lý 2,Hà Nam,Thành phố Phủ Lý,"Tổ dân phố Mễ Nội, phường Liêm Chính, thành phố Phủ Lý, Hà Nam",105.927406,20.537708,Cũ
+265,225L05,(HPG) Hồng Phong,Hải Phòng,Huyện An Dương,"Thôn Đình Ngọ, Xã Hồng Phong, Huyện An dương, Thành Phố Hải Phòng",106.563644,20.872429,Cũ
+266,228I01,(NĐH) Ý Yên,Nam Định,Huyện Ý Yên,"Tỉnh lộ 485, Xã Yên Bình, Huyện Ý Yên, Nam Định",105.995642,20.35879,Cũ
+267,221I02,(HYN) Cửu Cao,Hưng Yên,Huyện Văn Giang,"Thôn Vàng, xã Cửu Cao, huyện Văn Giang, tỉnh Hưng Yên",105.953023,20.959412,Cũ
+268,028R01,(HCM)Lê Thị Hà,Hồ Chí Minh,Huyện Hóc Môn,"263 Tô Ký, Xã Tân Xuân, Huyện Hóc Môn, Hồ Chí Minh",106.5982856,10.88771602,Cũ
+269,272E02,(LAN) Đức Hòa 2,Long An,Huyện Đức Hòa,"Ấp Chánh, Xã Đức Lập Hạ, Huyện Đức Hòa, Long An",106.429695,10.89372,Cũ
+270,238A09,(NAA) Trường Chinh,Nghệ An,Thành phố Vinh,"22 Tô Hiến Thành, Phường Quang Trung, TP Vinh, Nghệ An",105.669667,18.667333,Cũ
+271,238A06,(NAA) Nguyễn Văn Cừ,Nghệ An,Thành phố Vinh,"47A Đốc Thiết, phường Hưng Bình, TP Vinh Nghệ An",105.6788789,18.683267,Cũ
+272,208I01,(TNN) Đại Từ,Thái Nguyên,Huyện Đại Từ,"Phố chợ 2, Thị Trấn Hùng Sơn, Huyện Đại Từ, Thái Nguyên",105.7369013,21.673244,Cũ
+273,238A05,(NAA)Nguyễn Du,Nghệ An,Thành phố Vinh,"số 28 đường Ngô Sỹ Liên, Phường Trường Thi, Tp Vinh, Nghệ An",105.696875,18.656465,Cũ
+274,238S01,(NAA) Quế Phong,Nghệ An,Huyện Quế Phong,"Khối Bản Bon, Thị Trấn Kim Sơn, Quế Phong, Nghệ An",104.926389,19.615556,Cũ
+275,238K01,(NAA) Nghi Lộc,Nghệ An,Huyện Nghi Lộc,"Khối 2, Thị trấn Quán Hành, Huyện Nghi Lộc, Nghệ An",105.6475,18.786389,Cũ
+1083,024D01,(HNI)Vĩnh Phúc,Hà Nội,Quận Ba Đình,"Số 1, Ngõ 254 Đường Bưởi, Phường Cống Vị, Quận Ba Đình, Hà Nội",105.8076679,21.03624379,Cũ
+892,024H01,(HNI)Cầu Diễn,Hà Nội,Quận Bắc Từ Liêm,"số 51 đường văn tiến dũng, phường Phúc Diễn, quận Bắc Từ Liêm, Hà Nội",105.748786,21.049506,Cũ
+278,256F04,(BĐH) Phước Sơn,Bình Định,Huyện Tuy Phước,"Thôn Phụng Sơn, Xã Phước Sơn, Huyện Tuy Phước, Bình Định",109.187389,13.858389,Cũ
+279,256F01,(BĐH) Tuy Phước,Bình Định,Huyện Tuy Phước,"129 Đào Tấn, Thị trấn Tuy Phước, Huyện Tuy Phước, Tỉnh Bình Định",109.16702,13.82615,Cũ
+280,272E05,(LAN) Đức Hòa 5,Long An,Huyện Đức Hòa,"Ấp Chánh Hội, Xã Tân Mỹ, Huyện Đức Hòa, Tỉnh Long An",106.363844,10.943243,Cũ
+281,272E01,(LAN) Đức Hòa,Long An,Huyện Đức Hòa,"Đường 16A, KDC Tân Đức, Ấp Bình Tiền 1, Xã Đức Hòa Hạ, Huyện Đức Hòa, Long An",106.4603152,10.80345304,Cũ
+282,272A03,(LAN) Bến Lức 3,Long An,Huyện Bến Lức,"Ấp 7  xã Lương Hòa, Huyện Bến Lức, Tỉnh Long An",106.444062,10.714247,Cũ
+283,263D02,(LĐG) Đinh Trang Hòa,Lâm Đồng,Huyện Bảo Lâm(LĐ),"Thôn 8, Xã Lộc An, Huyện Bảo Lâm , Lâm Đồng",107.882766,11.534333,Cũ
+284,210A04,(PTO)Nông Trang,Phú Thọ,Thành phố Việt Trì,"Khu đô thị Minh Phuong, Phường Minh Phương, TP Việt Trì, Phú Thọ",105.373536,21.331396,Cũ
+285,256B02,(BĐH) Tam Quan,Bình Định,Thị xã Hoài Nhơn,"185 đường 3/2, Phường Tam Quan, Thị xã Hoài Nhơn, Bình Định",109.0431317,14.55357295,Cũ
+286,235J01,(QNM)Vĩnh Điện,Quảng Nam,Thị xã Điện Bàn,"337 Trần Thủ Độ, Phường Điện Nam Bắc, Thị xã Điện Bàn, Quảng Nam",108.2594,15.926023,Cũ
+287,238C01,(NAA)Diễn Châu,Nghệ An,Huyện Diễn Châu,"Khối 5, Thị trấn Diễn Châu, Huyện Diễn Châu, Nghệ An",105.601044,18.97365,Cũ
+288,263A04,(LĐG) Lý Thường Kiệt,Lâm Đồng,Thành phố Bảo Lộc,"99 Lý Thường Kiệt, Phường 1, TP. Bảo Lộc, Lâm Đồng",107.811254,11.560519,Cũ
+289,028S08,(HCM) Hồng Hà,Hồ Chí Minh,Quận Phú Nhuận,"184 Hồng Hà, P.9, Q. Phú Nhuận, Tp.HCM",106.6757427,10.80844132,Cũ
+945,024H02,(HNI)Thụy Phương,Hà Nội,Quận Bắc Từ Liêm,"Số 10 TDP Đông Ngạc 7, Phường Đông Ngạc, Bắc Từ Liêm, Hà Nội",105.7773197,21.09194894,Cũ
+946,024H07,(HNI) Giao Lưu,Hà Nội,Quận Bắc Từ Liêm,"số 72 đường tăng thiết giáp, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",105.7803123,21.05760237,Cũ
+1063,024H03,(HNI)Cổ NHUE,Hà Nội,Quận Bắc Từ Liêm,"315 Phạm Văn Đồng, Phường Xuân Đỉnh, Bắc Từ Liêm, Hà Nội",105.7857892,21.0712671,Cũ
+1067,024H09,(HNI) Phúc Diễn,Hà Nội,Quận Bắc Từ Liêm,"Số nhà 57 Cầu Diễn, phường Phúc Diễn, quận Bắc Từ Liêm, thành phố Hà Nội",105.7524729,21.04464418,Cũ
+294,218A01,(HBH)HBH,Hòa Bình,Thành phố Hòa Bình,"75 Trần Hưng Đạo, Tổ 11, Phường Đồng Tiến, Thành phố Hòa Bình, Hòa Bình",105.3524906,20.82256049,Cũ
+295,215A01,(ĐBN) Điện Biên,Điện Biên,Thành phố Điện Biên Phủ,"số 20, tổ 9, Phường Mường Thanh, Thành phố Điện Biên Phủ, Điện Biên",103.017961,21.384857,Cũ
+296,216A03,(YBI) Hợp Minh,Yên Bái,Thành phố Yên Bái,"225 Hoàng Hoa Thám, phường Nguyễn Thái Học, thành phố Yên Bái, Yên Bái",104.8960718,21.6980262,Cũ
+297,218B02,(HBH) Thanh Hà,Hòa Bình,Huyện Lạc Thủy,"Xóm Đồng Danh, Xã phú Thành, huyện Lạc Thủy, Hoà Bình",105.704333,20.572389,Cũ
+298,216A01,(YBI) Yên Bái,Yên Bái,Thành phố Yên Bái,"35 Lý Thường Kiệt, Phường Nguyễn Thái Học, Thành phố Yên Bái, Yên Bái",104.88065,21.71475,Cũ
+1068,024H04,(HNI) Đức Thắng,Hà Nội,Quận Bắc Từ Liêm,"số 72 đường tăng thiết giáp, Phường Cổ Nhuế 2, Quận Bắc Từ Liêm, Hà Nội",105.7803123,21.05760237,Cũ
+1092,024H05,(HNI) Phú Diễn,Hà Nội,Quận Bắc Từ Liêm,"Số 1, ngõ 172 đường Phú Diễn, P. Phú Diễn, Q. Bắc Từ Liêm, Tp. Hà Nội",105.763188,21.046874,Cũ
+301,203B03,(QNH) Cửa Ông,Quảng Ninh,Thành phố Cẩm Phả,"Tổ 23 khu 3 Phường Cửa Ông, Thành phố Cẩm Phả, Quảng Ninh",107.3628782,21.0315794,Cũ
+302,258A09,(NTG) Vĩnh Thạnh,Khánh Hòa,Thành phố Nha Trang,"1202 Đ. 23 Tháng 10, Vĩnh Hiệp, Nha Trang, Khánh Hòa, Việt Nam",109.141788,12.257155,Cũ
+303,258A02,(KHH) 23-10,Khánh Hòa,Thành phố Nha Trang,"Căn 105E-CT5, Đường A1, KĐT Vĩnh Điềm Trung, xã Vĩnh Ngọc, Nha Trang, Khánh Hòa",109.165267,12.260406,Cũ
+304,203Q02,(QNH) Nguyễn Văn Cừ,Quảng Ninh,Thành phố Hạ Long,"Số 35 phố Hải Phú, phường Hồng Hải, TP Hạ Long, Quảng Ninh",107.106575,20.948477,Cũ
+305,238D03,(NAA) Viên Thành,Nghệ An,Huyện Yên Thành,"Xóm 6, Xã Viên Thành, Huyện Yên Thành, Nghệ An",105.4881232,18.93131203,Cũ
+306,262A05,(ĐLK)39 Ama Hjao,Đắk Lắk,Thành phố Buôn Ma Thuột,"39 Ama Hjao, P. Tự An, Tp. Buôn Ma Thuột, Đắk Lắk",108.063849,12.690122,Cũ
+307,262C01,(ĐLK)Cư Kuin,Đắk Lắk,Huyện Cư Kuin,"Thôn 8, Xã Ea Tiêu, Huyện Cư Kuin, Đắk Lắk",108.131564,12.612198,Cũ
+308,226C02,(HNM) Chính Lý,Hà Nam,Huyện Lý Nhân,"Thôn 2, xã Chính Lý, huyện Lý Nhân, tỉnh Hà Nam",106.03368,20.56372,Cũ
+309,227D01,(TBH) Tiền Hải,Thái Bình,Huyện Tiền Hải,"Thôn đông, Xã Tây Giang, Huyện Tiền Hải, Thái Bình",106.50081,20.39666,Cũ
+310,216C01,(YBI) Yên Bình,Yên Bái,Huyện Yên Bình,"Tổ 3, Thị trấn Yên Bình, Huyện Yên Bình, Yên Bái",104.956875,21.727056,Cũ
+311,225H05,(HPG) Ngũ Lão,Hải Phòng,Huyện Thủy Nguyên,"Thôn 14, Xã Ngũ Lão, Huyện Thủy Nguyên, Hải Phòng",106.72892,20.942,Cũ
+312,222H05,(BNH) Đại Thượng,Bắc Ninh,Huyện Tiên Du,"Xóm Giai, Xã Đại Đồng, Huyện Tiên Du, Tỉnh Bắc Ninh",105.986,21.08957,Cũ
+313,221B02,(HYN) Quang Trung,Hưng Yên,Thành phố Hưng Yên,"101 Nguyễn Thiện Thuật, Phường Lê Lợi, Thành phố Hưng Yên, Hưng Yên",106.05353,20.64902,Cũ
+314,208D01,(TNN)Phú Bình,Thái Nguyên,Huyện Phú Bình,"Tổ 1, Thị trấn Hương Sơn, Huyện Phú Bình, Thái Nguyên",105.9623389,21.4645245,Cũ
+315,204G01,(BGG) Lục Ngạn,Bắc Giang,Huyện Lục Ngạn,"TDP Trung Nghĩa, Thị trấn Chũ, Huyện Lục Ngạn, Bắc Giang",106.574954,21.3761955,Cũ
+316,204F01,(BGG) Lục Nam,Bắc Giang,Huyện Lục Nam,"138, Làn Hai, Thị trấn Đồi Ngô, Huyện Lục Nam, Bắc Giang",106.390528,21.307,Cũ
+317,208E01,(TNN) Phổ Yên,Thái Nguyên,Thành phố Phổ Yên,"534 Tổ dân phố 2, Phường Ba Hàng, Thành phố Phổ Yên, Thái Nguyên",105.873071,21.413878,Cũ
+318,208A05,(TNN) 58 Quang Trung,Thái Nguyên,Thành phố Thái Nguyên,"Ngõ 422, KDC SỐ 6,Tổ 1 Phường Thịnh Đán, Thành phố Thái Nguyên, Thái Nguyên",105,21.56956419,Cũ
+319,208E03,(TNN) Phổ Yên 2,Thái Nguyên,Thành phố Phổ Yên,"TDP Sơn Trung, Phường Bắc Sơn, Thành phố Phổ Yên, Thái Nguyên",105.7755346,21.4523303,Cũ
+320,208E02,(TNN) KCN Samsung,Thái Nguyên,Thành phố Phổ Yên,"chợ KTX Samsung, Phường Đồng Tiến, TThành phố Phổ Yên, Thái Nguyên",105.8979,21.4209,Cũ
+321,209D01,(TPB) Ngân Sơn,Bắc Kạn,Huyện Ngân Sơn,"Tiểu khu 2 Thị trấn Nà Phặc, huyện Ngân Sơn, tỉnh Bắc Kạn",105.895492,22.378945,Cũ
+322,209H01,(TPB) Na Rì,Bắc Kạn,Huyện Na Rì,"Tổ dân phố Hát Đeng, Thị trấn Yến Lạc, Huyện Na Rì, Bắc Kạn",106.1831296,22.2384208,Cũ
+323,209G01,(TPB) Chợ Mới,Bắc Kạn,Huyện Chợ Mới(BK),"Tổ 8, Thị Trấn Đồng Tâm, Huyện Chợ Mới(BK), Bắc Kạn",105.7873271,21.89523109,Cũ
+324,209F01,(TPB) Chợ Đồn,Bắc Kạn,Huyện Chợ Đồn,"Khu dân cư xưởng Nông Cụ, tổ 12, thị trấn Bằng Lũng, Huyện Chợ Đồn, Tỉnh Bắc Cạn",105.597272,22.155001,Cũ
+325,208C01,(TNN) Thắng Lợi,Thái Nguyên,Thành phố Sông Công,"Tổ dân phố Xóm Miếu 2, Phường Cải Đan, Thành phố Sông Công, Thái Nguyên",105.849853,21.460876,Cũ
+326,207A01,(Tuyên Quang)Tân Quang,Tuyên Quang,Thành phố Tuyên Quang,"Tổ 9, Phường Minh Xuân, Thành phố Tuyên Quang, Tuyên Quang",105.215417,21.823833,Cũ
+327,207F01,(TQG) Trung Môn,Tuyên Quang,Huyện Yên Sơn,"thôn 17,Xã Trung Môn
+,H yên Sơn Tỉnh Tuyên Quang",105.178584,21.823723,Cũ
+328,207F03,(TQG) Tân Bình,Tuyên Quang,Thành phố Tuyên Quang,"Thôn 13, Phường Đội Cấn, Thành phố Tuyên Quang, Tuyên Quang",105.221267,21.720299,Cũ
+329,206E01,(TPC) Hà Quảng 1,Cao Bằng,Huyện Hà Quảng,"Số nhà B39 tổ Xuân Đại, Thị Trấn Xuân Hòa, huyện Hà Quảng, tỉnh Cao Bằng",106.0771749,22.9015485,Cũ
+330,206K01,(TPC) Hòa An,Cao Bằng,Huyện Hoà An,"Số Nhà 26 Phố Giữa, Thị Trấn Nước Hai, Huyện Hòa An, Tỉnh Cao Bằng",106.151318,22.739337,Cũ
+331,206G01,(TPC) Trùng Khánh 1,Cao Bằng,Huyện Trùng Khánh,"Tổ 2, TT. Trùng Khánh, H. Trùng Khánh, T. Cao Bằng",106.5257888,22.8363635,Cũ
+332,206L01,(TPC) Nguyên Bình 1,Cao Bằng,Huyện Nguyên Bình,"Tổ dân phố 2, Thị trấn Nguyên Bình, huyện Nguyên Bình, tỉnh Cao Bằng",105.9642482,22.6505671,Cũ
+333,205F01,(TPL) Văn Quan,Lạng Sơn,Huyện Văn Quan,"587A phố Thanh Xuân, Thị trấn Văn Quan, Huyện Văn Quan, Lạng Sơn",106.5194517,21.8648742,Cũ
+334,205D01,(TPL) Tân Thanh,Lạng Sơn,Huyện Văn Lãng,"Số nhà 49-51, Khu 1 Xã Tân 
+Thanh, Huyện Văn Lãng, 
+Lạng Sơn",106.678125,22.004944,Cũ
+335,205J01,(TPL) Lộc Bình,Lạng Sơn,Huyện Lộc Bình,"74 Minh Khai, Thị trấn Lộc Bình, Huyện Lộc Bình, Lạng Sơn",106.914345,21.7664401,Cũ
+336,205H01,(TPL) Hữu Lũng,Lạng Sơn,Huyện Hữu Lũng,"46 Bắc Sơn, Thị trấn Hữu Lũng, Huyện Hữu Lũng, Lạng Sơn",106.3422056,21.5066172,Cũ
+337,205G01,(TPL) Bắc Sơn,Lạng Sơn,Huyện Bắc Sơn,"Số nhà 101 Lê Hồng Phong, Thị Trấn Bắc Sơn, Huyện Bắc Sơn, Lạng Sơn",106.3221055,21.9017907,Cũ
+338,204D01,(BGG)Yên Thế,Bắc Giang,Huyện Yên Thế,"TDP Chẽ, Thị trấn Phồn Xương, Huyện Yên Thế, Bắc Giang",106.12717,21.477313,Cũ
+339,204H01,(BGG) Yên Dũng,Bắc Giang,Huyện Yên Dũng,"Số nhà 83, Tiểu Khu 4, Thị trấn Nham Bền, Huyện Yên Dũng, Bắc Giang",106.2498755,21.1971556,Cũ
+340,204J01,(BGG) Sơn Động,Bắc Giang,Huyện Sơn Động,"Số 147,đường Trần Nhân Tông,Thượng 2,thôn An Châu,huyện Sơn Động, Bắc Giang",106.841452,21.332613,Cũ
+341,211F02,(VPC) Phúc Sơn,Vĩnh Phúc,Huyện Vĩnh Tường,"Thửa đất số 796, tờ bản đồ số 13, Khu TTTM và nhà ở Phúc Sơn, Khu đô thị Phúc Sơn, xã Thượng Trưng, huyện Vĩnh Tường, tỉnh Vĩnh Phúc",105.492344,21.236972,Cũ
+342,211I01,(VPC) Tam Đảo,Vĩnh Phúc,Huyện Tam Đảo,"Thôn Làng Mạ, Xã Tam Quan, Huyện Tam Đảo, Vĩnh Phúc",105.5892559,21.42877031,Cũ
+343,211C01,(VPC) Bình Xuyên,Vĩnh Phúc,Huyện Bình Xuyên,"Khu Vườn Sim, Thị trấn Hương Canh, huyện Bình Xuyên, tỉnh Vĩnh Phúc",105.659153,21.266866,Cũ
+344,211C02,(VPC) Thiện Kế,Vĩnh Phúc,Huyện Bình Xuyên,"Thôn Hương Đà, Xã Thiện Kế, Huyện Bình Xuyên, Vĩnh Phúc",105.6600483,21.33704602,Cũ
+8,024F06,(HNI) Duy Tân,Hà Nội,Quận Cầu Giấy,"Số 12, ngách 3, ngõ 78 phố Duy Tân, tổ 28, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",105.782914,21.032806,Cũ
+9,024F01,(HNI)Nghĩa Đô,Hà Nội,Quận Cầu Giấy,"Ki ốt 2,3 tầng 1 chung cư 11 tầng Bộ KH&ĐT-15B Đông Quan, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội",105.8036983,21.03939381,Cũ
+347,218D01,(HBH) Tân Lạc,Hòa Bình,Huyện Tân Lạc,"Số 115 khu Tân Thịnh, Thị Trấn Mãn Đức, Huyện Tân Lạc, Hoà Bình",105.280307,20.61292,Cũ
+348,218C01,(HBH)Mai Châu,Hòa Bình,Huyện Mai Châu,"TIỂU KHU 2, TT.MAI CHÂU, MAI CHÂU, HÒA BÌNH",105.0846,20.667568,Cũ
+349,218F01,(HBH) Lạc Thủy,Hòa Bình,Huyện Lạc Thủy,"SN 112 khu 2 Thị trấn Chi Nê, Huyện Lạc Thủy, Hòa Bình",105.779252,20.4905247,Cũ
+350,218E01,(HBH) Lương Sơn,Hòa Bình,Huyện Lương Sơn,"Kiot A9,10,29 Phố chợ Lương Sơn, Thị trấn Lương Sơn, Huyện Lương Sơn, Hoà Bình",105.519126,20.870391,Cũ
+351,218G01,(HBH) Lạc Sơn,Hòa Bình,Huyện Lạc Sơn,"71 Phố Tân Giang, Thị trấn Vụ Bản, Huyện Lạc Sơn, Hòa Bình",105.434389,20.4675,Cũ
+352,218B01,(HBH)Kim Bôi,Hòa Bình,Huyện Kim Bôi,"Khu Bo ,Thị trấn Bo, huyện Kim Bôi, Hòa Bình",105.538906,20.670839,Cũ
+353,218I01,(HBH) Đà Bắc,Hòa Bình,Huyện Đà Bắc,"Tiểu khu Thạch Lý, Thị trấn Đà Bắc, Huyện Đà Bắc, Hòa Bình",105.257113,20.874092,Cũ
+354,218K01,(HBH) Cao Phong,Hòa Bình,Huyện Cao Phong,"32 khu 3, TT Cao Phong , Huyện Cao Phong, Tỉnh Hoà Bình",105.325827,20.712475,Cũ
+355,216B01,(YBI) Nghĩa Lộ,Yên Bái,Thị xã Nghĩa Lộ,"Số 69 Điện Biên, Phường Cầu Thia, TX Nghĩa Lộ Yên Bái",104.519167,21.588806,Cũ
+356,216F01,(YBI) Lục Yên,Yên Bái,Huyện Lục Yên,"Số nhà 82, Bà Triệu, Thị trấn Yên Thế, Huyện Lục Yên, Yên Bái",104.77075,22.10985,Cũ
+357,215A02,(ĐBN) Him Lam,Điện Biên,Thành phố Điện Biên Phủ,"số 159 tổ 5 phường Him Lam, Thành Phố Điện Biên Phủ, Tỉnh Điện Biên",103,21.40683,Cũ
+358,214C01,(LCI) SaPa,Lào Cai,Thị Xã Sa Pa,"112B Điện Biên Phủ, Tổ 4, Phường Hàm Rồng, Thị xã Sa Pa, Lào Cai",103.83834,22.339443,Cũ
+359,214A01,(LCI) Lào Cai,Lào Cai,Thành phố Lào Cai,"Số 102 đường 30/4, Phường Bắc Lệnh, TP Lào Cai, Tỉnh Lào Cai",104.013389,22.43983,Cũ
+360,214I01,(LCI) Si Ma Cai,Lào Cai,Huyện Si Ma Cai,"TDP Phố Mới, Thị Trấn Si Ma Cai, Huyện Si Ma Cai, Lào Cai",104.279079,22.6954,Cũ
+361,214G01,(LCI) Bảo Yên,Lào Cai,Huyện Bảo Yên,"Số 186 đường Võ Nguyên Giáp, thị trấn Phố Ràng, huyện Bảo Yên, tỉnh Lào Cai",104.4701,22.2361,Cũ
+362,213A01,(LCU) Lai Châu,Lai Châu,Thành phố Lai Châu,"Số nhà 187, đường Ngô Quyền tổ 3 phường Đoàn Kết, TP Lai Châu, Lai Châu",103.454528,22.396389,Cũ
+363,210K01,(PTO) Thanh Thủy,Phú Thọ,Huyện Thanh Thuỷ,"476M+GW4,Khu 9, Xã Hoàng Xá, Huyện Thanh Thuỷ, Phú Thọ",105.284786,21.111134,Cũ
+364,210H01,(PTO) Tam Nông,Phú Thọ,Huyện Tam Nông(PT),"Khu 7, Xã Hương Nộn, huyện Tam Nông, tỉnh Phú Thọ",105.256806,21.284111,Cũ
+365,210J01,(PTO)Thanh Ba,Phú Thọ,Huyện Thanh Ba,"Khu 9, Xã Ninh Dân, Huyện Thanh Ba, Phú Thọ",105.145833,21.487558,Cũ
+366,210F01,(PTO)Lâm Thao,Phú Thọ,Huyện Lâm Thao,"Khu 5, Thị trấn Hùng Sơn, Huyện Lâm Thao, Phú Thọ",105.2941597,21.3482491,Cũ
+367,210E01,(PTO) Hạ Hòa,Phú Thọ,Huyện Hạ Hòa,"Khu 10, thị trấn Hạ Hòa, huyện Hạ Hòa, tỉnh Phú Thọ",105.004222,21.561833,Cũ
+368,210D01,(PTO)Đoan Hùng,Phú Thọ,Huyện Đoan Hùng,"555 khu hành chính Tân Thành, thị trấn Đoan Hùng, Đoan Hùng, Phú Thọ",105.1842048,21.6256089,Cũ
+369,210C01,(PTO) Cẩm Khê,Phú Thọ,Huyện Cẩm Khê,"64 Đường Hoa Khê, Khu Phú Bình, Thị Trấn Cẩm Khê, Phú Thọ",105.137711,21.416462,Cũ
+370,239M01,(HTH) Vũ Quang,Hà Tĩnh,Huyện Vũ Quang,"Thị trấn Vũ Quang, huyện Vũ Quang, tỉnh Hà Tĩnh",105.501667,18.378611,Cũ
+371,239L02,(HTH) Hàm Nghi,Hà Tĩnh,Thành phố Hà Tĩnh,"98 Lê Duẫn, Phường Trần Phú, Thành phố Hà Tĩnh, Hà Tĩnh",105.8913627,18.3376942,Cũ
+372,239N01,(HTH) Lộc Hà,Hà Tĩnh,Huyện Lộc Hà,"Thôn Quang Phú, xã Thạch Châu, Lộc Hà , Hà Tĩnh",105.892687,18.433928,Cũ
+373,239K01,(HTH) Nghi Xuân,Hà Tĩnh,Huyện Nghi Xuân,"Số nhà 29 đường Nguyễn Nghiễm, Thị Trần Xuân An, Huyện Nghi Xuân, Tỉnh Hà Tĩnh",105.7404739,18.6531089,Cũ
+374,239C01,(HTH) Nguyễn Tuấn Thiện,Hà Tĩnh,Huyện Hương Sơn,"số 06, Nguyễn Tuấn Thiện, tt Phố Châu, Hương Sơn,Hà Tĩnh",105.423337,18.509735,Cũ
+375,239I01,(HTH) Hương Khê,Hà Tĩnh,Huyện Hương Khê,"Số nhà 228 đường Trần Phú, khối 4, thị trấn Hương Khê, huyện Hương Khê, tỉnh Hà Tĩnh",105.701667,18.175833,Cũ
+376,239G01,(HTH) Đức Thọ,Hà Tĩnh,Huyện Đức Thọ,"số 66 Minh Khai, tổ dân phố 2, Thị trấn Đức Thọ, Huyện Đức Thọ, Hà Tĩnh",105.584318,18.536774,Cũ
+377,239D01,(HTH) Cẩm Xuyên,Hà Tĩnh,Huyện Cẩm Xuyên,"Tổ 13 Thị trấn Cẩm Xuyên, Huyện Cẩm Xuyên, Hà Tĩnh",106.002791,18.248649,Cũ
+378,239H01,(HTH) Can Lộc,Hà Tĩnh,Huyện Can Lộc,"392 Xô Viết Nghệ Tĩnh, Thị trấn Nghèn, Huyện Can Lộc, Hà Tĩnh",105.786944,18.439167,Cũ
+379,238U01,(NAA) Tương Dương,Nghệ An,Huyện Tương Dương,"Số nhà 254, Khối Hòa Bắc, Thị Trấn Thạch Giám, Huyện Tương Dương, Nghệ An",104.4679997,19.2765929,Cũ
+380,238M01,(NAA) Thanh Chương,Nghệ An,Huyện Thanh Chương,"211 Đường 1/9 Thị Trấn Thanh Chương, Huyện Thanh Chương, Nghệ An",105.333722,18.784513,Cũ
+381,238H02,(NAA) Nam Đàn 2,Nghệ An,Huyện Nam Đàn,"Xóm 5, Nam Kim, Nam Đàn, tỉnh Nghệ An",105.5464171,18.5769495,Cũ
+382,238B02,(NAA) Cửa Lò 2,Nghệ An,Thị xã Cửa Lò,"số 64 Sào Nam, Phường Nghi Thu, Thị xã Cửa Lò, Nghệ An",105.71763,18.802812,Cũ
+383,238F01,(NAA)Hòa Hiếu,Nghệ An,Thị xã Thái Hòa,"Khối Kim Tân, Phường Hòa Hiếu, Thị xã Thái Hòa, Nghệ An",105.429145,19.323274,Cũ
+384,238G01,(NAA)Hưng Nguyên,Nghệ An,Huyện Hưng Nguyên,"Khối 16 Thị trấn Hưng Nguyên, Huyện Hưng Nguyên, Nghệ An",105.637836,18.669273,Cũ
+385,237A06,(THA) Đình Hương,Thanh Hóa,Thành phố Thanh Hóa,"Lô 07 Đường Bà Triệu, Phường Đông Thọ, Thành phố Thanh Hóa, Thanh Hóa",105.767306,19.849605,Cũ
+386,237F02,(THA) Vĩnh Lộc,Thanh Hóa,Huyện Vĩnh Lộc,"Đường Thành, Thôn Phố Mới, Xã Vĩnh Tiến, Huyện Vĩnh Lộc, Thanh Hóa",105.611585,20.066999,Cũ
+387,237E02,(THA) Thọ Xuân 2,Thanh Hóa,Huyện Thọ Xuân,"Kp Vĩnh Nghi, Thị Trấn Thọ Xuân, Thọ Xuân, Thanh Hoá",105.53728,19.93565,Cũ
+388,237B01,(THA) TT Còng,Thanh Hóa,Thị xã Nghi Sơn,"Tổ dân phố Xuân Hòa, Phường Hải Hòa, Thị xã Nghi Sơn,Thanh Hóa",105.786987,19.46245,Cũ
+389,237B02,(THA) Tĩnh Gia 2,Thanh Hóa,Thị xã Nghi Sơn,"Thôn Bản Cát, Phường Mai Lâm, Thị xã Nghi Sơn, Thanh Hóa",105.758571,19.345873,Cũ
+390,237B03,(THA) Tĩnh Gia 3,Thanh Hóa,Thị xã Nghi Sơn,"Thôn Hồng Phong, Phường Hải Ninh, Thị xã Nghi Sơn, Thanh Hóa",105.7966949,19.5711161,Cũ
+391,207D01,(TQG) Chiêm Hóa,Tuyên Quang,Huyện Chiêm Hoá,"Tổ Vĩnh Lim, Thị trấn Vĩnh Lộc, Huyện Chiêm Hóa, Tuyên Quang",105.2338522,22.1405399,Cũ
+392,260F01,(KTN) Kon Plông,Kon Tum,Huyện Kon Plông,"Đường Phan Chu Trinh, TT Măng Đen, H Kon Plông, Kon Tum",108.28987,14.602904,Cũ
+393,272N01,(LAN) Thủ Thừa,Long An,Huyện Thủ Thừa,"KDC Khu phố Cầu Xây, Thị Trấn Thủ Thừa, Huyện Thủ Thừa, Long An",106.40994,10.6025,Cũ
+394,222B01,(BNH) Đồng Nguyên,Bắc Ninh,Thành phố Từ Sơn,"694 Phố Mới, Phường Đồng Nguyên, Thành Phố Từ Sơn, Bắc Ninh",105.97734,21.12783,Cũ
+395,222B04,(BNH) Đình Bảng,Bắc Ninh,Thành phố Từ Sơn,"Khu phố Chùa Dận, Phường Đình Bảng, Thị xã Từ Sơn, Bắc Ninh",105.940453,21.106571,Cũ
+396,229B01,(NBH) Kim Sơn,Ninh Bình,Huyện Kim Sơn,"Xóm 5, xã Ân Hòa,huyện Kim Sơn,tỉnh Ninh Bình",106.116798,20.108637,Cũ
+397,228A04,(NĐH) Lộc Hòa,Nam Định,Thành phố Nam Định,"24 Bùi Đình Hòe, Phường Lộc Hòa, Thành phố Nam Định, Nam Định",106.15332,20.43471,Cũ
+398,228A05,(NĐH) Trần Huy Liệu,Nam Định,Thành phố Nam Định,"649 Trần Huy Liệu, phường Văn Miếu, Thành phố Nam Định, Nam Định",106.151525,20.412246,Cũ
+399,228B03,(NĐH) Hải Anh,Nam Định,Huyện Hải Hậu,"Xóm 18, Xã Hải Anh, Huyện Hải Hậu, Tỉnh Nam Định",106.258591,20.205025,Cũ
+400,227H01,(TBH) Quỳnh Phụ,Thái Bình,Huyện Quỳnh Phụ,"308 Nguyễn Du, Thị trấn Quỳnh Côi, Huyện Quỳnh Phụ, Thái Bình",106.33027,20.64344,Cũ
+401,226F01,(HNM) Thanh Liêm,Hà Nam,Huyện Thanh Liêm,"xã Thanh Nguyên, Huyện Thanh Liêm, Tỉnh Hà Nam",105.918111,20.425473,Cũ
+402,226C03,(HNM) Xuân Khê,Hà Nam,Huyện Lý Nhân,"Xóm 6, Thôn Trung Châu, xã Xuân Khê, huyện Lý Nhân, tỉnh Hà Nam",106.125816,20.523954,Cũ
+403,226A02,(HNM) Hòa Mạc,Hà Nam,Huyện Duy Tiên,"Thôn Lạt Hà, xã Trác Văn, Huyện Duy Tiên, Hà Nam",105.99995,20.64279,Cũ
+404,226A03,(HNM) Duy Tiên,Hà Nam,Thị Xã Duy Tiên,"Đường ĐH 10 Thần Nữ, tổ dân phố Thần Nữ, Phường Bạch Thượng, Thị Xã Duy Tiên, Hà Nam",105.9315528,20.65193158,Cũ
+405,222A04,(BNH) Thị Cầu,Bắc Ninh,Thành phố Bắc Ninh,"9 Hoàng Quốc Việt, Phường Thị Cầu, Thành Phố Bắc Ninh",106.08114,21.19335,Cũ
+406,222C05,(BNH) Vân Dương,Bắc Ninh,Thành phố Bắc Ninh,"46 Đàm Văn Lễ, Lãm Làng, Phường Vân Dương, Thành phố Bắc Ninh, Bắc Ninh",106.108397,21.150825,Cũ
+407,221G01,(HYN) Mỹ Hào,Hưng Yên,Thị Xã Mỹ Hào,"289 Nguyễn Thiện Thuật, Phường Nhân Hòa,Thị xã Mỹ Hào, Hưng Yên",106.058141,20.943764,Cũ
+408,221G02,(HYN) Phùng Chí Kiên,Hưng Yên,Thị Xã Mỹ Hào,"số 1889 đường Nguyễn Văn Linh, Phùng Chí Kiên, Thị Xã Mỹ Hào, Hưng Yên",106.098056,20.91934,Cũ
+409,221G03,(HYN) Minh Đức,Hưng Yên,Thị Xã Mỹ Hào,"Số Nhà 1498 Dương Hòa, Phường Minh Đức, Thị Xã Mỹ Hào, Hưng Yên",106.249085,20.94109,Cũ
+410,220B01,(HDG)Chí Linh,Hải Dương,Thành Phố Chí Linh,"256 Thái Học 3, Sao Đỏ, Chí Linh, Hải Dương",106.398285,21.10668,Cũ
+411,220B02,(HDG) Phả Lại,Hải Dương,Thành Phố Chí Linh,"445 đường Lê Thánh Tông, Phường Phả Lại, TP Chí Linh, Hải Dương",106.32486,21.11121,Cũ
+412,220B03,(HDG) Hoàng Tân,Hải Dương,Thành Phố Chí Linh,"số 240 Lê Thanh Nghị, Phường Hoàng Tân, Tp Chí Linh, Tỉnh Hải Dương",106.4292243,21.13293223,Cũ
+413,220A02,(HDG) 358 Trần Hưng Đạo,Hải Dương,Thành phố Hải Dương,"70 An Định, Phường Quang Trung, TP. Hải Dương, Tỉnh Hải Dương",106.33898,20.94851,Cũ
+414,220I01,(HDG) Nam Sách,Hải Dương,Huyện Nam Sách,"680 Trần Phú, TT Nam Sách, Huyện Nam Sách, Hải Dương",106.33537,21.00048,Cũ
+415,220I03,(HDG) Thanh Quang,Hải Dương,Huyện Nam Sách,"Khu Thị Tứ, thôn Linh Khê, Xã Thanh Quang, Huyện Nam Sách, Hải Dương",106.35342,21.03812,Cũ
+416,220M03,(HDG) Hưng Đạo,Hải Dương,Huyện Tứ Kỳ,"Thôn Ô mễ, Xã Hưng Đạo, Huyện Tứ Kỳ ,Hải Dương",106.373167,20.861934,Cũ
+417,220M02,(HDG) Cộng Lạc,Hải Dương,Huyện Tứ Kỳ,"Xã Văn Tố, huyện Tứ Kỳ, Tỉnh Hải Dương",106.430222,20.799152,Cũ
+418,220K02,(HDG) Đồng Gia,Hải Dương,Huyện Kim Thành,"Thôn Thị Tứ, Xã Đồng Cẩm, Huyện Kim Thành, Hải Dương",106.51547,20.89767,Cũ
+419,220H01,(HDG) Kinh Môn,Hải Dương,Thị Xã Kinh Môn,"359 Trần Hưng Đạo, Phường An Lưu，Thị Xã Kinh Môn, Hải Dương",106.54195,20.99877,Cũ
+420,220H02,(HDG) Minh Tân,Hải Dương,Thị Xã Kinh Môn,"80 Vũ Mạnh Hùng, Phường Phú Thứ, Thị Xã Kinh Môn, Hải Dương",106.5613019,21.02265469,Cũ
+1059,024F10,(HNI) Yên Hòa,Hà Nội,Quận Cầu Giấy,"Số 12 ngõ 39 đường Trần Kim Xuyến, phường Yên Hòa, quận Cầu Giấy, thành phố Hà Nội",105.795116,21.017111,Cũ
+422,028A06,(HCM) Tân Định,Hồ Chí Minh,Quận 3,"17 Lý Chính Thắng, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh",106.6870103,10.79085649,Cũ
+423,028V09,(HCM) Trường Thọ,Hồ Chí Minh,Thành Phố Thủ Đức,"99 Đường 11 Phường Trường Thọ, Thành phố Thủ Đức, HCM",106.752515,10.84264,Cũ
+424,028V08,(HCM) Bình Chiểu,Hồ Chí Minh,Thành Phố Thủ Đức,"119 Lê Thị Hoa, Phường Bình Chiểu, Thành phố Thủ Đức, HCM",106.73952,10.876516,Cũ
+425,028V16,(HCM) Đường 17,Hồ Chí Minh,Thành Phố Thủ Đức,"127 Lê Văn Chí, Phường Linh Trung, Tp. Thủ Đức, Tp. Hồ Chí Minh",106.777584,10.85913,Cũ
+426,028V10,(HCM) Linh Xuân,Hồ Chí Minh,Thành Phố Thủ Đức,"108 Quốc lộ 1K, Phường Linh Xuân, Thành phố Thủ Đức, HCM",106.766792,10.8783706,Cũ
+427,028V07,(HCM) Linh Chiểu,Hồ Chí Minh,Thành Phố Thủ Đức,"106B  Đường 17 Phường Linh Chiểu, Thành phố Thủ Đức, HCM",106.763462,10.856994,Cũ
+428,028V20,(HCM) Pickup DC7,Hồ Chí Minh,Thành Phố Thủ Đức,"21 Ụ Ghe, Phường Tam Phú, Thành phố Thủ Đức, HCM",106.738999,10.852819,Cũ
+429,225G01,(HPG)Lý Thánh Tông,Hải Phòng,Quận Đồ Sơn,"218 Lý Thánh Tông, Phường Vạn Sơn,Quận Đồ Sơn, Hải Phòng",106.783584,20.714857,Cũ
+430,028Z07,(HCM) DC Thủ Đức,Hồ Chí Minh,Thành Phố Thủ Đức,"21 Ụ Ghe, Phường Tam Phú, Thành phố Thủ Đức, HCM",106.738999,10.852819,Cũ
+431,028V19,(HCM) 886 QL13,Hồ Chí Minh,Thành Phố Thủ Đức,"828 Đường Quốc Lộ 13, Khu phố 4, Phường Hiệp Bình Phước, TP.Thủ Đức",106.7146153,10.86426,Cũ
+432,028V01,(HCM) Hiệp Bình,Hồ Chí Minh,Thành Phố Thủ Đức,"49 Đường số 10, KP5, Phường Hiệp Bình Chánh, Thành Phố Thủ Đức, Hồ Chí Minh",106.7244952,10.84048343,Cũ
+433,028I07,(HCM) Phú Hữu,Hồ Chí Minh,Thành Phố Thủ Đức,"827C Nguyễn Duy Trinh, Phường Phú Hữu, Thành phố Thủ Đức, HCM",106.793247,10.791297,Cũ
+434,028I04,(HCM) Long Trường,Hồ Chí Minh,Thành Phố Thủ Đức,"1245 Nguyễn Duy Trinh, Phường Long Trường, Thành phố Thủ Đức, HCM",106.814409,10.803722,Cũ
+435,028I08,(HCM) Long Bình,Hồ Chí Minh,Thành Phố Thủ Đức,"558 Hoàng Hữu Nam, Phường Long Bình, Thành Phố Thủ Đức, Hồ Chí Minh",106.814828,10.873633,Cũ
+436,028I03,(HCM) Nguyễn Văn Tăng,Hồ Chí Minh,Thành Phố Thủ Đức,"344 Nguyễn Văn Tăng, KP Gò Công, phường Long Thạnh Mỹ, Thành Phố Thủ Đúc, HCM",106.8242929,10.84121379,Cũ
+437,028I01,(HCM)Lê Văn Việt,Hồ Chí Minh,Thành Phố Thủ Đức,"75/4 Tân Hòa 2, Phường Hiệp Phú, Thành Phố Thủ Đức, Thành Phố Thủ Đức",106.7825128,10.84916037,Cũ
+438,028I02,(HCM)Dương Đình Hội,Hồ Chí Minh,Thành Phố Thủ Đức,"116 Đường Đại Lộ III, Phường Phước Long B, Thành Phố Thủ Đúc, Hồ Chí Minh",106.7719188,10.81295347,Cũ
+439,028I10,(HCM) Bưng Ông Thoàn,Hồ Chí Minh,Thành Phố Thủ Đức,"291 Bưng Ông Thoàn, Phường Tăng Nhơn Phú B, Thành phố Thủ Đức, HCM",106.783887,10.830407,Cũ
+440,028I11,(HCM) Nguyễn Xiển,Hồ Chí Minh,Thành Phố Thủ Đức,"242 Đường III, Phường Phước Long B, Thành Phố Thủ Đức, Hồ Chí Minh",106.7814164,10.81836878,Cũ
+441,028B06,(HCM) Thạnh Mỹ Lợi,Hồ Chí Minh,Thành Phố Thủ Đức,"284 Nguyễn Thị Định, phường Bình Trưng Tây, TP Thủ Đức, TP Hồ Chí Minh",106.757719,10.78361,Cũ
+442,028B07,(HCM) Bình An,Hồ Chí Minh,Thành Phố Thủ Đức,"270 Trần Não, Phường An Khánh, Thành phố Thủ Đức, Hồ Chí Minh",106.729796,10.788073,Cũ
+443,028B08,(HCM) Thảo Điền,Hồ Chí Minh,Thành Phố Thủ Đức,"5A đường số 5, khu phố 4, Phường An Phú, Thành phố Thủ Đức, HCM",106.752208,10.807214,Cũ
+444,028B02,(HCM) Nguyễn Duy Trinh,Hồ Chí Minh,Thành Phố Thủ Đức,"629 Nguyễn Duy Trinh, phường Bình Trưng Đông, Thành phố Thủ Đức, HCM",106.780483,10.79017,Cũ
+445,028B05,(HCM) An Phú,Hồ Chí Minh,Thành Phố Thủ Đức,"135N Mai Chí Thọ, Phường An Phú, Thành Phố Thủ Đức, HCM",106.753801,10.800156,Cũ
+446,225N01,(HPG) Thị trấn An Lão,Hải Phòng,Huyện An Lão(HP),"14 Ngô Quyền, Khu Quyết Thắng, Thị trấn An Lão, Huyện An Lão, thành phố Hải Phòng",106.56261,20.82193,Cũ
+447,203E02,(QNH) Khu 3 Đông Triều,Quảng Ninh,Thị xã Đông Triều,"Số 716, Khu Mễ Xá 3, Phường Hưng Đạo ,Thị xã Đông Triều, Quảng Ninh",106.52511,21.07337,Cũ
+448,203A09,(QNH) Hoành Bồ,Quảng Ninh,Thành phố Hạ Long,"Đường Hữu Nghị, Thị Trấn Trới, Thành phố Hạ Long, Quảng Ninh",106.98685,21.02394,Cũ
+449,204I02,(BGG) Phố Hoa,Bắc Giang,Huyện Hiệp Hoà,"Tổ dân phố Tam Hợp, Thị trấn Bắc Lý, Huyện Hiệp Hòa, Bắc Giang",105.9592863,21.3003318,Cũ
+450,220C03,(HDG) Tân Trường,Hải Dương,Huyện Cẩm Giàng,"Quý , Xã Tân Trường, Huyện Cẩm Giàng, Tỉnh Hải Dương",106.23176,20.93591,Cũ
+451,263G03,(LĐG) Phú Hội,Lâm Đồng,Huyện Đức Trọng,"Xóm 2, QL 20, Thôn Đại Ninh, Xã Ninh Gia, Huyện Đức Trọng, Lâm Đồng",108.308654,11.637316,Cũ
+452,215H01,(ĐBN) Bản Phủ,Điện Biên,Huyện Điện Biên,"Thôn 24, Xã Noong Hẹt, Huyện Điện Biên, Điện Biên",103.0107547,21.316542,Cũ
+453,251C03,(ĐNI) Xuân Hưng,Đồng Nai,Huyện Xuân Lộc,"Ấp 3, Xã Xuân Hưng, Huyện Xuân Lộc, Tỉnh Đồng Nai",107.48928,10.860982,Cũ
+454,208F01,(TNN) Định Hóa,Thái Nguyên,Huyện Định Hóa,"Số 379 TDP Trung Tâm Chợ Chu, Thị trấn Chợ Chu, Huyện Định Hóa, Thái Nguyên",105.6402648,21.9073072,Cũ
+455,208A01,(TNN) HUB Thái Nguyên,Thái Nguyên,Thành phố Thái Nguyên,"336A Thống nhất, Tổ 13 P. Đồng Quang, Tp. Thái Nguyên, Thái Nguyên",105.8315446,21.57654615,Cũ
+456,237U01,(THA) Hậu Lộc,Thanh Hóa,Huyện Hậu Lộc,"Phú Cường, thị trấn Hậu Lộc, Huyện Hậu Lộc, tỉnh Thành Hóa",105.88215,19.918193,Cũ
+457,028H04,(HCM) Bình Đông,Hồ Chí Minh,Quận 8,"41 đường Hoàng Sỹ Khải, Phường 14, Quận 8, TP.HCM",106.6337805,10.7359458,Cũ
+458,238V01,(NAA) Kỳ Sơn,Nghệ An,Huyện Kỳ Sơn(NA),"Khối 1 Thị trấn Mường Xén, Huyện Kỳ Sơn, Nghệ An",104.146111,19.400556,Cũ
+459,238N01,(NAA) Tân Kỳ,Nghệ An,Huyện Tân Kỳ,"Khối 7, thị trấn Tân Kỳ, huyện Tân Kỳ, tỉnh Nghệ An.",105.267222,19.044722,Cũ
+460,297K02,(KGG) An Thới,Kiên Giang,Thành Phố Phú Quốc,"242 Nguyễn Văn Cừ, Kp 6, Phường An Thới, Thành Phố Phú Quốc, Kiên Giang",104.0178216,10.0238266,Cũ
+461,276A03,(TNH)Tân Biên,Tây Ninh,Huyện Tân Biên,"91 Nguyễn Chí Linh, khu phố 3, Thị trấn Tân Biên, Huyện Tân Biên, Tây Ninh",106.0042763,11.5375957,Cũ
+462,028L03,(HCM) Hương Lộ 12,Hồ Chí Minh,Quận 12,"48.61 đường Thạnh Xuân 25, Phường Thạnh Xuân, Quận 12",106.6667062,10.8825091,Cũ
+463,225E06,(HPG) Phạm Ngũ Lão,Hải Phòng,Quận Ngô Quyền,"Số 21 Phạm Ngũ Lão,phường Cầu Đất, quận Ngô Quyền, thành phố Hải Phòng",106.686633,20.857174,Cũ
+464,263H02,(LĐG) Nam Ban,Lâm Đồng,Huyện Lâm Hà,"Số 80 Trưng Vương, Thị Trấn Nam Ban, Huyện Lâm Hà, tỉnh Lâm Đồng",108.339395,11.832103,Cũ
+465,228E02,(NĐH) Thọ Nghiệp,Nam Định,Huyện Xuân Trường,"Xóm 19, Xã Thọ Nghiệp, Huyện Xuân Trường,Tỉnh Nam Định",106.382126,20.297306,Cũ
+466,203I01,(QNH) Thị trấn Quảng Hà,Quảng Ninh,Huyện Hải Hà,"Đường Lâm Nghiệp , Khu Quang Trung, thị trấn Quảng Hà, huyện Hải Hà, Quảng Ninh",107.75468,21.44413,Cũ
+467,221K01,(HYN) Tiên Lữ,Hưng Yên,Huyện Tiên Lữ,"Đường Nội Thị 1, Thị trấn Vương, Huyện Tiên Lữ, Hưng Yên",106.1208,20.70057,Cũ
+468,216G01,(YBI) Văn Chấn,Yên Bái,Huyện Văn Chấn,"Khu 2, Thị tứ Ngã Ba, Xã Cát Thịnh, Huyện Văn Chấn, Yên Bái",104.72285,21.489568,Cũ
+1060,024F11,(HNI) Trung Hòa,Hà Nội,Quận Cầu Giấy,"61 Xuân Quỳnh, Phường Trung Hòa, Quận Cầu Giấy, Hà Nội",105.7998325,21.0155583,Cũ
+470,210L01,(PTO) Tân Sơn,Phú Thọ,Huyện Tân Sơn,"Khu 9, Xã Tân Phú, Huyện Tân Sơn, Phú Thọ",105.019028,21.217167,Cũ
+471,274H01,(BDG) Bắc Tân Uyên,Bình Dương,Huyện Bắc Tân Uyên,"KP 4, Thị trấn Tân Thành, Huyện Bắc Tân Uyên, Bình Dương",106.844184,11.159052,Cũ
+472,261C01,(DKG)Kiến Đức,Đắk Nông,Huyện Đăk Rlâp,"81 QL 14, Khối 5, Thị trấn Kiến Đức, Huyện Đắk R'Lấp, Đăk Nông",107.519518,11.999383,Cũ
+473,269D01,(GLI) Ayunpa,Gia Lai,Thị xã Ayun Pa,"59a Trần Hưng Đạo, Phường Sông Bờ, TX Ayunpa, Gia Lai",108.447555,13.400957,Cũ
+474,297F01,(KGG) Gò Quao,Kiên Giang,Huyện Gò Quao,"Khu Phố Phước Hưng 1, Thị Trấn Gò Quao, Huyện Gò Quao, Tỉnh Kiên Giang",105.281348,9.729788,Cũ
+475,297K03,(KGG) Gành Dầu,Kiên Giang,Thành Phố Phú Quốc,"Ấp 4, Xã Cửa Cạn, Thành phố Phú Quốc, Tỉnh Kiên Giang",103.886962,10.314965,Cũ
+476,256G02,(BĐH) Vĩnh Thạnh,Bình Định,Huyện Vĩnh Thạnh(BĐ),"Thôn Định Trị, Xã Vĩnh Hảo, Huyện Vĩnh Thạnh, Tỉnh Bình Định",108.736218,14.15838291,Cũ
+477,255C02,(QNI) La Hà,Quảng Ngãi,Huyện Tư Nghĩa,"75 Nguyễn Huệ, Thị trấn La Hà, Huyện Tư Nghĩa, Quảng Ngãi",108.8192909,15.09580221,Cũ
+478,297E01,(KGG) Giồng Riềng,Kiên Giang,Huyện Giồng Riềng,"số 26, tổ 1 khu nội Ô, Thị Trấn Giồng Riềng, Huyện Giồng Riềng, Kiên Giang",105.313545,9.908612,Cũ
+479,225M02,(HPG) Cát Hải,Hải Phòng,Huyện Cát Hải,"Khu phố Hào Hy, Thị trấn Cát Hải, Cát Hải, TP Hải Phòng",106.890951,20.7970967,Cũ
+480,028T20,(HCM) Lê Bình,Hồ Chí Minh,Quận Tân Bình,"59 Lê Bình, Phường 4, Quận Tân Bình, TPHCM",106.658463,10.793008,Cũ
+481,028D01,(HCM)Khánh Hội,Hồ Chí Minh,Quận 4,"124 Vĩnh Hội, Phường 4, Quận 4, Hồ Chí Minh",106.704963,10.756098,Cũ
+482,028Q11,(HCM) Lê Lợi,Hồ Chí Minh,Quận Gò Vấp,"93 Lê Lợi, Phường  3, Quận Gò Vấp, Tp Hồ Chí Minh",106.6860114,10.8195298,Cũ
+1061,024F02,(HNI)Trần Thái Tông,Hà Nội,Quận Cầu Giấy,"Số 14 - Lô N07A, Khu đô thị mới Dịch Vọng, P. Dịch Vọng, Q. Cầu Giấy, Hà Nội",105.794669,21.029648,Cũ
+484,272L01,(LAN) Tân Trụ,Long An,Huyện Tân Trụ,"Số 23 Tỉnh lộ 833, Thị trấn Tân Trụ, Huyện Tân Trụ, Tỉnh Long An",106.508333,10.511667,Cũ
+485,238P01,(NAA) Con Cuông,Nghệ An,Huyện Con Cuông,"Khối 4, Thị Trấn Con Cuông , Con Cuông , Nghệ An",104.8723914,19.053236,Cũ
+486,251A32,(ĐNI) Phước Tân,Đồng Nai,Thành phố Biên Hoà,"T1779 Võ Nguyên Giáp, Phường Phước Tân, Thành phố Biên Hoà, Đồng Nai",106.896806,10.898899,Cũ
+487,269I01,(GLI) Phú Thiện,Gia Lai,Huyện Phú Thiện,"399 đường Hùng Vương, TT Phú Thiện, Huyện Phú Thiện, Tỉnh Giai Lai",108.314587,13.529783,Cũ
+488,219J01,(HGG) Bắc Quang,Hà Giang,Huyện Bắc Quang,"số 423 Tổ 3 Thị trấn Việt Quang, 
+Huyện Bắc Quang, Hà Giang",104.809355,22.41742,Cũ
+489,225H02,(HPG) Thiên Hương,Hải Phòng,Huyện Thủy Nguyên,"Thôn 6, Xã Kiền Bái, Huyện Thủy Nguyên, TP Hải Phòng",106.637749,20.92234,Cũ
+490,255C01,(QNI) Tư Nghĩa,Quảng Ngãi,Huyện Sơn Tịnh,"Thôn Phong Niên Thượng, Xã Tịnh Phong, huyện Sơn Tịnh, Quảng Ngãi",108.7959,15.179414,Cũ
+491,277J01,(ĐTP) Tân Hồng,Đồng Tháp,Huyện Tân Hồng,"Đường Trần Phú, Khóm 3, TT. Sa Rài, Huyện Tân Hồng, Tỉnh Đồng Tháp",105.467988,10.868627,Cũ
+492,277D02,(ĐTP) Hồng Ngự 2,Đồng Tháp,Huyện Hồng Ngự,"Thị Trấn Thường Thới Tiền, Huyện Hồng Ngự, Đồng Tháp",105.247307,10.813337,Cũ
+493,262A01,(ĐLK)233 Đinh Tiên Hoàng,Đắk Lắk,Thành phố Buôn Ma Thuột,"167 Mai Hắc Đế, P.Tân Thành, Tp. Buôn Ma Thuột, Đắk Lắk",108.029907,12.668308,Cũ
+494,221I01,(HYN) Văn Giang,Hưng Yên,Huyện Văn Giang,"Đường Thị Trấn Văn Giang, Huyện Văn Giang, Hưng Yên",105.93081,20.94614,Cũ
+495,236A01,(ĐNG)Đống Đa,Đà Nẵng,Quận Hải Châu,"64 Đầm Rong 2, Phường Thanh Bình, Quận Hải Châu, Đà Nẵng",108.2156903,16.0798406,Cũ
+496,293C01,(HGG) Long Mỹ,Hậu Giang,Thị xã Long Mỹ,"Số 157 Cách Mạng tháng 8 nối dài, Khu vực 5, Phường Thuận An, TT. Long Mỹ, Long Mỹ, Hậu Giang",105.566307,9.677626,Cũ
+497,277A02,(ĐTP) Phường 11,Đồng Tháp,Thành phố Cao Lãnh,"Số 1579 Tổ 35, Khóm 4, Phường 11, Thành Phố Cao Lãnh, Tỉnh Đồng Tháp",105.5658365,10.5032733,Cũ
+498,296E02,(AGG) Chợ Mới 2,An Giang,Huyện Chợ Mới(AG),"Số 961 ấp An Thuận, xã Hòa Bình, huyện Chợ Mới, tỉnh An Giang",105.460806,10.389111,Cũ
+499,237P01,(THA) Nông Cống,Thanh Hóa,Huyện Nông Cống,"SN 604 Tiểu Khu Bắc Giang, Đường Lam Sơn, TT Nông Cống, Huyện Nông Cống, Thanh Hóa",105.656111,19.631389,Cũ
+500,028O11,(HCM) Phường 22,Hồ Chí Minh,Quận Bình Thạnh,"21 Phú Mỹ, Phường 22, Quận Bình Thạnh, Hồ Chí Minh",106.714328,10.790541,Cũ
+501,222A01,(BNN) Võ Cường,Bắc Ninh,Thành phố Bắc Ninh,"Khu Khả Lễ, Phường Võ Cường, TP Bắc Ninh, Bắc Ninh",106.048778,21.162722,Cũ
+502,228D03,(NĐH) Nghĩa Lạc,Nam Định,Huyện Nghĩa Hưng,"Chợ Mới, Xã Nghĩa Lạc, Huyện Nghĩa Hưng, Nam Định",106.179052,20.111213,Cũ
+503,297H01,(KGG) Hòn Đất,Kiên Giang,Huyện Hòn Đất,"Số 454, Tổ 6, Khu phố Chòm Sao, Thị trấn Hòn Đất, Huyện Hòn Đất, Tỉnh Kiên Giang",104.934774,10.182763,Cũ
+504,277I01,(ĐTP) Tam Nông,Đồng Tháp,Huyện Tam Nông(ĐT),"Đường Võ Văn Kiệt, khóm 3, Thị trấn Tràm Chim, H.Tam Nông, Tỉnh Đồng Tháp",105.5585033,10.6655083,Cũ
+505,234K01,(HUE) Nam Đông,Thừa Thiên – Huế,Huyện Nam Đông,"Thôn đa phú, Xã Hương Phú, Huyện Nam Đông, Thừa Thiên - Huế",107.723871,16.184114,Cũ
+506,221E02,(HYN) Toàn Thắng,Hưng Yên,Huyện Kim Động,"Thôn Tương xá,  Xã Toàn Thắng, Huyện Kim Động, Tỉnh Hưng Yên",106.04781,20.785158,Cũ
+507,203A08,(QNH) Hà Tu,Quảng Ninh,Thành phố Hạ Long,"563 Vũ Văn Hiếu - Tổ 11 khu 5 Phường Hà Tu, TP Hạ Long, Quảng Ninh",107.143075,20.953247,Cũ
+508,258G01,(KHH) Ninh Diêm,Khánh Hòa,Thị xã Ninh Hòa,"5A Đường Lê Hồng Phong, Phường Ninh Diêm, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",109.216855,12.538014,Cũ
+509,296J01,(AGG) Tịnh Biên,An Giang,Huyện Tịnh Biên,"Khóm Trà Sư, Phường Nhà Bàng, Thị xã Tịnh Biên, An Giang",104.999612,10.618878,Cũ
+510,210A02,(PTO)Tiên Cát,Phú Thọ,Thành phố Việt Trì,"994 Đại Lộ Hùng Vương, Phường Thọ Sơn, Thành phố Việt Trì, Phú Thọ",105.4163608,21.3046001,Cũ
+511,263F01,(LĐG)Đạ Tẻh,Lâm Đồng,Huyện Đạ Tẻh,"38 phạm ngọc thạch TDP2, Thị trấn Đạ Tẻh, Huyện Đạ Tẻh, Lâm Đồng",107.482648,11.503172,Cũ
+512,256F02,(BĐH) Diêu Trì,Bình Định,Huyện Tuy Phước,"551 Trần Phú, Thị Trấn Diêu Trì, Huyện Tuy Phước, Bình Định",109.1467713,13.81681271,Cũ
+513,255B04,(QNI) Trà Xuân,Quảng Ngãi,Huyện Trà Bồng,"Số 410 Trà Bồng Khởi Nghĩa, Thị trấn Trà Xuân, Huyện Trà Bồng, Quảng Ngãi",108.8095185,15.12045218,Cũ
+514,232E01,(QBH)Đồng Lê,Quảng Bình,Huyện Tuyên Hóa,"Tiểu khu 4, Thị Trấn Đồng Lê, H.Tuyên Hoá , Quảng Bình",106.024165,17.88344,Cũ
+515,237J01,(THA) Quan Hóa,Thanh Hóa,Huyện Quan Hóa,"số nhà 57, khu 4, Thị trấn Hồi Xuân, Huyện Quan Hóa, Thanh Hóa",105.11073,20.377933,Cũ
+516,237Y01,(THA) Thường Xuân,Thanh Hóa,Huyện Thường Xuân,"SN 35 Cầm Bá Thước , Khu 2, Thị trấn Thường Xuân, Huyện Thường Xuân, Thanh Hóa",105.344752,19.904092,Cũ
+517,262D01,(ĐLK)Cư Mgar,Đắk Lắk,Huyện Cư Mgar,"160 Hùng Vương, Thị trấn Quảng Phú, Huyện Cư M'gar, Đắk Lắk",108.079304,12.825408,Cũ
+518,228C02,(NĐH) Hồng Quang,Nam Định,Huyện Nam Trực,"Cầu Vòi, xã Hồng Quang, huyện Nam Trực, tỉnh Nam Định",106.218333,20.38291,Cũ
+519,028Z02,(HCM) DC Nguyễn Văn Luông Q6,Hồ Chí Minh,Quận 6,"240/109 nguyễn văn luông p11 q6 , hcm",106.6374671,10.74545037,Cũ
+520,028L10,(HCM) An Phú Đông,Hồ Chí Minh,Quận 12,"140/46A Vườn Lài, Phường An Phú Đông, Quận 12, Hồ Chí Minh",106.689315,10.848162,Cũ
+521,203H03,(QNH) Ba Chẽ,Quảng Ninh,Huyện Ba Chẽ,"Khu 4, thị trấn Ba Chẽ, huyện Ba Chẽ, tỉnh Quảng Ninh",107.2802452,21.272365,Cũ
+522,028O12,(HCM) Phường 15,Hồ Chí Minh,Quận Bình Thạnh,"203 Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh",106.706699,10.800231,Cũ
+523,256C01,(BĐH)Phù Cát,Bình Định,Huyện Phù Cát,"158 Đường Trần Hưng Đạo, Thị trấn Ngô Mây, Huyện Phù Cát, Bình Định",109.05866,13.9981,Cũ
+524,238I02,(NAA) Đô Lương 2,Nghệ An,Huyện Đô Lương,"Xóm 5, Xã Mỹ Sơn, huyện Đô Lương, tỉnh Nghệ An",105.3364171,18.8541718,Cũ
+525,238B01,(NAA)Phạm Nguyễn Du,Nghệ An,Huyện Nghi Lộc,"Cầu Đồng Toàn Xóm Lộc Mỹ, Xã Nghi Xuân, Huyện Nghi Lộc, Nghệ An",105.7307122,18.74356483,Cũ
+1062,024F07,(HNI) Quan Hoa,Hà Nội,Quận Cầu Giấy,"Số 1 ngõ 26 đường Nguyễn Khánh Toàn, Tổ 5, P. Quan Hoa, Q. Cầu Giấy, Hà Nội",105.80383,21.035939,Cũ
+527,028U06,(HCM) Sơn Kỳ,Hồ Chí Minh,Quận Tân Phú,"62 Đoàn Giỏi, Phường Sơn Kì, Quận Tân Phú, Thành phố Hồ Chí Minh",106.627792,10.803437,Cũ
+528,028S05,(HCM) Phú Nhuận,Hồ Chí Minh,Quận Phú Nhuận,"36 Nguyễn Thị Huỳnh, p.11, Q. Phú Nhuận, TP HCM",106.6743283,10.79551838,Cũ
+529,028Z06,(HCM) DC Quang Trung,Hồ Chí Minh,Quận Gò Vấp,"42 đường số 21, phường 8, Quận Gò Vấp, TPHCM",106.6512528,10.84164546,Cũ
+530,028Z09,(HCM) DC Bình Tân,Hồ Chí Minh,Quận Bình Tân,"879/36 Hương Lộ 2, Phường Bình Trị Đông A, Quận Bình Tân, Thành phố Hồ Chí Minh",106.598347,10.764875,Cũ
+531,028N14,(HCM) Ấp Chiến Lược,Hồ Chí Minh,Quận Bình Tân,"292A Ấp Chiến Lược, P. Bình Hưng Hòa A , Q. Bình Tân, TpHCM",106.601252,10.788329,Cũ
+532,028H05,(HCM) Phạm Thế Hiển 2,Hồ Chí Minh,Quận 8,"17-19 đường số 892 Tạ Quang Bửu, Phường 5, Quận 8, Hồ Chí Minh",106.661826,10.73527,Cũ
+533,028E05,(HCM) Bùi Hữu Nghĩa,Hồ Chí Minh,Quận 5,"82 Trần Bình Trọng, Phường 1, Quận 5, Thành Phố Hồ Chí Minh",106.681843,10.754618,Cũ
+534,028A02,(HCM) Mai Thị Lựu,Hồ Chí Minh,Quận 1,"65 Mai Thị Lựu, Phường Đa Kao, Quận 1, Hồ Chí Minh",106.6981594,10.79198085,Cũ
+535,234C01,(HUE) Tứ Hạ,Thừa Thiên – Huế,Thị xã Hương Trà,"2A Kim Trà, Phường Tứ Hạ, Thị xã Hương Trà, Thừa Thiên Huế",107.4723585,16.52836684,Cũ
+536,234F01,(HUE) Phú Lộc,Thừa Thiên – Huế,Huyện Phú Lộc,"167 Lý Thánh Tông, Thị trấn Phú Lộc, Huyện Phú Lộc, Thừa Thiên Huế",107.8604159,16.28044864,Cũ
+537,272B02,(LAN) Cần Đước 2,Long An,Huyện Cần Đước,"330 HL20, tổ 16, ấp 4, Xã Long Hòa, Huyện Cần Đước, Tỉnh Long An",106.590833,10.582111,Cũ
+538,274K01,(BDG) Lai Uyên,Bình Dương,Huyện Bàu Bàng,"Đường NC, KCN Bàu Bàng, TT Lai Uyên, Huyện Bàu Bàng, tỉnh Bình Dương",106.629816,11.244768,Cũ
+539,271H01,(BPC)Bù Đốp,Bình Phước,Huyện Bù Đốp,"160, Khu phố Thanh Bình, Phường Uyên Hưng,Thị Trấn Thanh Bình, Huyện Bù Đốp, Bình Phước",106.795677,11.954796,Cũ
+540,274G01,(BDG) Dầu Tiếng,Bình Dương,Huyện Dầu Tiếng,"152 trần phú, khu phố 3, Thị Trấn Dầu Tiếng, Huyện Dầu Tiếng, Bình Dương",106.3581318,11.2792107,Cũ
+541,297B02,(KGG) An Minh 2,Kiên Giang,Huyện An Minh,"Tổ 4, Ấp 7, xã Đông Hòa, Huyện An Minh, Tỉnh Kiên Giang",104.9808309,9.737872,Cũ
+542,216D01,(YBI) Văn Yên,Yên Bái,Huyện Văn Yên,"Số 156A, đường Lý Thường Kiệt, tổ dân phố số 1, thị trấn Mậu A, huyện Văn Yên tỉnh Yên Bái",104.687504,21.881898,Cũ
+543,237G01,(THA)Phố cống,Thanh Hóa,Huyện Ngọc Lặc,"số 589, phố Cống, thị trấn Ngọc Lặc, huyện Ngọc Lặc, Thanh Hóa",105.378528,20.082803,Cũ
+544,227F02,(TBH) Hưng Nhân,Thái Bình,Huyện Hưng Hà,"Khu Thị An, Thị trấn Hưng Nhân, Huyện Hưng Hà, Tỉnh Thái Bình",106.15169,20.60998,Cũ
+545,237J02,(THA) Mường Lát,Thanh Hóa,Huyện Quan Hóa,"số nhà 57, khu 4, Thị trấn Hồi Xuân, Huyện Quan Hóa, Thanh Hóa",105.11073,20.377933,Cũ
+546,212H01,(SLA) Mường La,Sơn La,Huyện Mường La,"Số 619, Bản Chiềng Tè, TT. ÍT Ong, 
+H.Mường La, Sơn La",104.0256203,21.521895,Cũ
+1170,024F12,(HNI) Mai Dịch 2,Hà Nội,Quận Cầu Giấy,"Số 9 ngõ 62 Trần Bình, phường Mai Dịch, quận Cầu Giấy, thành phố Hà Nội",105.7765,21.0327,Mở mới
+548,028T11,(HCM) Tân Bình 1,Hồ Chí Minh,Quận Tân Bình,"108/E8 Cộng Hòa, Phường 4, Quận Tân Bình, HCM",106.6586325,10.80159181,Cũ
+549,229G01,(NBH) Yên Khánh,Ninh Bình,Huyện Yên Khánh,"Phố 1A, TT Yên Ninh, Huyện Yên Khánh, Ninh Bình",106.055925,20.192101,Cũ
+550,251A15,(ĐNI) Tam Phước,Đồng Nai,Thành phố Biên Hoà,"Ki-ốt số 17, Khối DV-K2 đường số 3, KCN Tam Phước, Phường Tam Phước, Thành phố Biên Hoà, Đồng Nai.",106.937813,10.858543,Cũ
+551,235N01,(QNM) Hiệp Đức,Quảng Nam,Huyện Hiệp Đức,"173 Hùng Vương, Thị Trấn Tân Bình, Huyện Hiệp Đức, Quảng Nam",108.0806548,15.56034845,Cũ
+552,251H01,(ĐNI) Gia Tân,Đồng Nai,Huyện Thống Nhất,"E4/083 Ấp Lê Lợi 2, Xã Quang Trung, Huyện Thống Nhất, Đồng Nai",107.14868,10.97812,Cũ
+553,207G01,(TQG) Sơn Dương,Tuyên Quang,Huyện Sơn Dương,"25 tổ dân phố Quyết Thắng, Thị trấn Sơn Dương, Huyện Sơn Dương, Tuyên Quang",105.3963401,21.69656989,Cũ
+554,219I01,(TPH) Xín Mần,Hà Giang,Huyện Xín Mần,"Tổ 3, Thị trấn Cốc Pài, Huyện Xín Mần, Hà Giang",104.4613419,22.6793937,Cũ
+555,211G01,(VPC) Yên Lạc,Vĩnh Phúc,Huyện Yên Lạc,"Thôn Bình Lâm, xã Tam Hồng, huyện Yên Lạc, Vĩnh Phúc",105.562575,21.221492,Cũ
+556,219A02,(TPH) Nguyễn Trãi,Hà Giang,Thành phố Hà Giang,"163 Minh Khai, tổ 2 Phường Minh Khai, Thành phố Hà Giang, Hà Giang",104.9793,22.811001,Cũ
+1184,024F05,(HNI) Mai Dịch,Hà Nội,Quận Cầu Giấy,"Số 20 ngõ 169 Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, Hà Nội",105.774372,21.038745,Đóng cửa
+558,261A02,(DKG) Nghĩa Tân,Đắk Nông,Thành phố Gia Nghĩa,"Tổ 2, Phường Nghĩa Tân, Thành phố Gia Nghĩa, Đăk Nông",107.672987,11.988959,Cũ
+1186,024F09,(HNI) Dịch Vọng Hậu,Hà Nội,Quận Cầu Giấy,"Số 51 ngõ 3 Phạm Tuấn Tài, Phường Dịch Vọng Hậu, Quận Cầu Giấy, Hà Nội",105.784818,21.04384,Đóng cửa
+560,220G01,(HDG) Ninh Giang,Hải Dương,Huyện Ninh Giang,"Đội 9, Thôn Tranh Xuyên, Xã Đồng Tâm, Huyện Ninh Giang, Hải Dương",106.39612,20.73106,Cũ
+561,229C02,(NBH) Quỳnh Lưu,Ninh Bình,Huyện Nho Quan,"Thôn Sòng Xanh , Xã Quỳnh Lưu, Huyện Nho Quan, Ninh Bình",105.8118927,20.23683719,Cũ
+562,229F01,(NBH) Gia Viễn,Ninh Bình,Huyện Gia Viễn,"117A Phố Mới, TT Me, huyện Gia Viễn, tỉnh Ninh Bình",105.8315,20.34812,Cũ
+563,277B01,(ĐTP)H.Cao Lãnh,Đồng Tháp,Huyện Cao Lãnh,"Ấp 3, Xã Bình Hàng Tây, Huyện Cao Lãnh, Tỉnh Đồng Tháp",105.762118,10.361527,Cũ
+564,237C01,(THA)Nguyễn Huệ,Thanh Hóa,Thị xã Bỉm Sơn,"Số 300 Nguyễn Huệ, P Ngọc Trạo, T.X Bỉm Sơn, Thanh Hóa",105.855854,20.07987,Cũ
+565,238L02,(NAA) Quỳ Hợp 2,Nghệ An,Huyện Quỳ Hợp,"thôn Minh Xuân, xã Minh Hợp, Quỳ Hợp, tỉnh Nghệ An",105.295225,19.347646,Cũ
+566,262J01,(ĐLK) Krông Bông,Đắk Lắk,Huyện Krông Bông,"thôn 10 Xã Hòa Sơn, Huyện Krông Bông, Tỉnh Đăk Lăk",108.3242,12.498901,Cũ
+567,277C01,(ĐTP) Châu Thành,Đồng Tháp,Huyện Châu Thành(ĐT),"Khu dân cư Chợ Nha Mân, xã Tân Nhuận Đông, H Châu Thành, Đồng Tháp",105.8296452,10.2667363,Cũ
+568,261F01,(DKG) Krông Nô,Đắk Nông,Huyện Krông Nô,"Tổ Dân Phố 3, Thị trấn Đăk Mâm, Huyện Krông Nô, Tỉnh Đăk Nông",107.863261,12.46904,Cũ
+14,024C02,(HNI)Yên Lãng,Hà Nội,Quận Đống Đa,"Số 37 ngõ 167, Tây Sơn, Phường Quang Trung, Quận Đống Đa, Hà Nội",105.82674,21.01002,Cũ
+570,239A01,(HTH)Hà Huy Tập,Hà Tĩnh,Thành phố Hà Tĩnh,"Số 07 hoàng xuân hãn, Khối phố 5, Phường Đại Nài, Thành phố Hà Tĩnh, Hà Tĩnh",105.898654,18.335355,Cũ
+571,260C01,(KTN) Đăk Hà,Kon Tum,Huyện Đắk Hà,"599 Hùng Vương, Thị Trấn Đăk Hà, Huyện Đắk Hà, Kon Tum",107.91861,14.520964,Cũ
+15,024C15,(HNI) Kim Liên,Hà Nội,Quận Đống Đa,"Tổ 81A ngách 41/36 phố Đông Tác, Phường Kim Liên, Quận Đống Đa, Hà Nội",105.83252,21.00387,Cũ
+573,213E02,(LCU) Sìn Hồ Thấp,Lai Châu,Huyện Sìn Hồ,"Xã Nậm Tăm, Huyện Sìn Hồ, Lai Châu",103.411842,22.281031,Cũ
+574,258F01,(KHH) Vạn Ninh,Khánh Hòa,Huyện Vạn Ninh,"269 Hùng Vương, Thị trấn Vạn Giã, Huyện Vạn Ninh, Khánh Hòa",109.2247318,12.69637689,Cũ
+575,297G01,(KGG) Hà Tiên,Kiên Giang,Thành Phố Hà Tiên,"242 Phương Thành, khu phố 4, Phường Đông Hồ, Thành Phố Hà Tiên, Kiên Giang",104.483416,10.392333,Cũ
+576,225H08,(HPG) Quảng Thanh,Hải Phòng,Huyện Thủy Nguyên,"Chợ Thanh Lãng, Xã Quảng Thanh, Huyện Thủy Nguyên, Hải Phòng",106.601242,20.974707,Cũ
+577,293G01,(HGG)TP. Vị Thanh,Hậu Giang,Thành phố Vị Thanh,"57, Đường Ngô Quốc Trị, Phường 5, Thành phố Vị Thanh, Hậu Giang",105.470751,9.784804825,Cũ
+578,276X01,(TNH) DC Hòa Thành,Tây Ninh,Thị Xã Hòa Thành,"Số 319-321 Châu Văn Liêm, Hiệp Long, Hiệp Tân, Thị Xã Hòa Thành, Tây Ninh",106.1164487,11.29439506,Cũ
+579,212L01,(SLA) Sốp Cộp,Sơn La,Huyện Sốp Cộp,"Bản Hua Mường, Xã Sốp Cộp, Huyện Sốp Cộp, Sơn La",103.605,20.94539,Cũ
+580,214D01,(LCI) Bắc Hà,Lào Cai,Huyện Bắc Hà,"Số nhà 305 Ngọc uyển, thị trấn bắc hà, huyện bắc hà, tỉnh lào cai",104.2927,22.5319,Cũ
+581,213C01,(LCU) Tân Uyên,Lai Châu,Huyện Tân Uyên,"TDP 2, Thị trấn Tân Uyên, Huyện Tân Uyên, Lai Châu",103.628111,22.319361,Cũ
+582,255D02,(QNI) Ba Tơ,Quảng Ngãi,Huyện Ba Tơ,"137 Phạm Văn Đồng, TT. Ba Tơ, Ba Tơ, Quảng Ngãi",108.734918,14.765768,Cũ
+583,252A10,(BTN) Hàm Kiểm,Bình Thuận,Huyện Hàm Thuận Nam,"Thửa đất số 98, tờ bản đồ số 98, Thôn Dân Phú, xã Hàm Kiệm, huyện Hàm Thuận Nam, tỉnh Bình Thuận",108.0127,10.92307,Cũ
+584,234A01,(HUE)Điện Biên Phủ,Thừa Thiên – Huế,Thành phố Huế,"24 Võ Liêm Sơn, Phường Trường An, Thành phố Huế, Thừa Thiên Huế",107.584475,16.44337555,Cũ
+585,234A07,(HUE) Đinh Tiên Hoàng,Thừa Thiên – Huế,Thành phố Huế,"30 Nguyễn Phúc Nguyên, Phường Hương Long, Thành phố Huế, Thừa Thiên Huế",107.5562717,16.45620302,Cũ
+586,272C02,(LAN) Cần Giuộc 2,Long An,Huyện Cần Giuộc,"Ấp 2/5, xã Long Hậu, huyện Cần Giuộc, Tỉnh Long An.",106.690159,10.6338673,Cũ
+587,213G01,(LCU) Mường Tè,Lai Châu,Huyện Mường Tè,"SN 03, Đường Võ Nguyên Giáp, Khu 12 TT. Mường Tè, Huyện Mường Tè, Tỉnh Lai Châu",102.820934,22.381751,Cũ
+588,258B01,(KHH)Diên Khánh,Khánh Hòa,Huyện Diên Khánh,"Thôn Phú Ân Nam 4, Xã Diên An, Huyện Diên Khánh, Tỉnh Khánh Hòa",109.110277,12.256901,Cũ
+589,212F01,(SLA) Sông Mã,Sơn La,Huyện Sông Mã,"Tổ 4, thị trấn Sông Mã, huyện Sông Mã, Sơn La",103.749736,21.051573,Cũ
+590,258C01,(KHH)Cam Lâm,Khánh Hòa,Huyện Cam Lâm,"Số 343, Đường Trường Chinh, Thị trấn Cam Đức, Huyện Cam Lâm, Khánh Hòa",109.1608801,12.05680253,Cũ
+591,272K01,(LAN) Tân Thạnh,Long An,Huyện Tân Thạnh,"Khu phố 1, Thị trấn Tân Thạnh, Huyện Tân Thạnh, Long An",106.049472,10.603611,Cũ
+592,228A02,(NĐH) Song Hào,Nam Định,Thành phố Nam Định,"581 Trần Nhân Tông, Phường Vị Hoàng, TP. Nam Định, Nam Định",106.1862644,20.42903786,Cũ
+593,228D01,(NĐH) Nghĩa Hưng,Nam Định,Huyện Nghĩa Hưng,"Thị Trấn Liễu Đề, Huyện Nghĩa Hưng, Nam Định",106.181793,20.222652,Cũ
+594,263E01,(LĐG)Đạ Huoai,Lâm Đồng,Huyện Đạ Huoai,"số 11  tổ dân phố 3, TT Madagui, H. Đạ Huoai, Lâm Đồng",107.537094,11.386568,Cũ
+595,263J01,(LĐG) Đơn Dương,Lâm Đồng,Huyện Đơn Dương,"Thôn Tân Lập, Xã Lạc Lâm, Huyện Đơn Dương, Lâm Đồng",108.509868,11.768285,Cũ
+596,212E01,(SLA) Phù Yên,Sơn La,Huyện Phù Yên,"SN 41, Tiểu khu 1, Huyện Phù Yên, Sơn La",104.6450406,21.2590216,Cũ
+597,297J01,(KGG) Kiên Lương,Kiên Giang,Huyện Kiên Lương,"Tổ 16, Khu phố Tám Phước, Thị trấn Kiên Lương, Huyện Kiên Lương, Tỉnh Kiên Giang",104.614281,10.26638,Cũ
+598,269O01,(GLI) Krông Pa,Gia Lai,Huyện Krông Pa,"186 Hùng Vương, thị trấn Phú Túc, huyện Krông Pa, tỉnh Gia Lai",108.68353,13.203059,Cũ
+599,237D01,(THA)Sơn Lợi,Thanh Hóa,Thành phố Sầm Sơn,"khu phố Sơn Lợi ,p. Trường Sơn , tp Sầm Sơn ,Thanh Hóa",105.889595,19.737657,Cũ
+600,237A03,(THA)Quang Trung 2,Thanh Hóa,Thành phố Thanh Hóa,"818 Quang Trung, Phường Đông Vệ, Tp Thanh Hóa, Thanh Hóa",105.7753447,19.77220907,Cũ
+601,237V01,(THA) Đông Sơn,Thanh Hóa,Huyện Đông Sơn,"KP Xuân Lưu, Huyện Đông Sơn, Thanh Hóa",105.690556,19.820278,Cũ
+602,028E06,(HCM) Trần Hưng Đạo,Hồ Chí Minh,Quận 5,"212 Trần Hưng Đạo, P11, Quận 5, TPHCM",106.666163,10.752728,Cũ
+603,274D02,(BDG)Hội Nghĩa,Bình Dương,Thị xã Tân Uyên,"đường Nguyễn Khuyến, Phường Tân Hiệp, Thị xã Tân Uyên, Bình Dương",106.764088,11.102868,Cũ
+604,212I01,(SLA) Bắc Yên,Sơn La,Huyện Bắc Yên,"Chợ trung tâm tiểu khu 3, Thị trấn Bắc Yên, Huyện Bắc Yên, Sơn La",104.435006,21.246917,Cũ
+605,292H01,(CTO) Thới Lai,Cần Thơ,Huyện Thới Lai,"Ấp Thới Hiệp A, Thị trấn Thới Lai, Huyện Thới Lai, TP. Cần Thơ",105.5587301,10.0628239,Cũ
+606,252C01,(BTN)17-4,Bình Thuận,Huyện Tuy Phong,"42 đường 17/4, thị trấn Liên Hương, huyện Tuy Phong, tỉnh Bình Thuận",108.729887,11.227566,Cũ
+607,252B01,(BTN)Lagi,Bình Thuận,Thị xã La Gi,"86 Hồ Xuân Hương, Phường Tân An, Thị xã La Gi, Bình Thuận",107.7526663,10.68171178,Cũ
+608,236G01,(ĐNG) Hòa Vang,Đà Nẵng,Huyện Hòa Vang,"Đường Cầu Đỏ - Tuý Loan, Xã Hoà Nhơn, Huyện Hoà Vang, Thành phố Đà Nẵng",108.1465506,15.9969675,Cũ
+609,237Z01,(THA) Như Xuân,Thanh Hóa,Huyện Như Xuân,"Khu phố 1, thị trấn Yên Cát, Như Xuân, Thanh Hóa",105.437222,19.679167,Cũ
+610,204I01,(BGG) Hiệp Hòa,Bắc Giang,Huyện Hiệp Hoà,"Thôn Đức Nghiêm, Xã Ngọc Sơn, Huyện Hiệp Hoà, Bắc Giang",105.982912,21.3669856,Cũ
+611,291C01,(BLU) Phước Long,Bạc Liêu,Huyện Phước Long,"ấp Nội Ô, TT Phước Long, huyện Phước Long, tỉnh Bạc Liêu",105.462428,9.437861,Cũ
+612,209C01,(TPB) Ba Bể,Bắc Kạn,Huyện Ba Bể,"tiểu khu 5, thị trấn chợ rã, huyện Ba Bể, Bắc Cạn",105.734907,22.457169,Cũ
+613,271E03,(BPC) Minh Lập,Bình Phước,Huyện Chơn Thành,"Ấp 4, Xã Minh Lập, Thị xã Chơn Thành, Bình Phước",106.7518948,11.5160663,Cũ
+614,225Q66,(HPG) DC Ngô Quyền,Hải Phòng,Quận Ngô Quyền,"Số 59 Đường Ngô Quyền, Phường Máy Chai, Quận Ngô Quyền, Hải Phòng",106.70881,20.87338,Cũ
+192,024C07,(HNI) Thịnh Quang,Hà Nội,Quận Đống Đa,"248 đường Láng, phường Thịnh Quang, quận Đống Đa, thành phố Hà Nội",105.816183,21.006716,Cũ
+616,235I01,(QNM) Tiên Phước,Quảng Nam,Huyện Tiên Phước,"11 Lê Vĩnh Huy, Thị trấn Tiên Kỳ,
+ Huyện Tiên Phước, Quảng Nam",108.304057,15.488622,Cũ
+617,297K04,(KGG) Cửa Dương,Kiên Giang,Thành Phố Phú Quốc,"Ấp Bến Tràm, Xã Cửa Dương, Thành Phố Phú Quốc,Tỉnh Kiên Giang",103.992288,10.2340393,Cũ
+618,260E01,(KTN) Đắk Tô,Kon Tum,Huyện Đắk Tô,"21 Đường Hai Mươi Tháng Tư, Khối 4,Thị Trấn  Đăk Tô, huyện Đăk Tô, Kon Tum",107.832788,14.658341,Cũ
+619,251F01,(ĐNI)Xuân Bình,Đồng Nai,Thành Phố Long Khánh,"2/12 Nguyễn Trung Trực, Phường Bảo Vinh,Thành Phố Long Khánh, Đồng Nai",107.246855,10.9445696,Cũ
+620,028N08,(HCM) Bình Trị Đông,Hồ Chí Minh,Quận Bình Tân,"370A Tân Hòa Đông, khu phố 5, Phường Bình Trị Đông, Quận Bình Tân, Hồ Chí Minh",106.617333,10.766178,Cũ
+621,235L01,(QNM) Đông Giang,Quảng Nam,Huyện Đông Giang,"Thôn ngã 3,Thị trấn Prao,
+ huyện Đông Giang, tỉnh Quảng Nam",107.638549,15.926587,Cũ
+622,235R01,(QNM) Bắc Trà My,Quảng Nam,Huyện Bắc Trà My,"145 Võ Nguyên Giáp, thị trấn Trà My, 
+huyện Bắc Trà My, tỉnh Quảng Nam",108.226366,15.346545,Cũ
+623,232H01,(QBH) Minh Hóa,Quảng Bình,Huyện Minh Hóa,"148 Võ Nguyên Giáp, Tiểu khu 1, Thị Trấn Quy Đạt, Huyện Minh Hóa, Quảng Bình",105.971389,17.801667,Cũ
+624,232B01,(QBH) Lệ Thủy,Quảng Bình,Huyện Lệ Thủy,"Đường Nguyễn Tất Thành, Thị trấn Kiến Giang, Huyện Lệ Thủy, Quang Bình",106.786784,17.224983,Cũ
+625,292D07,(CTO) An Bình,Cần Thơ,Quận Bình Thủy,"Địa chỉ Thửa Đất số 952 tờ bản đồ số 12 Đường Nguyễn Văn Cừ. P.Long Tuyền Q.Bình Thủy 
+TP Cần Thơ",105.738,10.01745,Cũ
+626,274B06,(BDG)VSIP,Bình Dương,Thành phố Thuận An,"04K Nguyễn Du, Tổ 1, Khu Phố Bình Đức 3, Phường Bình Hòa, Thành phố Thuận An, B",106.713688,10.923941,Cũ
+627,221D01,(HYN)Văn Lâm,Hưng Yên,Huyện Văn Lâm,"Thôn Bùng Đông, Xã Đại Đồng, Huyện Văn Lâm, Hưng Yên",106.06072,20.99205,Cũ
+628,237T01,(THA) Thạch Thành,Thanh Hóa,Huyện Thạch Thành,"Số nhà 214 khu 2, thị trấn Kim Tân, Thạch Thành, Thanh Hóa",105.674167,20.130556,Cũ
+629,237M01,(THA) Hà Trung,Thanh Hóa,Huyện Hà Trung,"Tiểu khu 5, Thị trấn Hà Trung, Huyện Hà Trung, Thanh Hóa",105.846111,19.998056,Cũ
+630,205K01,(TPL) Đình Lập,Lạng Sơn,Huyện Đình Lập,KHU 4 TT ĐÌNH LẬP - ĐÌNH LẬP - LẠNG SƠN,107.549726,21.324682,Cũ
+631,259H01,(NTN) Ninh Sơn,Ninh Thuận,Huyện Ninh Sơn,"Quốc Lộ 27A, La Vang 1, Xã Quảng Sơn, Huyện Ninh Sơn, Ninh Thuận",108.792379,11.761237,Cũ
+632,213B01,(LCU) Phong Thổ,Lai Châu,Huyện Phong Thổ,"Số nhà 87, đối diện KS Lan Anh, TDP Hoà Bình, TT Phong Thổ, H. Phong Thổ, Lai Châu",103.296871,22.543967,Cũ
+633,238R01,(NAA) Anh Sơn,Nghệ An,Huyện Anh Sơn,"Xóm 1, Xã Phúc Sơn, Huyện Anh Sơn, Nghệ An",105.0756331,18.9362103,Cũ
+634,255E01,(QNI) Di Lăng,Quảng Ngãi,Huyện Sơn Hà,"336 Đường 17/03, Thị trấn Di Lăng, Huyện Sơn Hà, Quảng Ngãi",108.473402,15.048991,Cũ
+242,024C12,(HNI) Tôn Đức Thắng,Hà Nội,Quận Đống Đa,"Số 184 Tôn Đức Thắng, phường Hàng Bột, quận Đống Đa, thành phố Hà Nội",105.8318032,21.02279605,Cũ
+636,214F01,(LCI) Mường Khương,Lào Cai,Huyện Mường Khương,"461 Giải Phóng, Thị trấn Mường Khương, Huyện Mường Khương, Lào Cai",104.127621,22.761594,Cũ
+637,252E02,(BTN) Lương Sơn,Bình Thuận,Huyện Bắc Bình,"343 Nguyễn Tất Thành, Thị Trấn Lương Sơn, Huyện Bắc Bình, Tỉnh Bình Thuận",108.37073,11.193729,Cũ
+638,272O01,(LAN) Vĩnh Hưng,Long An,Huyện Vĩnh Hưng,"Số 21, đường 3/2, KP Măng Đa, thị trấn Vĩnh Hưng, Vĩnh Hưng, Long An",105.7859,10.89542,Cũ
+639,296G02,(AGG) Phú Tân 2,An Giang,Huyện Phú Tân(AG),"107 ấp Phú Xương, TT Chợ Vàm, Phú Tân, An Giang",105.344177,10.709798,Cũ
+640,235C02,(QNM) Chu Lai,Quảng Nam,Huyện Núi Thành,"Thôn An Lương, Xã Tam Anh Bắc, Huyện Núi Thành, Quảng Nam",108.561331,15.514504,Cũ
+641,258B02,(KHH) Diên Phước,Khánh Hòa,Huyện Diên Khánh,"Tỉnh lộ 2, Xã Diên Phước, Huyện Diên Khánh, Khánh Hòa",109.0498142,12.25913641,Cũ
+642,228B02,(NĐH) Thị Lý,Nam Định,Huyện Hải Hậu,"TDP Thị Lý, Thị Trấn Cồn, Huyện Hải Hậu, tỉnh Nam Định",106.267254,20.124538,Cũ
+643,213D01,(LCU) Than uyên,Lai Châu,Huyện Than Uyên,"709 ĐIỆN BIÊN PHỦ, Khu 5, thị trấn Than Uyên, huyện Than Uyên, Lai Châu",103.886222,21.955,Cũ
+644,213A02,(LCU) Đông Phong,Lai Châu,Thành phố Lai Châu,Đường 30/4 Tổ 23Phường Đông Phong - Thành Phố Lai Châu - Tỉnh Lai Châu,103.490095,22.385359,Cũ
+645,237A07,(THA) Tống Duy Tân,Thanh Hóa,Thành phố Thanh Hóa,"Số 281 Tống Duy Tân, Phường Lam Sơn,TP Thanh Hóa, Tỉnh Thanh Hóa",105.776855,19.804541,Cũ
+646,210I01,(PTO) Thanh Sơn,Phú Thọ,Huyện Thanh Sơn,"Nhà số 6, Phố Hạ Sơn,Thị trấn Thanh Sơn, Huyện Thanh Sơn, Phú Thọ",105.1771982,21.2023081,Cũ
+647,261B01,(DKG)Cư Jut,Đắk Nông,Huyện Cư Jút,"Số 178 Nguyễn Văn Linh, Xã Ea T'Ling, Huyện Cư Jút, Đăk Nông",107.893778,12.595291,Cũ
+648,229D01,(NBH) Yên Mô,Ninh Bình,Huyện Yên Mô,"Ngã 3 Chợ Lồng, Xã Yên Phong, Huyện Yên Mô, Ninh Bình",106.02546,20.14455,Cũ
+649,229G02,(NBH) Khánh Nhạc,Ninh Bình,Huyện Yên Khánh,"Xóm 3C, Xã Khánh Nhạc, Huyện Yên Khánh, Tỉnh Ninh Bình",106.076934,20.167222,Cũ
+650,263B03,(LĐG) Yersin Đà Lạt,Lâm Đồng,Thành phố Đà Lạt,"11 Lữ Gia, Phường 9, Thành phố Đà Lạt, Lâm Đồng",108.464437,11.951561,Cũ
+651,238I01,(NAA)Đô Lương,Nghệ An,Huyện Đô Lương,"Xóm 6, Xã Đông Sơn, Huyện Đô Lương, Nghệ An",105.303621,18.898734,Cũ
+652,203A10,(QNH) Cái Dăm,Quảng Ninh,Thành phố Hạ Long,"Ô Số 18 Lô Sn Khu Nhà Ở Sân Vườn Cái Dăm, P. Bãi Cháy, Tp  Hạ Long, Quảng Ninh",107.022948,20.9592997,Cũ
+653,229F02,(NBH) Gia Tân,Ninh Bình,Huyện Gia Viễn,"Đường 477, thôn Xuân Đài, Xã Gia Tân, huyện Gia Viễn, tỉnh Ninh Bình",105.9051071,20.3394909,Cũ
+654,263G04,(LĐG) Phi Nôm,Lâm Đồng,Huyện Đức Trọng,"12/2 Quốc Lộ 20, Thôn Quảng Hiệp, Xã Hiệp Thạnh, Huyện Đức Trọng, Lâm Đồng",108.425861,11.792383,Cũ
+655,234M01,(HUE) A Lưới,Thừa Thiên – Huế,Huyện A Lưới,"180 Hồ Chí Minh, Thị trấn A Lưới, 
+Huyện A Lưới, Tỉnh Thừa Thiên Huế",107.233204,16.272633,Cũ
+656,237H01,(THA) Hoằng Hóa,Thanh Hóa,Huyện Hoằng Hóa,"Thôn 1, Xã Hoằng Đồng, Huyện Hoằng Hóa, Thanh Hóa",105.851667,19.841111,Cũ
+657,237R01,(THA) Lang Chánh,Thanh Hóa,Huyện Lang Chánh,"Phố 1 - thị trấn Lang Chánh, huyện Lang Chánh, tỉnh Thanh Hóa",105.239722,20.154722,Cũ
+243,024C13,(HNI) Trung Phụng,Hà Nội,Quận Đống Đa,"74 Phố Trung Phụng, Phường Trung Phụng, Quận Đống Đa, Hà Nội",105.835226,21.015627,Cũ
+1056,024C05,(HNI) Hào Nam,Hà Nội,Quận Đống Đa,"148 Đê La Thành, Phường Ô Chợ Dừa, Quận Đống Đa, Hà Nội",105.8276768,21.02038781,Cũ
+660,214A02,(LCI)Kim Tân,Lào Cai,Thành phố Lào Cai,"Số nhà 97 đường Phú Thịnh, Phường Bắc Cường, Tp Lào Cai, tỉnh Lào Cai.",103.988472,22.474889,Cũ
+661,259B01,(NTN) Phước Dân,Ninh Thuận,Huyện Ninh Phước,"228 Quốc Lộ  1A, khu phố 2, TT. Phước Dân, Huyện Ninh Phước, Ninh Thuận",108.9225459,11.52137597,Cũ
+662,259G01,(NTN) Cà Ná,Ninh Thuận,Huyện Thuận Nam,"Khu quy hoạch Cảng cá Cà Ná mở rộng, xã Cà Ná, H. Thuận Nam, Ninh Thuận",108.8877147,11.3460564,Cũ
+663,259F01,(NTN) Bắc Phong,Ninh Thuận,Huyện Thuận Bắc,"Thôn Ba Tháp, xã Bắc Phong, huyện Thuận Bắc, tỉnh Ninh Thuận",109.039038,11.68089,Cũ
+664,203Q01,(QNH) DC Hà Khánh A,Quảng Ninh,Thành phố Hạ Long,"ô số 10, lô C10, khu đô thị cao xanh, hà khánh A, phường Cao Xanh, thành phố Hạ Long, Quảng Ninh",107.080146,20.972738,Cũ
+665,203B05,(QNH) Cẩm Sơn,Quảng Ninh,Thành phố Cẩm Phả,"265 Đường Hoàng Quốc Việt, Tổ 2 Khu Nam Sơn 2, P. Cẩm Sơn, Tp Cẩm Phả, Quảng Ninh",107.305852,21.004291,Cũ
+666,228I02,(NĐH) Yên Cường,Nam Định,Huyện Ý Yên,"Xã Yên Cường, huyện Ý Yên, tỉnh Nam Định",106.08751,20.288112,Cũ
+667,228E01,(NĐH) Xuân Trường,Nam Định,Huyện Xuân Trường,"Tổ 16, thị trấn Xuân Trường, huyện Xuân Trường, Nam Định",106.327601,20.267998,Cũ
+668,229E01,(NBH) Tam Điệp,Ninh Bình,Thành phố Tam Điệp,"451 Quang Trung tổ 24 Trung Sơn, Thành phố Tam Điệp, Ninh Bình",105.9096746,20.15293659,Cũ
+669,229A02,(NBH) Lương Văn Thăng,Ninh Bình,Thành phố Ninh Bình,"Khu dân cư phía Đông, Xã Ninh Tiến, Thành phố Ninh Bình, Ninh Bình",105.9562,20.24371,Cũ
+670,229A01,(NBH) Nguyễn Công Trứ,Ninh Bình,Thành phố Ninh Bình,"8B Nguyễn Văn Cừ, Phường Thanh Bình, Thành Phố Ninh Bình, Ninh Bình",105.98051,20.25346,Cũ
+671,204E01,(BGG) Lạng Giang,Bắc Giang,Huyện Lạng Giang,"số nhà 38, Đường Trần Cung, thị trấn Vôi, Huyện lạng giang, tỉnh bắc giang",106.260029,21.35493,Cũ
+672,262K01,(ĐLK) MĐrắk,Đắk Lắk,Huyện MDrăk,"Thôn 1, xã Krông Jing, huyện MĐrăk, tỉnh Đắk Lắk",108.731425,12.757701,Cũ
+673,277L02,(ĐTP) Tháp Mười 2,Đồng Tháp,Huyện Tháp Mười,"Đường 2 chiều, Ấp 5a,Trường Xuân, Tháp Mười, Đồng Tháp",105.7896649,10.6551582,Cũ
+674,277L01,(ĐTP) Tháp Mười,Đồng Tháp,Huyện Tháp Mười,"Số 17 Trần Hưng Đạo ,Thị trấn Mỹ An, Huyện Tháp Mười, Đồng Tháp",105.845808,10.524659,Cũ
+675,262L01,(ĐLK) Buôn Đôn,Đắk Lắk,Huyện Buôn Đôn,"Số 08 Thôn 15, Xã Tân Hòa, Huyện Buôn Đôn, Tỉnh Đăk Lăk",107.900782,12.804947,Cũ
+676,272F01,(LAN) Đức Huệ,Long An,Huyện Đức Huệ,"Khu phố 1, Thị trấn Đông Thành, Huyện Đức Huệ, Long An",106.30884,10.898704,Cũ
+677,203D01,(HPG) Thanh Sơn,Quảng Ninh,Thành phố Uông Bí,"Khu cầu Sến khu 7 Phường Thanh Sơn, Thành phố Uông Bí, Quảng Ninh",106.70924,21.0414,Cũ
+678,228G02,(NĐH) Trung Thành,Nam Định,Huyện Vụ Bản,"Xã Cộng Hòa, Huyện Vụ Bản, Tỉnh Nam Định",106.0885,20.38155,Cũ
+679,205A04,(TPL) Đông Kinh,Lạng Sơn,Thành phố Lạng Sơn,"130 Lê Đại Hành, Phường Đông Kinh, Thành phố Lạng Sơn, Lạng Sơn",106.745363,21.848064,Cũ
+680,271I02,(BPC) Bù Nho,Bình Phước,Huyện Phú Riềng,"Thửa đất số 72, Tờ bản đồ số 08, Thôn Tân Hiệp 2, Xã Bù Nho, Huyện Phú Riềng, Tỉnh Bình Phước",106.87281,11.730001,Cũ
+681,271G01,(BPC)Lộc Ninh,Bình Phước,Huyện Lộc Ninh,"567, khu phố Ninh Thành, quốc lộ 13, Thị trấn Lộc Ninh, Huyện Lộc Ninh, Bình Phước",106.5859594,11.8500732,Cũ
+682,271G02,(BPC) Lộc Hiệp,Bình Phước,Huyện Lộc Ninh,"Thửa đất số 633, Tờ bản đồ số 14, Ấp Hiệp Tâm, Xã Lộc Hiệp, Huyện Lộc Ninh, Bình Phước",106.5861311,11.8498002,Cũ
+683,296D01,(AGG) Châu Thành,An Giang,Huyện Châu Thành(AG),"Ấp Phú Hòa 1, Xã Bình Hòa, Huyện Châu Thành, An Giang",105.348297,10.4482,Cũ
+684,296C01,(AGG) Châu Phú,An Giang,Huyện Châu Phú,"Ấp Vĩnh Tiến, Thị Trấn Cái Dầu, Huyện Châu Phú, An Giang",105.2417899,10.5727993,Cũ
+685,260G01,(KTN) Ia Hdrai,Kon Tum,Huyện Ia HDrai,"Thôn 2 Xã Ia Dom, Huyện Ia H'Drai, Tỉnh Kon Tum",107.45721,14.119807,Cũ
+686,238C02,(NAA) Diễn Châu 2,Nghệ An,Huyện Diễn Châu,"Xã Diễn Hồng, huyện Diễn Châu, tỉnh Nghệ An",105.582966,19.039859,Cũ
+687,205E01,(TPL) Đồng Đăng,Lạng Sơn,Huyện Cao Lộc,"Số 8 Trung Tâm Thương Mại, Thị 
+trấn Đồng Đăng, Huyện 
+Cao Lộc, Lạng Sơn",106.6992399,21.9438457,Cũ
+688,271D01,(BPC)Đồng Phú,Bình Phước,Huyện Đồng Phú,"254 ấp Chợ, Xã Tân Tiến, Huyện Đồng Phú, Tỉnh Bình Phước",106.89416,11.52840329,Cũ
+689,292D06,(CTO) Xuân Khánh,Cần Thơ,Quận Ninh Kiều,"Số 188/15 đường Nguyễn Văn Cừ, Phường An Hòa, Quận Ninh Kiều, Thành phố Cần Thơ",105.768278,10.048611,Cũ
+690,292B01,(CTO)Võ Nguyên Giáp,Cần Thơ,Quận Cái Răng,"18-63 Cao Minh Lộc, Phường Phú Thứ, Quận Cái Răng, Cần Thơ",105.8030128,10.0016789,Cũ
+691,292A01,(CTO)Lê Hồng Phong,Cần Thơ,Quận Bình Thủy,"A1 tổ 7, KV4 đường Lê hồng Phong, P. Trà Nóc, Q. Bình Thủy, TPCT",105.705573,10.100727,Cũ
+692,292A02,(CTO)Cách Mạng Tháng 8,Cần Thơ,Quận Bình Thủy,"91/9A đường CMT8, Phường An Thới, Quận Bình Thủy, Thành phố Cần Thơ",105.7606164,10.0639184,Cũ
+693,212J01,(SLA) Quỳnh Nhai,Sơn La,Huyện Quỳnh Nhai,"Xóm 3, xã Mường Giàng, Huyện Quỳnh Nhai, Tỉnh Sơn La",103.629256,21.649164,Cũ
+694,212C01,(SLA)Mai Sơn,Sơn La,Huyện Mai Sơn,"Tiểu khu 20, TT Hát Lót, Huyện Mai Sơn, tỉnh Sơn La",104.543696,21.1217442,Cũ
+695,296E01,(AGG) Chợ Mới,An Giang,Huyện Chợ Mới(AG),"Đường số 1, KDC Sao Mai, ấp Thị 2, Thị trấn Chợ Mới, Huyện Chợ Mới, An Giang",105.401965,10.540671,Cũ
+696,296A01,(AGG) An Phú,An Giang,Huyện An Phú,"Ấp 04, Thị trấn An Phú, Huyện An Phú, Tỉnh An Giang",105.094367,10.80258,Cũ
+697,204B01,(BGG)Tân Yên,Bắc Giang,Huyện Tân Yên,"Khu Ao Si, Làng Đình Giã, Thị trấn Cao Thượng, Huyện Tân Yên, Bắc Giang",106.1253336,21.39280997,Cũ
+698,204B02,(BGG) Nhã Nam,Bắc Giang,Huyện Tân Yên,"TDP Đoàn kết, Thị Trấn Nhã Nam, Thị Trấn Nhã Nam, Huyện Tân Yên, Bắc Giang",106.095154,21.444785,Cũ
+699,291E01,(BLU) Vĩnh Lợi,Bạc Liêu,Huyện Vĩnh Lợi,"Ấp Tân Tạo, TT. Châu Hưng, huyện Vĩnh Lợi, tỉnh Bạc Liêu",105.717762,9.328028,Cũ
+700,260B01,(KTN)Ngọc Hồi,Kon Tum,Huyện Ngọc Hồi,"34 Hoàng Thị Loan, thị trấn Plei Cần",107.690822,14.706638,Cũ
+701,219B01,(TPH) Đồng Văn,Hà Giang,Huyện Đồng Văn,"Số 253, Tổ 1, Thị trấn Đồng Văn, Huyện Đồng văn, Hà Giang",105.3597103,23.2772712,Cũ
+702,219J03,(TPH) Vĩnh Tuy,Hà Giang,Huyện Bắc Quang,"Tổ dân phố mới, thị trấn Vĩnh Tuy, huyện Bắc Quang, tỉnh Hà Giang,",104.8853,22.273732,Cũ
+703,205C01,(TPL) Bình Gia,Lạng Sơn,Huyện Bình Gia,"KP Ngã Tư, Thị trấn Bình Gia, Huyện Bình Gia, Lạng Sơn",106.374896,21.951688,Cũ
+704,238M03,(NAA) Thanh Giang,Nghệ An,Huyện Thanh Chương,"Xóm Giang Liên, Xã Thanh Giang, Huyện Thanh Chương , Tỉnh Nghệ An",105.41794,18.6754,Cũ
+705,238M02,(NAA) Thanh Chương 2,Nghệ An,Huyện Thanh Chương,"xóm 4, Hạnh Lâm, Thanh Chương, Tỉnh Nghệ An",105.181111,18.813889,Cũ
+706,212A02,(SLA) Chiềng Sinh,Sơn La,Thành phố Sơn La,"Bản Thẳm, Phường Chiềng Sinh, Thành Phố Sơn La, Sơn La",103.981149,21.276178,Cũ
+707,291C02,(BLU) Phó Sinh,Bạc Liêu,Huyện Phước Long,"89R5+HHC, Xã Phong Thạnh Tây A, Huyện Phước Long, Bạc Liêu",105.358891,9.341607,Cũ
+708,291D01,(BLU) Hồng Dân,Bạc Liêu,Huyện Hồng Dân,"Đường Nguyễn Trung Trực, Ấp Thống Nhất,  TT Ngan Dừa, Hồng Dân, Bạc Liêu",105.4492861,9.5702929,Cũ
+709,291G02,(BLU) Điền Hải,Bạc Liêu,Huyện Đông Hải,"Ấp Diêm Điền, xã Điền Hải, huyện Đông Hải, tỉnh Bạc Liêu",105.489928,9.128299,Cũ
+710,291G01,(BLU) Gành Hào,Bạc Liêu,Huyện Đông Hải,"Ấp Lung Chim, xã Định Thành, huyện Đông Hải, tỉnh Bạc Liêu",105.283634,9.139515,Cũ
+711,209B01,(TPB) Pác Nặm,Bắc Kạn,Huyện Pác Nặm,"thôn Đông Lẻo, xã Bộc Bố, huyện Pác Nặm, tỉnh Bắc Kạn",105.654941,22.603934,Cũ
+1057,024C06,(HNI) Láng Thượng,Hà Nội,Quận Đống Đa,"976 Đường Láng, P. Láng Thượng, Q. Đống Đa, Tp. Hà Nội",105.8005592,21.02245304,Cũ
+713,269J01,(GLI) Chư Prông,Gia Lai,Huyện Chư Prông,"416 Hùng Vương, TT Chư Prông, Chư Prông, Gia Lai",107.8736889,13.75100521,Cũ
+714,260A01,(KTN)KonTum 1,Kon Tum,Thành phố Kon Tum,"254-256 Trường Trinh, P. Quang Trung, TP Kon Tum, Kon Tum",108.002383,14.362201,Cũ
+715,212D01,(SLA)Thuận Châu,Sơn La,Huyện Thuận Châu,"Bản hợp thành, Xã Thôm Mòn, huyện Thuận Châu, Sơn La",103.708412,21.428927,Cũ
+716,252A03,(BTN) Phan Thiết,Bình Thuận,Thành phố Phan Thiết,"36 Trần Quý Cáp, Phường Đức Long, Thành phố Phan Thiết, Bình Thuận",108.08572,10.91945,Cũ
+717,252C02,(BTN) Phan Rí Cửa,Bình Thuận,Huyện Tuy Phong,"146B Quang Trung, Thị trấn Phan Rí Cửa, Huyện Tuy Phong, Bình Thuận",108.571771,11.1759483,Cũ
+718,252F01,(BTN) Võ Xu,Bình Thuận,Huyện Đức Linh,"19 Nguyễn Khuyến, KP1, Thị trấn Võ Xu, Huyện Đức Linh, Bình Thuận",107.577422,11.189726,Cũ
+719,252J01,(BTN) Lạc Tánh,Bình Thuận,Huyện Tánh Linh,"Khu phố Lạc Hóa 1, thị trấn Lạc Tánh, huyện Tánh Linh, tỉnh Bình Thuận",107.6809585,11.0859323,Cũ
+720,252H01,(BTN) Thuận Nam,Bình Thuận,Huyện Hàm Thuận Nam,"137 Trần Hưng Đạo, Thị Trấn Thuận Nam, Huyện Hàm Thuận Nam, Bình Thuận",107.885693,10.852821,Cũ
+721,252A09,(BTN) Bến Lội,Bình Thuận,Huyện Hàm Thuận Bắc,"KDC Bến Lội-Lai An, Xã Hàm Thắng, Huyện Hàm Thuận Bắc, Bình Thuận",108.115116,10.95572,Cũ
+722,252D01,(BTN) Ma Lâm,Bình Thuận,Huyện Hàm Thuận Bắc,"10 Lê Quý Đôn, KP3, Thị Trấn Ma Lâm, Huyện Hàm Thuận Bắc, Bình Thuận",108.1315314,11.07720906,Cũ
+723,252A07,(BTN) Mũi Né,Bình Thuận,Thành phố Phan Thiết,"87 Huỳnh Thúc Kháng, Phường Hàm Tiến, Thành phố Phan Thiết, Bình Thuận",108.259515,10.94999832,Cũ
+724,238H01,(NAA)Ba Hà,Nghệ An,Huyện Nam Đàn,"Số 132, Khối Ba Hà, Thị trấn Nam Đàn, Huyện Nam Đàn, Nghệ An",105.504679,18.698397,Cũ
+725,269G01,(GLI) Đức Cơ,Gia Lai,Huyện Đức Cơ,"208 Quang Trung, Thị trấn Chư Ty, Huyện Đức Cơ, Tỉnh Gia Lai",107.700323,13.805481,Cũ
+726,269C01,(GLI) Chư Sê,Gia Lai,Huyện Chư Sê,"974A Hùng Vương, TDP 4, TT Chư Sê, Huyện Chư Sê, Tỉnh Gia Lai",108.077398,13.694368,Cũ
+727,258B03,(KHH) Suối Dầu,Khánh Hòa,Huyện Cam Lâm,"Thôn Dầu Sơn, xã Suối Tân, huyện Cam Lâm, tỉnh Khánh Hòa",109.076158,12.162447,Cũ
+728,229C01,(NBH) Nho Quan,Ninh Bình,Huyện Nho Quan,"434 đường Thiên Quan, Thị trấn Nho Quan, Huyện Nho Quan, Ninh Bình",105.7417221,20.32395935,Cũ
+729,229C03,(NBH) Gia Tường,Ninh Bình,Huyện Nho Quan,"Thôn Mỹ Quế, xã Gia Tường, huyện Nho Quan, tỉnh Ninh Bình.",105.779215,20.361957,Cũ
+730,272G01,(LAN) Kiến Tường,Long An,Thị xã Kiến Tường,"Số 232 đường Hùng Vương, Khu Phố 1, Phường 3, Kiến Tường, Tỉnh Long An",105.929139,10.7789514,Cũ
+731,206C01,(TPC) Bảo Lâm,Cao Bằng,Huyện Bảo Lâm(CB),"Khu 2, TT. Pác miầu, H. Bảo Lâm, T. Cao Bằng",105.4933257,22.8298277,Cũ
+732,296B02,(AGG) Châu Đốc 2,An Giang,Thành phố Châu Đốc,"190 Nguyễn Tri Phương, phường Châu Phú B, TP Châu Đốc, An Giang",105.1276094,10.69930238,Cũ
+733,296I02,(AGG) Thoại Sơn 2,An Giang,Huyện Thoại Sơn,"Đường số 6, ấp Phú Hữu, thị trấn Phú Hòa,  huyện Thoại Sơn, tỉnh An Giang",105.372042,10.355619,Cũ
+734,204A01,(BGG)Trần Nguyên Hãn,Bắc Giang,Thành phố Bắc Giang,"Số 10-12 Yết Kiêu, P. Ngô Quyền, Thành phố Bắc Giang, Bắc Giang",106.1981487,21.2810732,Cũ
+1058,024C04,(HNI) Trường Chinh,Hà Nội,Quận Đống Đa,"Số 26, ngách 33, ngõ 102 Trường Chinh, Phường Phương Mai, Quận Đống Đa, Thành phố Hà Nội",105.837567,21.000745,Cũ
+277,024H81,(HNI) DC Hoài Đức,Hà Nội,Quận Hà Đông,"276Km6 tỉnh lộ 423 La Dương, Dương Nội, Hà Đông, Hà Nội",105.7315478,20.9924986,Cũ
+299,024K01,(HNI)Mậu Lương,Hà Nội,Quận Hà Đông,"Số 23, TDP 12 Mậu Lương, Phường Kiến Hưng, Quận Hà Đông, Hà Nội",105.79543,20.95655073,Cũ
+738,238L01,(NAA) Quỳ Hợp,Nghệ An,Huyện Quỳ Hợp,"Khối quang hợp,tt quỳ hợp,tỉnh nghệ an",105.192186,19.325808,Cũ
+739,297B01,(KGG) An Minh,Kiên Giang,Huyện An Minh,"T7, thị trấn Thứ Mười Một, An Minh, Kiên Giang",104.9407828,9.633226086,Cũ
+740,297A01,(KGG) An Biên,Kiên Giang,Huyện An Biên,"ấp Bào Môn, xã Hưng Yên, Huyện An Biên, tỉnh Kiên Giang",105.079333,9.830583,Cũ
+741,297O01,(KGG) Vĩnh Thuận,Kiên Giang,Huyện Vĩnh Thuận,"Khu phố Vĩnh Đông 2, thị trấn Vĩnh Thuận, Huyện Vĩnh Thuận, Kiên Giang",105.250667,9.503111,Cũ
+742,229B02,(NBH) Kim Mỹ,Ninh Bình,Huyện Kim Sơn,"Xóm 4, xã Kim Mỹ, huyện Kim Sơn, tỉnh Ninh Bình",106.071116,20.009266,Cũ
+743,028U08,(HCM) Hiệp Tân,Hồ Chí Minh,Quận Tân Phú,"87/7 Tô Hiệu, Phường Hiệp Tân, Quận Tân Phú, Hồ Chí Minh",106.626489,10.770895,Cũ
+744,028W02,(HCM) Lê Văn Lương,Hồ Chí Minh,Huyện Nhà Bè,"584 đường Lê Văn Lương, Xã Phước Kiển, Huyện Nhà Bè, Hồ Chí Minh",106.70271,10.709841,Cũ
+745,028W01,(HCM) Nguyễn Bình,Hồ Chí Minh,Huyện Nhà Bè,"58/9 Huỳnh Tấn Phát, KP6, Thị trấn Nhà Bè, Huyện Nhà Bè, Hồ Chí Minh",106.74071,10.675229,Cũ
+746,028R07,(HCM) Hóc Môn 7,Hồ Chí Minh,Huyện Hóc Môn,"9/2 Đường Đặng Thúc Vịnh, Ấp Tam Đông, Xã Thới Tam Thôn, Huyện Hóc Môn, Hồ Chí Minh",106.608561,10.88881,Cũ
+747,028P02,(HCM) Cần Thạnh,Hồ Chí Minh,Huyện Cần Giờ,"Số 2 Đào Cử, thị trấn Cần Thạnh, Huyện Cần Giờ, Hồ Chí Minh",106.97201,10.414757,Cũ
+748,028X04,(HCM) Củ Chi 4,Hồ Chí Minh,Huyện Củ Chi,"115 Đường Trung Lập, Xã Trung Lập Thượng , Huyện Củ Chi, Hồ Chí Minh",106.452393,11.051774,Cũ
+749,262H01,(ĐLK) Krông Păk,Đắk Lắk,Huyện Krông Pắc,"468 Giải Phóng, Thị trấn Phước An, Huyện Krông Pắc, Đắk Lắk",108.295059,12.712104,Cũ
+750,277K01,(ĐTP) Thanh Bình,Đồng Tháp,Huyện Thanh Bình,"Khóm Tân Đông B, QL 30, Thị Trấn Thanh Bình, Huyện Thanh Bình, Đồng Tháp",105.490114,10.557873,Cũ
+751,263K01,(LĐG) Đam Rông,Lâm Đồng,Huyện Lâm Hà,"Khu đô thị mới Trung tâm thương mại, TT Đinh Văn, Huyện Lâm Hà, Lâm Đồng",108.246018,11.789332,Cũ
+752,263D01,(LĐG)Di Linh,Lâm Đồng,Huyện Di Linh,"68 Trần Quốc Toản, Thị trấn Di Linh, Huyện Di Linh, Lâm Đồng",108.078917,11.580772,Cũ
+753,238T01,(NAA) Qùy Châu,Nghệ An,Huyện Quỳ Châu,Khối Tân hương 2- Thị Trấn Tân Lạc-Huyện Quỳ Châu -Nghệ An,105.085429,19.557237,Cũ
+754,272B01,(LAN) Cần Đước,Long An,Huyện Cần Đước,"120 tổ 8, khu 1B, Thị trấn Cần Đước, Huyện Cần Đước, Long An",106.605833,10.510917,Cũ
+755,272A02,(LAN) Bến Lức 2,Long An,Huyện Bến Lức,"Tỉnh Lộ 835 ấp 3B, Xã Phước Lợi, Huyện Bến Lức, Long An",106.5434464,10.6244009,Cũ
+756,206M01,(TPC) Thạch An,Cao Bằng,Huyện Thạch An,"Xóm Nà Báng, Thị trấn Đông Khê, Huyện Thạch An, Cao Bằng",106.1912046,22.4812197,Cũ
+757,206D01,(TPC) Bảo Lạc 1,Cao Bằng,Huyện Bảo Lạc,"Khu 6, Thị Trấn Bảo Lạc, Huyện Bảo Lạc, Cao Bằng",105.676965,22.946395,Cũ
+758,292D02,(CTO)Trần Hưng Đạo,Cần Thơ,Quận Ninh Kiều,"Đường số 18, khu Cồn Khương, Phường Cái Khế, Quận Ninh Kiều, Tp Cần Thơ",105.7767482,10.0574336,Cũ
+759,252G01,(BTN) Hàm Tân,Bình Thuận,Huyện Hàm Tân,"362 Hùng Vương KP2, Thị trấn Tân Nghĩa, Huyện Hàm Tân, Bình Thuận",107.7145441,10.8198858,Cũ
+760,028X03,(HCM) Củ Chi 3,Hồ Chí Minh,Huyện Củ Chi,"69 đường Quốc Lộ 22, Xã Tân Thông Hội, Huyện Củ Chi, Hồ Chí Minh",106.546852,10.936412,Cũ
+761,028X05,(HCM) Củ Chi 5,Hồ Chí Minh,Huyện Củ Chi,"431 Tỉnh lộ 8, ấp Tây, xã Tân An Hội, Huyện Củ Chi, HCM",106.4747613,10.9664691,Cũ
+762,028M04,(HCM) Hương lộ 80,Hồ Chí Minh,Quận Bình Tân,"314A Hương Lộ 80, khu phố 2, Phường Bình Hưng Hoà B, Quận Bình Tân, TP.HCM",106.583892,10.81726524,Cũ
+763,028M01,(HCM)Quốc lộ 50,Hồ Chí Minh,Huyện Bình Chánh,"D7/210, ấp 4, xã Phong Phú, huyện Bình Chánh, Tp. Hồ Chí Minh",106.6543251,10.6963363,Cũ
+764,028M05,(HCM) An Phú Tây,Hồ Chí Minh,Huyện Bình Chánh,"B16/1D ấp 2, xã Tân Quý Tây, huyện Bình Chánh, TP HCM",106.594353,10.665055,Cũ
+765,028A08,(HCM) Đề Thám,Hồ Chí Minh,Quận 1,"80 Đề Thám, Phường Cầu Ông Lãnh, Quận 1,TP.Hồ Chí Minh",106.6934022,10.7641543,Cũ
+766,204C01,(BGG) Việt Yên,Bắc Giang,Huyện Việt Yên,"Tổ dân phố Vàng, Thị trấn Bích Động, Huyện Việt Yên, Bắc Giang",106.0857462,21.2806765,Cũ
+767,204C02,(BGG) Nếnh,Bắc Giang,Huyện Việt Yên,"Xóm Sến, Xã Hồng Thái, Huyện Việt Yên, Bắc Giang",106.1018978,21.2483601,Cũ
+768,277F01,(ĐTP) Lai Vung,Đồng Tháp,Huyện Lai Vung,"215A Khóm 3, Thị Trấn Lai Vung, Huyện Lai Vung, Đồng Tháp",105.658379,10.290359,Cũ
+769,277G01,(ĐTP) Lấp Vò,Đồng Tháp,Huyện Lấp Vò,"Ấp Bình Hiệp A, Xã Bình Thạnh Trung, Huyện Lấp Vò, Tỉnh Đồng Tháp",105.5220431,10.3652406,Cũ
+770,214E01,(LCI) Bát Xát,Lào Cai,Huyện Bát Xát,"363 Đường Hùng Vương, Tổ 6 TT Bát Xát, huyện Bát Xát, Tỉnh Lào Cai",103.892847,22.538138,Cũ
+771,214B01,(LCI) Bảo Thắng,Lào Cai,Huyện Bảo Thắng,"Số nhà 20 đường cách mạng tháng 8, Thôn Phú Thành 3, Thị trấn Phố Lu, Huyện Bảo Thắng, Lào Cai",104.182806,22.323389,Cũ
+772,228C01,(NĐH) Nam Trực,Nam Định,Huyện Nam Trực,"229 Quán Chiền, Xã Nam Dương, huyện Nam Trực, Nam Định",106.17403,20.32392,Cũ
+773,232D01,(QBH)Trung Trạch,Quảng Bình,Huyện Bố Trạch,"xã Trung Trach, huyện Bố Trạch, tỉnh Quảng Bình",106.53759,17.577756,Cũ
+774,271A01,(BPC)Đồng Xoài,Bình Phước,Thành phố Đồng Xoài,"Đường Lê Lai, Phường Tân Đồng, Thành phố Đồng Xoài, Bình Phước",106.90375,11.54347,Cũ
+775,236A02,(ĐNG)Nguyễn Hữu Thọ,Đà Nẵng,Quận Hải Châu,"52 Duy Tân, Phường Hòa Thuận Đông, Quận Hải Châu, Đà Nẵng",108.21716,16.04925594,Cũ
+776,236H01,(ĐNG) Hòa Khánh,Đà Nẵng,Quận Liên Chiểu,"789 Nguyễn Lương Bằng, Phường Hòa Hiệp Nam, Quận Liên Chiểu, Đà Nẵng",108.1340274,16.10266844,Cũ
+777,296I01,(AGG) Thoại Sơn,An Giang,Huyện Thoại Sơn,"Thửa số 83-93, Thị Trấn Núi Sập, Huyện Thoại Sơn, An Giang",105.270084,10.267691,Cũ
+778,296G01,(AGG) Phú Tân,An Giang,Huyện Phú Tân(AG),"89 Tôn Đức Thắng, Thị trấn Phú Mỹ, Huyện Phú Tân, An Giang",105.354263,10.590713,Cũ
+779,028L06,(HCM) Song Hành,Hồ Chí Minh,Quận 12,"324 Đông Hưng Thuận 02, phường Đông Hưng Thuận, Quận 12, TP HCM.",106.627987,10.842526,Cũ
+780,028L01,(HCM) 505 Nguyễn Ảnh Thủ,Hồ Chí Minh,Quận 12,"173A đường HT06, Khu phố 3, phường Hiệp Thành, Quận 12, Thành phố Hồ Chí Minh",106.6862991,10.7538283,Cũ
+781,028K08,(HCM) Hồng Bàng,Hồ Chí Minh,Quận 11,"668 Hồng Bàng, Phường 16,  Quận 11, TpHCM",106.643487,10.754432,Cũ
+782,028J06,(HCM) Nguyễn Duy Dương,Hồ Chí Minh,Quận 10,"229 Nguyễn Duy Dương, Phường 4, Quận 10, Tp. HCM",106.670358,10.763312,Cũ
+783,028W03,(HCM) Long Thới,Hồ Chí Minh,Huyện Nhà Bè,"58/1 Nguyễn Văn Tạo, Xã Long Thới, Huyện Nhà Bè, TpHCM",106.72445,10.666829,Cũ
+784,272J01,(LAN) Tân Hưng,Long An,Huyện Tân Hưng,"Đường 3/2, Kp. Gò Thuyền, Thị Trấn Tân Hưng, Huyện Tân Hưng, Long An",105.668437,10.830919,Cũ
+785,272D01,(LAN) Châu Thành,Long An,Huyện Châu Thành(LA),"Xã Hiệp Thạnh, H. Châu Thành, T, Long An",106.453239,10.4592351,Cũ
+786,205B01,(TPL) Thất Khê,Lạng Sơn,Huyện Tràng Định,"Nà Nghiều, Xã Đại Đồng, Huyện Tràng Định, Lạng Sơn",106.4693318,22.2606407,Cũ
+787,277D01,(ĐTP)Hồng Ngự,Đồng Tháp,Thành Phố Hồng Ngự,"Đường Nguyễn Văn Phấn, khóm Mương Nhà Máy, Phường An Thạnh, Thành Phố Hồng Ngự, ĐồngTháp",105.3446043,10.8151782,Cũ
+788,238W01,(NAA) Nghĩa Đàn,Nghệ An,Huyện Nghĩa Đàn,"Số nhà 41, Đường 1/5 Khối Tân Tiến, Thị trấn Nghĩa Đàn, Huyện Nghĩa Đàn, Nghệ An",105.486144,19.330899,Cũ
+789,272M01,(LAN) Thạnh Hóa,Long An,Huyện Thạnh Hóa,"8 Lê Duẫn, Khu phố 3, Thị trấn Thạnh Hóa, Huyện Thạnh Hóa, Long An",106.1880538,10.6548917,Cũ
+790,238E01,(NAA)Quỳnh Thiện,Nghệ An,Thị xã Hoàng Mai,"Khối 6, Phường Quỳnh Thiện, Thị xã Hoàng Mai, Nghệ An",105.718,19.270055,Cũ
+791,260D01,(KTN) Sa Thầy,Kon Tum,Huyện Sa Thầy,"193 trần hưng đạo, thôn 2, Thị trấn Sa Thầy, Huyện Sa Thầy, Kon Tum",107.79606,14.410241,Cũ
+792,237Q02,(THA) Quảng Xương 2,Thanh Hóa,Huyện Quảng Xương,"SN 96 Thôn Hiền Đông, Xã Quảng Lưu, Huyện Quảng Xương, Thanh Hóa",105.826719,19.680433,Cũ
+793,237S01,(THA) Quan Sơn,Thanh Hóa,Huyện Quan Sơn,"khu 4, Thị trấn Sơn Lư, Huyện Quan Sơn, Thanh Hóa",104.945556,20.261389,Cũ
+794,237W01,(THA) Như Thanh,Thanh Hóa,Huyện Như Thanh,"Số 292 khu phố 2, thị trấn Bến Sung, huyện Như Thanh, tỉnh Thanh Hóa",105.582222,19.632444,Cũ
+795,262E01,(ĐLK) EA Kar,Đắk Lắk,Huyện Ea Kar,"QL 26 Thôn 5 Xã Ea Đar, Huyện Ea Kar, Đắk Lắk",108.462363,12.812133,Cũ
+796,262E02,(ĐLK) Cư Huê,Đắk Lắk,Huyện Ea Kar,"Thôn đoàn kết, Xã Ea Kmút, Huyện Ea Kar, Đắk Lắk",108.430492,12.805735,Cũ
+797,226F02,(HNM) Thanh Phong,Hà Nam,Huyện Thanh Liêm,"Thôn Phố Bói, xã Thanh Phong, huyện Thanh Liêm, tỉnh Hà Nam",105.918289,20.466246,Cũ
+798,205I01,(TPL) Đồng Mỏ,Lạng Sơn,Huyện Chi Lăng,"82 Đại Huề, Khu Ga Bắc , Thị trấn Đồng Mỏ, Huyện Chi Lăng, Lạng Sơn",106.5805256,21.6544119,Cũ
+799,205A01,(TPL) Chi Lăng,Lạng Sơn,Thành phố Lạng Sơn,"181B Lê Hồng Phong, Phường Tam Thanh, Thành phố Lạng Sơn, Lạng Sơn",106.7547254,21.8528172,Cũ
+800,259C01,(NTN) Khánh Hải,Ninh Thuận,Huyện Ninh Hải,180 - Yên Ninh - Khu phố Khánh Hiệp - thị trấn Khánh Hải - huyện Ninh Hải - tỉnh Ninh Thuận,109.033002,11.588873,Cũ
+801,221I03,(HYN) Nghĩa Trụ,Hưng Yên,Huyện Văn Giang,"Xóm 11, Xã Nghĩa Trụ, Huyện Văn Giang, Hưng Yên",105.9991,20.94589,Cũ
+802,221D03,(HYN) Lạc Đạo,Hưng Yên,Huyện Văn Lâm,"Xã Lạc Đạo, Huyện Văn Lâm, Tỉnh Hưng Yên",106.02285,20.985115,Cũ
+803,238K03,(NAA) Nghi Ân,Nghệ An,Thành phố Vinh,"Gần bến xe phía đông và doanh trại quân đội, Xã Nghi Ân, Thành phố Vinh, Nghệ An",105.6766698,18.7249944,Cũ
+804,214H01,(LCI) Văn Bàn,Lào Cai,Huyện Văn Bàn,"189 Đường Quang Trung, thị trấn Khánh Yên, huyện Văn Bàn, tỉnh Lào Cai",104.252611,22.089806,Cũ
+300,024K02,(HNI)Quang Trung,Hà Nội,Quận Hà Đông,"Số 73 ngõ 4 đường Văn Phú, phường Phú La, quận Hà Đông, thành phố Hà Nội",105.766361,20.962889,Cũ
+806,238N02,(NAA) Tân Kỳ 2,Nghệ An,Huyện Tân Kỳ,"Xã Nghĩa Thái, huyện Tân Kỳ, tỉnh Nghệ An",105.3043176,19.1635638,Cũ
+807,213E01,(LCU) Sìn Hồ,Lai Châu,Huyện Sìn Hồ,"SN 05, Đường Trần Hưng Đạo, Khu 3 - TT. Sìn Hồ, huyện Sìn Hồ, Lai Châu",103.245628,22.361835,Cũ
+808,203F02,(QNH) Trung tâm Quảng Yên,Quảng Ninh,Thị xã Quảng Yên,"Số 133 Nguyễn Bình, phường Quảng Yên, thị xã Quảng Yên, Quảng Ninh",106.82268,20.93983,Cũ
+809,237K01,(THA) Cẩm Thủy,Thanh Hóa,Huyện Cẩm Thủy,"TDP Hoàng Giang, Thị trấn Phong Sơn, Huyện Cẩm Thủy, Thanh hóa",105.476,20.2112,Cũ
+810,251F02,(ĐNI) Phú Bình,Đồng Nai,Thành Phố Long Khánh,"Thửa đất số 274, tờ bản đồ số 1, Khu Phố 2, Phường Phú Bình, Thành Phố Long Khánh, Đồng Nai",107.236843,10.918529,Cũ
+811,251A29,(ĐNI) Tân Vạn,Đồng Nai,Thành phố Biên Hoà,"353 Bùi Hữu Nghĩa, Phường Tân Vạn, Thành phố Biên Hoà, Đồng Nai",106.8255582,10.91772935,Cũ
+812,251A17,(ĐNI) Tân Hiệp,Đồng Nai,Thành phố Biên Hoà,"23 Hẻm 662, Phường Trảng Dài, Thành phố Biên Hòa, Đồng Nai",106.854234,10.970567,Cũ
+813,297H02,(KGG) Hòn Đất 2,Kiên Giang,Huyện Hòn Đất,"Khu phố Đường Hòn,Thị trấn Hòn Đất,, Huyện Hòn Đất, Kiên Giang",105.011712,10.128889,Cũ
+814,297D01,(KGG) Giang Thành,Kiên Giang,Huyện Giang Thành,"Ấp Khánh Hòa, Xã Tân Khánh Hòa, Huyện Giang Thành, Kiên Giang",104.639288,10.521043,Cũ
+815,258D02,(KHH) Mỹ Ca,Khánh Hòa,Thành phố Cam Ranh,"196 Nguyễn Chí Thanh, TDP Nghĩa Cam, Phường Cam Nghĩa, Thành phố Cam Ranh, Khánh Hòa",109.1922634,11.98790993,Cũ
+816,258F02,(KHH) Tu Bông,Khánh Hòa,Huyện Vạn Ninh,"Xã Vạn Long, huyện Vạn Ninh, tỉnh Khánh Hòa",109.31266,12.77761,Cũ
+817,229H01,(NBH) Hoa Lư,Ninh Bình,Thành phố Ninh Bình,"Phố Khánh Bình,Phường Ninh Khánh,Thành Phố Ninh Bình, Ninh Bình",105.9617,20.27916,Cũ
+818,263G05,(LĐG) Đà Loan,Lâm Đồng,Huyện Đức Trọng,"Thôn Đà Giang, Xã Đà Loan, Huyện Đức Trọng , Lâm Đồng",108.390109,11.57662,Cũ
+819,237L01,(THA) Bá Thước,Thanh Hóa,Huyện Bá Thước,"SN 53 Phố 4, Thị trấn Cành Nàng, Huyện Bá Thước, Thanh Hóa",105.230822,20.34766988,Cũ
+820,203H02,(QNH) Bình Liêu,Quảng Ninh,Huyện Bình Liêu,"Khu Bình Công 2, Thị trấn Bình Liêu, huyện Bình Liêu, tỉnh Quảng Ninh",107.3954954,21.5259728,Cũ
+821,228H01,(NĐH) Mỹ Lộc,Nam Định,Huyện Mỹ Lộc,"Thị trấn Mỹ Lộc, Huyện Mỹ Lộc, Nam Định",106.105189,20.439005,Cũ
+822,226E01,(HNM) Bình Lục,Hà Nam,Huyện Bình Lục,"Thôn Cửa, xã Trung Lương, Huyện Bình Lục, Hà Nam",106.051147,20.476274,Cũ
+823,296F03,(AGG) Mỹ Phước,An Giang,Thành phố Long Xuyên,"Đường Hoàng Văn Thái, Phường Mỹ Phước, Thành phố Long Xuyên, Tỉnh An Giang",105.4306361,10.3667301,Cũ
+824,211D01,(VPC)Lập Thạch,Vĩnh Phúc,Huyện Lập Thạch,"Tổ dân phố Tân Chiền, Thị Trấn Lập Thạch, Huyện Lập Thạch, Vĩnh Phúc",105.4663903,21.41606396,Cũ
+825,297E02,(KGG) Giồng Riềng 2,Kiên Giang,Huyện Giồng Riềng,"Ấp Hai Lành, xã Ngọc Hòa, huyện Giồng Riềng, Kiên Giang",105.423367,9.866722,Cũ
+826,297M01,(KGG) Tân Hiệp,Kiên Giang,Huyện Tân Hiệp,"Khu phố Đông An, TT. Tân Hiệp, H.Tân Hiệp, T. Kiên Giang",105.286209,10.118325,Cũ
+827,215J01,(ĐBN) Nậm Pồ,Điện Biên,Huyện Nậm Pồ,"Bản Nà Hỳ 2, xã Nà Hỳ, huyện Nậm Pồ, tỉnh Điện Biên",102.763299,21.808071,Cũ
+828,215G01,(ĐBN) Mường Nhé,Điện Biên,Huyện Mường Nhé,"Tổ 1, Xã Mường Nhé, Huyện Mường Nhé, Điện Biên",102.4578,22.1936,Cũ
+829,276C02,(TNH)Xã Phước Đông,Tây Ninh,Huyện Gò Dầu,"Thửa Đất 247, Tờ Bản đồ 47 Phước Đức A , Xã Phước Đông, Huyện Gò Dầu, Tây Ninh",106.324807,11.119455,Cũ
+830,276D01,(TNH)Huyện Trảng Bàng,Tây Ninh,Thị Xã Trảng Bàng,17 Khu phố Lộc An – Phường Trảng Bàng – Thị Xã Trảng Bàng – Tây Ninh,106.351484,11.035219,Cũ
+831,276E01,(TNH) Bến Cầu,Tây Ninh,Huyện Bến Cầu,"Thửa đất số 37, Tờ bản đồ số 39 Khu Phố 4, Thị Trấn Bến Cầu, Huyện Bến Cầu, Tỉnh Tây Ninh",106.1712758,11.1106783,Cũ
+832,276D02,(TNH) An Tịnh,Tây Ninh,Thị Xã Trảng Bàng,"Số 1612, QL22, ấp An Bình, Phường An Tịnh, Thị Xã Trảng Bàng, tỉnh Tây Ninh",106.3938165,11.0211786,Cũ
+833,274B05,(BDG)Đất Thánh,Bình Dương,Thành phố Thuận An,"1/187 Hòa Lân 1, Phường Thuận Giao, Thành phố Thuận An, Bình Dương",106.703733,10.953425,Cũ
+834,274B04,(BDG)Lái Thiêu,Bình Dương,Thành phố Thuận An,"61B Cách mạng tháng 8, Phường Lái Thiêu, Thành phố Thuận An, Bình Dương",106.7018874,10.891789,Cũ
+835,274X03,(BDG) DC Thuận Giao,Bình Dương,Thành phố Thuận An,"khu dân cư Thuận Giao, Phường Thuận Giao,Thành phố Thuận An, Bình Dương",106.711029,10.964532,Cũ
+836,274B09,(BDG) Bình Chuẩn,Bình Dương,Thành phố Thuận An,"45/19 Thủ Khoa Huân, Kp Bình Phú, Phường Bình Chuẩn, Thành phố Thuận An, Bình Dương",106.7177695,10.9764122,Cũ
+837,215B01,(ĐBN) Mường Chà,Điện Biên,Huyện Mường Chà,"Số 29 Tổ 4 Thị trấn Mường Chà, Huyện Mường Chà, Điện Biên",103.0902634,21.7530079,Cũ
+838,236D01,(ĐNG)Lê Đình Lý,Đà Nẵng,Quận Thanh Khê,"212 Kỳ Đồng, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng",108.1857993,16.06991291,Cũ
+839,251I01,(ĐNI) Tân Phú,Đồng Nai,Huyện Tân Phú,"1619 Thọ Lâm 3, Xã Phú Xuân, Huyện Tân Phú, Tỉnh Đồng Nai",107.493213,11.289157,Cũ
+840,251B02,(ĐNI)Trần Phú,Đồng Nai,Huyện Trảng Bom,"Hẻm 168, Đường An Dương Vương, Khu phố 3, Thị trấn Trảng Bom, Huyện Trảng Bom, Tỉnh Đồng Nai",106.9963615,10.96549801,Cũ
+635,024K05,(HNI) Yên Nghĩa,Hà Nội,Quận Hà Đông,"NO-07-LK351 Khu A – Khu đất dịch vụ Do Lộ, phường Yên Nghĩa, quận Hà Đông, thành phố Hà Nội",105.748324,20.952197,Cũ
+842,293B01,(HGG) Châu Thành A,Hậu Giang,Huyện Phụng Hiệp,"Ấp Nhất, xã Thạnh Hòa, Huyện Phụng Hiệp, Hậu 
+Giang",105.715012,9.919263,Cũ
+843,293F01,(HGG) Phụng Hiệp,Hậu Giang,Huyện Phụng Hiệp,"Đường Hùng Vương, Ấp Mỹ Quới, Thị trấn Cây Dương, Huyện Phụng Hiệp, Hậu Giang",105.74044,9.781911,Cũ
+844,239C02,(HTH) Hương Sơn 2,Hà Tĩnh,Huyện Hương Sơn,"Thị trấn Tây Sơn, Huyện Hương Sơn, Hà Tĩnh",105.306417,18.457783,Cũ
+845,210B01,(PTO)Thị xã PTO,Phú Thọ,Thị xã Phú Thọ,"Khu Đồng Nhà Mạch, Xã Thanh Minh, Thị xã Phú Thọ, Phú Thọ",105.229711,21.403751,Cũ
+846,210A05,(PTO)Vân Cơ,Phú Thọ,Thành phố Việt Trì,"SN 3064 Đại lộ Hùng Vương P. Vân Phú, thành phố Việt Trì, tỉnh Phú Thọ",105.35144,21.359474,Cũ
+847,238Q02,(NAA) Tuần,Nghệ An,Huyện Quỳnh Lưu,"Xóm Tuần B, Xã Quỳnh Châu, Huyện Quỳnh Lưu, Nghệ An",105.5403164,19.21390109,Cũ
+848,274B03,(BDG)An Phú,Bình Dương,Thành phố Thuận An,"D20 Khu dân cư Vietsing, KP4, Phường An Phú, Thành phố Thuận An, Bình Dương",106.735145,10.948242,Cũ
+849,274D01,(BDG)Tân Vĩnh Hiệp,Bình Dương,Thị xã Tân Uyên,"DT 746 số 56 tổ 9, ấp Hóa Nhựt, Phường Tân Vĩnh Hiệp, Thành phố Tân Uyên, Bình Dương",106.6685593,10.9889359,Cũ
+850,274C05,(BDG) Làng Đại Học,Bình Dương,Thành phố Dĩ An,"Số nhà D81, tổ dân phố 710, Khu phố Tân Lập, Phường Đông Hòa, Thành phố Dĩ An, Bình Dương",106.8074673,10.8797369,Cũ
+851,274C06,(BDG) TT Dĩ An,Bình Dương,Thành phố Dĩ An,"Thửa đất số 4365, Tờ bản đồ số 2AB.9, Kp Nhị Đồng 1, Phường Dĩ An, Thành phố Dĩ An, Bình Dương",106.757562,10.904665,Cũ
+852,274C07,(BDG) Bình Thắng,Bình Dương,Thành phố Dĩ An,"341/8 Đường Quốc Lộ 1K, KP Nội Hóa 1, Phường Bình An, Thành phố Dĩ An, Bình Dương",106.791299,10.897976,Cũ
+853,274F01,(BDG) Phú Giáo,Bình Dương,Huyện Phú Giáo,"608 ĐT 741, KP1, Thị trấn Phước Vĩnh, Huyện Phú Giáo, Bình Dương",106.793,11.289,Cũ
+854,271K01,(BPC) Hớn Quản,Bình Phước,Huyện Hớn Quản,"Tổ 8, Khu phố 1, Thị trấn Tân Khai, Huyện Hớn Quản, Bình Phước",106.6147469,11.5628745,Cũ
+855,229E02,(NBH) Tân Bình,Ninh Bình,Huyện Yên Mô,"Xã Mai Sơn, Huyện Yên Mô, Tỉnh Ninh Bình",105.9563977,20.1755028,Cũ
+856,216J01,(YBI) Thác Bà,Yên Bái,Huyện Yên Bình,"Tổ 2, Thị trấn Thác Bà, Huyện Yên Bình, Yên Bái",105.0418405,21.747406,Cũ
+857,219H01,(TPH) Hoàng Su Phì,Hà Giang,Huyện Hoàng Su Phì,"Số nhà 60 Tổ 4, Thị trấn Vinh Quang, Huyện Hoàng Su Phì, Hà Giang",104.6752238,22.7400767,Cũ
+858,234G01,(HUE) Phong Điền,Thừa Thiên – Huế,Huyện Phong Điền(TTH),"05 Bùi Dục Tài, thị trấn Phong Điền, 
+huyện Phong Điền, tỉnh Thừa Thiên Huế",107.366009,16.583587,Cũ
+859,207C01,(TQG) Na Hang,Tuyên Quang,Huyện Nà Hang,"Tổ 10, Thị trấn Na Hang, Huyện Nà Hang, Tuyên Quang",105.3637533,22.3525271,Cũ
+860,207B01,(TQG) Lâm Bình,Tuyên Quang,Huyện Lâm Bình,"thôn Nà Khà, xã Lăng Can, huyện Lâm Bình, tỉnh Tuyên Quang",105.219221,22.471906,Cũ
+861,234C02,(HUE) Quảng Điền,Thừa Thiên – Huế,Huyện Quảng Điền,"128 Nguyễn Vịnh , tt Sịa, huyện Quảng Điền, TT.Huế",107.512202,16.577356,Cũ
+862,262A06,(ĐLK) Ông Ích Khiêm,Đắk Lắk,Thành phố Buôn Ma Thuột,"04 Phan Đăng Lưu, Phường Tân An, Thành phố Buôn Ma Thuột, Đắk Lắk",108.061675,12.698435,Cũ
+863,028D02,(HCM) Xóm Chiếu,Hồ Chí Minh,Quận 4,"A95 Nguyễn Thần Hiến, Phường 18, Quận 4, Hồ Chí Minh",106.716452,10.7547038,Cũ
+864,276A02,(TNH)Thị xã TNH 2,Tây Ninh,Thành phố Tây Ninh,"182 Trưng Nữ Vương, Khu Phố 5, Phường 1, TP Tây Ninh, Tây Ninh",106.084587,11.310368,Cũ
+865,028H01,(HCM)Tạ Quang Bửu,Hồ Chí Minh,Quận 8,"01 Hồ Biểu Chánh, Phường 4, Quận 8, Hồ Chí Minh",106.6713375,10.74194668,Cũ
+866,215F01,(ĐBN) Mường Lay,Điện Biên,Thị xã Mường Lay,"Số 228, tổ 1, Phường Na Lay, Thị xã Mường Lay, Điện Biên",103.1513327,22.02259058,Cũ
+867,258E02,(KHH) Ninh Sim,Khánh Hòa,Thị xã Ninh Hòa,"Thôn Tân Khánh 2, Xã Ninh Sim, Thị xã Ninh Hòa, Tỉnh Khánh Hòa",109.017722,12.537082,Cũ
+868,251D02,(ĐNI) Phước Thái,Đồng Nai,Huyện Long Thành,"Số 58, Xã Long Phước, Huyện Long Thành, Tỉnh Đồng Nai",107.004724,10.711774,Cũ
+869,251A24,(ĐNI) An Phước,Đồng Nai,Huyện Long Thành,"đường Lý Thường Kiệt ,ấp 5, Xã Tam An, Huyện Long Thành, Đồng Nai",106.929247,10.807026,Cũ
+870,225H06,(HPG) Chợ Tổng,Hải Phòng,Huyện Thủy Nguyên,"Chợ Tổng, Xã Lưu Kiếm, Huyện Thủy Nguyên, Hải Phòng",106.672981,20.97019,Cũ
+871,225H01,(HPG)Phố Mới,Hải Phòng,Huyện Thủy Nguyên,"Số 55 Phố Mới, Ngã 3 VSIP, Xã Tân Dương, Huyện Thủy Nguyên, Hải Phòng",106.672631,20.90379,Cũ
+872,211E01,(VPC) Tam Dương,Vĩnh Phúc,Huyện Tam Dương,"Thửa đất số 15, Khu Đồng Bông, Thị trấn Hợp Hòa, Huyện Tam Dương, Vĩnh Phúc",105.5428775,21.38352458,Cũ
+873,238Q03,(NAA) Quỳnh Minh,Nghệ An,Huyện Quỳnh Lưu,"Xóm 8 Xã Quỳnh Hậu, Huyện Quỳnh Lưu, Nghệ An",105.6432303,19.1606375,Cũ
+874,238Q01,(NAA) Cầu Giát,Nghệ An,Huyện Quỳnh Lưu,"Thôn 3, Xã Quỳnh Giang, Huyện Quỳnh Lưu, Nghệ An",105.622778,19.138333,Cũ
+875,215I01,(ĐBN) Điện Biên Đông,Điện Biên,Huyện Điện Biên Đông,"Tổ 5 thị trấn Điện Biên Đông , Huyện Điện Biên Đông , Điện Biên",103.2202032,21.2956218,Cũ
+876,293B02,(HGG) Một Ngàn,Hậu Giang,Huyện Châu Thành A(HG),"Đường 30/4, Thị trấn Một Ngàn, Huyện Châu Thành A, Tỉnh Hậu Giang",105.63629,9.92509,Cũ
+877,218A02,(HBH) Hữu Nghị,Hòa Bình,Thành phố Hòa Bình,"144 Hòa Bình, Phường Tân Hòa, Thành phố Hòa Bình, Hòa Bình",105.335029,20.836548,Cũ
+878,028P01,(HCM)340,Hồ Chí Minh,Huyện Cần Giờ,"340 Ấp Bình Phước, Xã Bình Khánh, Huyện Cần Giờ, TP.HCM",106.786915,10.644028,Cũ
+879,291F01,(BLU) Hòa Bình,Bạc Liêu,Huyện Hòa Bình,"Ấp thị trấn A1, TT Hòa Bình, huyện Hòa Bình, tỉnh Bạc Liêu",105.6363041,9.2840865,Cũ
+880,208G01,(TNN) Phú Lương,Thái Nguyên,Huyện Phú Lương,"Tiểu khu Trần Phú, Thị trấn Đu, Huyện Phú Lương, Thái Nguyên",105.7011423,21.7224054,Cũ
+881,211H01,(VPC)Tam Sơn,Vĩnh Phúc,Huyện Sông Lô,"khu 4, tổ dân phố Lạc Kiều,Thị Trấn Tam Sơn- Huyện Sông Lô- VP",105.4081184,21.41880261,Cũ
+882,234E01,(HUE) Phú Vang,Thừa Thiên – Huế,Thành phố Huế,"41 Kinh Dương Vương, Phường Thuận An, Thành phố Huế, Thừa Thiên – Huế",107.6404199,16.54816667,Cũ
+883,207E01,(TQG) Hàm Yên,Tuyên Quang,Huyện Hàm Yên,"172 Cầu Mới, Thị trấn Tân Yên, Huyện Hàm Yên, Tuyên Quang",105.0301972,22.0635217,Cũ
+884,225K01,(HPG) Thị trấn Tiên Lãng,Hải Phòng,Huyện Tiên Lãng,Khu VII thị trấn Tiên Lãng,106.552673,20.725644,Cũ
+957,024K06,(HNI) Mỗ Lao,Hà Nội,Quận Hà Đông,"Số nhà 86 Thanh Bình, TDP số 9, phường Mộ Lao, Quận Hà Đông, Hà Nội",105.7801083,20.97921737,Cũ
+958,024K04,(HNI) Lê Trọng Tấn,Hà Nội,Quận Hà Đông,L08-24 Khu Đô Thị Dương Nội - La Khê - Hà Đông - Hà Nội,105.7580705,20.9756388,Cũ
+976,024K08,(HNI) Văn Phú,Hà Nội,Quận Hà Đông,"TT23-15, Khu đô thị Văn Phú, phường Phú La, quận Hà Đông, Hà Nội",105.7723344,20.9560305,Cũ
+1079,024K09,(HNI) Dương Nội,Hà Nội,Quận Hà Đông,"C11-O24 khu C khu đô thị geleximco, Phường Dương Nội, Quận Hà Đông, Hà Nội",105.739808,20.98597103,Cũ
+889,211A02,(VPC) Đồng Tâm,Vĩnh Phúc,Thành phố Vĩnh Yên,"377 Lam Sơn, Phường Đồng Tâm, Thành Phố Vĩnh Yên, Vĩnh Phúc",105.586728,21.292552,Cũ
+890,262O01,(ĐLK) EaSup,Đắk Lắk,Huyện Ea Súp,"54 Âu Cơ, Thị trấn Easup, huyện Easup, Đắc Lắc",107.882425,13.072845,Cũ
+1090,024K03,(HNI)Phú Lãm,Hà Nội,Quận Hà Đông,Lô 06 LK12 Khu đấu giá giá phú lương 2- Phú lương- Hà Đông - Hà Nội,105.762,20.934444,Cũ
+1091,024K07,(HNI) Phúc La,Hà Nội,Quận Hà Đông,"Số 9, Nhà vườn 2 , tổng cục 5 Yên Xá ,xã Tân Triều, huyện Thanh Trì ,thành phố Hà Nội",105.7966,20.973764,Cũ
+893,277B02,(ĐTP) Mỹ Thọ,Đồng Tháp,Huyện Cao Lãnh,"Số 16 đường 30 tháng tư Thị trấn Mỹ Thọ, Huyện Cao Lãnh, tỉnh Đồng Tháp",105.698807,10.440266,Cũ
+894,216E01,(YBI) Trạm Tấu,Yên Bái,Huyện Trạm Tấu,"số nhà 99 , tổ dân phố số 2, thị trấn Trạm Tấu, huyện Trạm Tấu, Yên Bái",104.379806,21.464333,Cũ
+895,216I01,(YBI) Mù Cang Chải,Yên Bái,Huyện Mù Cang Chải,Tổ 4 - TT Mù Cang Chải - Huyện Mù Cang Chải - Tỉnh Yên Bái,104.084677,21.852278,Cũ
+896,292B02,(CTO)Quốc Lộ 1,Cần Thơ,Quận Cái Răng,"265B Trần Hưng Đạo, Phường Lê Bình, Quận Cái Răng, Cần Thơ",105.7506609,9.9916385,Cũ
+897,211A01,(VPC) Vĩnh Yên,Vĩnh Phúc,Thành phố Vĩnh Yên,"Khu đất dịch vụ thôn Hán Lữ, Phường Khai Quang, Thành phố Vĩnh Yên, Vĩnh Phúc",105.6245211,21.32049501,Cũ
+898,211B02,(VPC) Xuân Hòa,Vĩnh Phúc,Thành phố Phúc Yên,"Lô 1181 Lê Quang Đạo, Phường Xuân Hòa, Thành phố Phúc Yên, Vĩnh Phúc",105.7210104,21.2791252,Cũ
+899,211B01,(VPC) Phúc Yên,Vĩnh Phúc,Thành phố Phúc Yên,"Đường Bạch Đằng, KĐT Hùng Vương, Hùng Vương, Thành phố Phúc Yên, Vĩnh Phúc",105.4210251,21.1342473,Cũ
+16,024B02,(HNI)Bách Khoa,Hà Nội,Quận Hai Bà Trưng,"214 Lê Thanh Nghị, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",105.842995,21.0017539,Cũ
+901,219C01,(HGG) Mèo Vạc,Hà Giang,Huyện Mèo Vạc,"10A1 Đường Nguyễn Thị Minh Khai, tổ 2, TT Mèo Vạc, Huyện Mèo Vạc, Tỉnh Hà Giang",105.408469,23.162631,Cũ
+17,024B03,(HNI) Thanh Nhàn,Hà Nội,Quận Hai Bà Trưng,"211 phố Lạc Nghiệp, P.Thanh Nhàn, Q. Hai Bà Trưng, Tp. Hà Nội",105.8566726,21.0079213,Cũ
+903,261G01,(DKG) Tuy Đức,Đắk Nông,Huyện Tuy Đức,"Thôn 4 , xã Đắk Búk So, huyện Tuy Đức,  tỉnh Đắk Nông",107.461652,12.209511,Cũ
+904,028G11,(HCM) Tân Hưng,Hồ Chí Minh,Quận 7,"53 đường số 13, Phường Tân Kiểng, Quận 7, Hồ Chí Minh",106.704526,10.74648,Cũ
+905,218H01,(HBH) Yên Thủy,Hòa Bình,Huyện Yên Thủy,"258 Khu Phố Thanh Bình, Thị trấn Hàng Trạm, Huyện Yên Thuỷ, Hoà Bình",105.612483,20.3958037,Cũ
+906,261C02,(DKG) Nhân Cơ,Đắk Nông,Huyện Đăk Rlâp,"Thôn 7, Xã Nhân Cơ, Huyện Đăk Rlâp, Đắk Nông",107.57837,11.981,Cũ
+907,235H01,(QNM) Hà Lam,Quảng Nam,Huyện Thăng Bình,"Ngã ba Bình Quý, Xã Bình Quý, Huyện Thăng Bình, Quảng Nam",108.34097,15.71385101,Cũ
+908,235F01,(QNM) Quế Sơn,Quảng Nam,Huyện Quế Sơn,"70 Phan Châu Trinh, Thị trấn Đông Phú, Huyện Quế Sơn, Quảng Nam",108.2151029,15.67201909,Cũ
+909,235D01,(QNM) Phú Ninh,Quảng Nam,Huyện Phú Ninh,"Thôn Cây Sanh, Xã Tam Dân, huyện Phú Ninh, T.Quảng Nam",108.42122,15.524526,Cũ
+910,235C01,(QNM) Núi Thành,Quảng Nam,Huyện Núi Thành,"351 Phạm Văn Đồng, Thị trấn Núi Thành, Huyện Núi Thành, Quảng Nam",108.6546987,15.43194907,Cũ
+911,225F01,(HPG)Mạc Đăng Doanh,Hải Phòng,Quận Dương Kinh,"89 Mạc Đăng Doanh, Phường Hưng Đạo, Quận Dương Kinh, Hải Phòng",106.6983544,20.7960554,Cũ
+912,239D02,(HTH) Cẩm Xuyên 2,Hà Tĩnh,Huyện Cẩm Xuyên,"Thôn 10 Cẩm Trung, H Cẩm Xuyên, Hà Tĩnh",106.091667,18.216389,Cũ
+913,251G01,(ĐNI) Định Quán,Đồng Nai,Huyện Định Quán,"Khu Phố Hiệp Tâm 2,TT Định Quán, Huyện Định Quán,Tỉnh Đồng Nai",107.351257,11.201083,Cũ
+914,216H01,(YBI) Trấn Yên,Yên Bái,Huyện Trấn Yên,"Số nhà 436 đường phạm văn đồng, TT Cổ Phúc, H Trấn Yên, Tỉnh Yên Bái",104.82362,21.75931,Cũ
+915,211D02,(VPC) Lập Thạch 2,Vĩnh Phúc,Huyện Lập Thạch,"Thửa đất số 404 tờ bản đồ số 9, Thôn Vọng Sơn, xã Triệu Đề, huyện Lập Thạch, tỉnh Vĩnh Phúc",105.462969,21.335434,Cũ
+916,236C01,(ĐNG)NguyenLuongBang,Đà Nẵng,Quận Liên Chiểu,"230/06 Tôn Đức Thắng, Phường Hòa Minh, Quận Liên Chiểu, Đà Nẵng",108.1561729,16.06497494,Cũ
+917,232D02,(QBH) Bố Trạch,Quảng Bình,Huyện Bố Trạch,"Xã Phúc Trạch, Bố Trạch, Quảng Bình",106.2741169,17.64671767,Cũ
+918,221H01,(HYN) Ân Thi,Hưng Yên,Huyện Ân Thi,"51 Phạm Ngũ Lão, Thị Trấn Ân Thi, Huyện Ân Thi, Tỉnh Hưng Yên",106.089828,20.818674,Cũ
+919,251J01,(ĐNI) Vĩnh An,Đồng Nai,Huyện Vĩnh Cửu,"DT 767 , KP 7 Thị trấn Vĩnh An, Huyện Vĩnh Cửu, Đồng Nai",107.024825,11.059923,Cũ
+920,225J01,(HPG) Vĩnh Bảo - Đông Thái I,Hải Phòng,Huyện Vĩnh Bảo,"Đối diện bến xe Vĩnh Bảo, Xã Nhân Hòa, Thị Trấn Vĩnh Bảo, Huyện Vĩnh Bảo, Hải Phòng",106.4802321,20.68121035,Cũ
+921,261E01,(DKG) Đăk Song,Đắk Nông,Huyện Đăk Song,"Tổ 4, TT Dức An, Huyện Đăk Song, Đăk Nông",107.613919,12.250054,Cũ
+922,293A01,(HGG) Ngã Sáu,Hậu Giang,Huyện Châu Thành(HG),"Đường Hùng Vương, Ấp Thị trấn, Thị trấn Ngã Sáu, Huyện Châu Thành, Tỉnh Hậu Giang",105.797248,9.925115,Cũ
+923,293H01,(HGG) Vị Thủy,Hậu Giang,Huyện Vị Thủy,"Ấp 4, TT. Nàng Mau, H. Vị Thủy, T. Hậu Giang",105.531944,9.748722,Cũ
+924,221B01,(HYN) Hưng Yên,Hưng Yên,Thành phố Hưng Yên,"326 Nguyễn Văn Linh, Phường An Tảo, Thành phố Hưng Yên, Hưng Yên",106.05915,20.67512,Cũ
+925,222G01,(BNH)Lương Tài,Bắc Ninh,Huyện Lương Tài,"Thôn Hữu Ái, Xã Tân Lãng, Huyện Lương Tài, Bắc Ninh",106.19533,21.01984,Cũ
+926,222E02,(BNH) Nhân Thắng,Bắc Ninh,Huyện Gia Bình,"Chợ Ngụ QL 17 Xã Nhân Thắng, Huyện Gia Bình, Bắc Ninh",106.17762,21.05355,Cũ
+927,225I02,(HPG) Đại Hợp,Hải Phòng,Huyện Kiến Thụy,"Đường huyện 403, xã Đại Hợp, huyện Kiến Thụy, TP Hải Phòng",106.724121,20.708459,Cũ
+928,251D04,(ĐNI) Bình Sơn,Đồng Nai,Huyện Long Thành,"Thửa đất số 27, tờ bản đồ số 27, Ấp 8, xã Bình Sơn, huyện Long Thành, tỉnh Đồng Nai",107.010338,10.79482,Cũ
+929,251D07,(ĐNI) Long Thành,Đồng Nai,Huyện Long Thành,"346 Trường Chinh khu Phước Hải, Thị trấn Long Thành, Huyện Long Thành, Đồng Nai",106.954202,10.788855,Cũ
+930,210M01,(PTO) Yên Lập,Phú Thọ,Huyện Yên Lập,"277 đường Tân Long, Thị trấn Yên Lập, Huyện Yên Lập, Phú Thọ",105.057747,21.350618,Cũ
+931,261H01,(DKG) Đắk Glong,Đắk Nông,Huyện Đăk Glong,"Thôn 6, Xã Quảng khê, Huyện Đắk Glong, Tỉnh Đắk Nông",107.793077,11.90872,Cũ
+932,261A01,(DKG)Gia Nghĩa,Đắk Nông,Thành phố Gia Nghĩa,"147 Hùng Vương, Phường Nghĩa Trung, Thành Phố Gia Nghĩa, Đắk Nông",107.70212,11.989765,Cũ
+933,269N01,(GLI) Chư Pưh,Gia Lai,Huyện Chư Pưh,"274 Hùng Vương, thôn Hoà Phú, thị Trấn Nhơn Hoà, huyện Chư Pưh, tỉnh Gia Lai",108.102748,13.540742,Cũ
+934,256H01,(BĐH) Hoài Ân,Bình Định,Huyện Hoài Ân,"Đường Trần Đình Châu, Thị trấn Tăng Bạt Hổ, Huyện Hoài Ân, Bình Định",108.970972,14.364413,Cũ
+935,256F03,(BĐH) Vân Canh,Bình Định,Huyện Vân Canh,"Khu phố Hiệp Hội , Thị trấn Vân Canh, Huyện Vân Canh, Bình Định",108.996154,13.629776,Cũ
+936,263A02,(LĐG) P1. Bảo Lộc,Lâm Đồng,Thành phố Bảo Lộc,"86B Trần Phú, P.Lộc Sơn, Bảo Lộc, Lâm Đồng",107.821998,11.5416,Cũ
+937,251K01,(ĐNI) Cẩm Mỹ,Đồng Nai,Huyện Cẩm Mỹ,"ấp 1, xã Nhân Nghĩa, huyện Cẩm Mỹ, tỉnh Đồng Nai",107.235182,10.832345,Cũ
+938,234B01,(HUE) Phú Bài,Thừa Thiên – Huế,Thị xã Hương Thủy,"05 Sóng Hồng, Phường Phú Bài, Thị xã Hương Thủy, Thừa Thiên Huế",107.6859768,16.40492994,Cũ
+939,256B01,(BĐH)Hoài Nhơn,Bình Định,Thị xã Hoài Nhơn,"2543 Quang Trung , Phường Bồng Sơn, Thị xã Hoài Nhơn, Bình Định",109.0157434,14.41502479,Cũ
+940,232G01,(QBH) Roon,Quảng Bình,Huyện Quảng Trạch,"xã Quảng Tùng, quảng trạch, quang bình",106.436944,17.865833,Cũ
+941,255B03,(QNI) Vạn Tường,Quảng Ngãi,Huyện Bình Sơn,"Thôn An Lộc, Xã Bình Trị, Huyện Bình Sơn, Quảng Ngãi",108.832703,15.335163,Cũ
+942,255B02,(QNI) Dung Quất,Quảng Ngãi,Huyện Bình Sơn,"Thôn Vĩnh Trà, Xã Bình Thạnh, Huyện Bình Sơn, Quảng Ngãi",108.7716406,15.3731625,Cũ
+943,251C01,(ĐNI)Hùng Vương,Đồng Nai,Huyện Xuân Lộc,"Sát Công An Huyện- Quốc lộ 1A, Xã Xuân Hiệp, Huyện Xuân Lộc, Đồng Nai",107.385345,10.907831,Cũ
+944,251A19,(ĐNI) Trảng Dài,Đồng Nai,Thành phố Biên Hoà,"Thửa đất số 467, Tờ bản đồ số 25, Phường Trảng Dài, Thành phố Biên Hòa, tỉnh Đồng Nai",106.881946,10.997459,Cũ
+52,024B09,(HNI) Minh Khai 2,Hà Nội,Quận Hai Bà Trưng,"Số 159 Dương Văn Bé, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội",105.8741454,20.99558837,Cũ
+97,024B01,(HNI)Minh Khai,Hà Nội,Quận Hai Bà Trưng,"1C, ngách 22 ngõ 61 phố Lạc Trung, phường Vĩnh Tuy, quận Hai Bà Trưng, Hà Nội",105.8660544,21.00086293,Cũ
+947,219E01,(TPH) Quản Bạ,Hà Giang,Huyện Quản Bạ,"Số nhà tại tổ 4, thị trấn Tam Sơn, Huyện Quản Bạ, Hà Giang",104.990134,23.070174,Cũ
+948,225I01,(HPG)Núi Đối,Hải Phòng,Huyện Kiến Thụy,"36 Thị trấn Núi Đối, Kiến Thụy, Hải Phòng",106.67298,20.75699,Cũ
+949,225M01,(HPG) Thị trấn Cát Bà,Hải Phòng,Huyện Cát Hải,"Số 14 Tổ dân phố 4, thị trấn Cát Bà, huyện Cát Hải",107.047142,20.732067,Cũ
+950,227H02,(TBH) An Bài,Thái Bình,Huyện Quỳnh Phụ,"Thôn Đồng Phúc, xã An Lễ, huyện Quỳnh Phụ, tỉnh Thái Bình",106.404076,20.633578,Cũ
+951,232C02,(QBH) Ba Đồn 2,Quảng Bình,Thị xã Ba Đồn,"Thôn vân lôi , Xã Quảng Hải, Thị xã Ba Đồn, Quảng Bình",106.389481,17.748772,Cũ
+952,232D03,(QBH) Thanh Khê,Quảng Bình,Huyện Bố Trạch,"Thôn Thanh Khê, xã Thanh Trạch, Bố Trạch, Quảng Bình",106.4807438,17.6944563,Cũ
+953,237E01,(THA) Thọ Xuân,Thanh Hóa,Huyện Thọ Xuân,khu 4 thị trấn Lam Sơn huyện Thọ Xuân tỉnh Thanh Hóa,105.524732,19.921915,Cũ
+954,271F04,(BPC) Đức Liễu,Bình Phước,Huyện Bù Đăng,"Chợ Đức Liễu, Thôn 2, Xã Đức Liễu, Huyện Bù Đăng, Tỉnh Bình Phước",107.1386991,11.7103636,Cũ
+955,256G01,(BĐH)Phú Phong,Bình Định,Huyện Tây Sơn,"328 Quang Trung -TT Phú Phong - Huyện Tây Sơn,Bình Định",108.91883,13.907584,Cũ
+956,234B02,(HUE) Trường Hà,Thừa Thiên – Huế,Huyện Phú Vang,"Cầu Trường Hà, Xã Phú Gia, Huyện Phú Vang, Thừa Thiên - Huế",107.770385,16.423809,Cũ
+99,024B07,(HNI) Đồng Tâm,Hà Nội,Quận Hai Bà Trưng,"188 Trần Đại Nghĩa, Phường Đồng Tâm, Quận Hai Bà Trưng, Hà Nội",105.8406826,20.9932519,Cũ
+293,024B04,(HNI) Tăng Bạt Hổ,Hà Nội,Quận Hai Bà Trưng,"10b, Tăng Bạt Hổ, Phạm Đình Hổ, Hà Nội",105.8582404,21.01831291,Cũ
+959,234A02,(HUE)Nguyễn Sinh Cung,Thừa Thiên – Huế,Huyện Phú Vang,"Lô D12 khu đô thị Phú Mỹ Thượng, Xã Phú Mỹ, Huyện Phú Vang, Thừa Thiên Huế",107.615847,16.493722,Cũ
+960,234A05,(HUE) Lê Duẩn,Thừa Thiên – Huế,Thành phố Huế,"480 Lê Duẫn, Phường Tây Lộc, Thành phố Huế, Thừa Thiên Huế",107.5613561,16.47338473,Cũ
+961,272A01,(LAN) Bến Lức,Long An,Huyện Bến Lức,"294A Đường Phan Văn Mảng, Khu phố 8, Thị Trấn Bến Lức, Huyện Bến Lức, Long An",106.494572,10.627141,Cũ
+962,219K01,(TPH) Quang Bình,Hà Giang,Huyện Quang Bình,"tổ 3, thị trấn Yên Bình, huyện Quang Bình, tỉnh Hà Giang",104.58022,22.40943,Cũ
+963,211F01,(VPC)Vĩnh Tường,Vĩnh Phúc,Huyện Vĩnh Tường,"Đường Hoàng Văn Thụ, Khu 3, TT.Vĩnh Tường, Huyện Vĩnh Tường, Vĩnh Phúc",105.51672,21.217743,Cũ
+964,225E03,(HPG) Tam Bạc,Hải Phòng,Quận Hồng Bàng,"Số 74 Hạ Lý, Phường Hạ Lý, Q. Hồng Bàng. TP. Hải Phòng",106.67792,20.85945,Cũ
+965,225L04,(HPG) Dụ Nghĩa,Hải Phòng,Huyện An Dương,"Thôn Dụ Nghĩa, Xã Lê Thiện, Huyện An Dương, Hải Phòng",106.565514,20.90847,Cũ
+966,226B01,(HNM) Phủ lý,Hà Nam,Thành phố Phủ Lý,"585 Lý Thường Kiệt, Phường Lê Hồng Phong, TP Phủ Lý, Hà Nam",105.909134,20.536951,Cũ
+231,024A04,(HNI) Phúc Tân,Hà Nội,Quận Hoàn Kiếm,"Số 231 Hồng Hà, phường Phúc Tân, quận Hoàn Kiếm, thành phố Hà Nội",105.8518779,21.039528,Cũ
+968,219F01,(HGG) Vị Xuyên,Hà Giang,Huyện Vị Xuyên,"tổ 15, Thị trấn Vị Xuyên, Huyện Vị Xuyên, Hà Giang",104.981099,22.670511,Cũ
+969,219G01,(TPH) Bắc Mê,Hà Giang,Huyện Bắc Mê,"số 607, Tổ 4, Thị trấn Yên Phú, Huyện Bắc Mê, Hà Giang",105.3238795,22.7478662,Cũ
+970,293E01,(HGG)Ngã 7,Hậu Giang,Thành Phố Ngã Bảy,"Số 96 đường Nguyễn Thị Minh Khai, Khu vực 3, Phường Ngã bảy, Thành Phố Ngã Bảy, Hậu Giang",105.820303,9.814424,Cũ
+971,227D02,(TBH) Nam Thanh,Thái Bình,Huyện Tiền Hải,"Thôn Ái Quốc, Xã Nam Thanh, Huyện Tiền Hải, Thái Bình",106.546876,20.34499,Cũ
+972,227F01,(TBH) Hưng Hà,Thái Bình,Huyện Hưng Hà,"khu Thị Độc, Thị trấn Hưng Hà, Huyện Hưng Hà, Thái Bình",106.22282,20.59099,Cũ
+973,028Q06,(HCM) Nguyễn Oanh,Hồ Chí Minh,Quận Gò Vấp,"214/19 Nguyễn Oanh, Phường 17, Quận Gò Vấp, TPHCM",106.676346,10.835934,Cũ
+974,028Q08,(HCM) An Hội,Hồ Chí Minh,Quận Gò Vấp,"463 Tân Sơn , Phường 12, Quận Gò Vấp, Tp. Hồ Chí Minh",106.643224,10.830127,Cũ
+975,028Q09,(HCM) Phường 5,Hồ Chí Minh,Quận Gò Vấp,"135 Đường Số 20, Phường 5, Quận Gò Vấp, Tp. HCM",106.686472,10.834167,Cũ
+345,024A03,(HNI) Chương Dương,Hà Nội,Quận Hoàn Kiếm,"Số 71 phố Cầu Đất, P. Chương Dương, Q. Hoàn Kiếm, thành phố Hà Nội",105.861244,21.025533,Cũ
+977,239B01,(HTH)Nguyễn Ái Quốc,Hà Tĩnh,Thị xã Hồng Lĩnh,"Số nhà 102- đường 3/2, Khối 9, Phường Bắc Hồng, Thị xã Hồng Lĩnh, Hà Tĩnh",105.70019,18.53709,Cũ
+978,251A21,(ĐNI) Hoá An,Đồng Nai,Thành phố Biên Hoà,"008 - Chung cư 5 tầng 1C, Phường Hóa An, Thành Phố Biên Hòa, Đồng Nai",106.805725,10.930008,Cũ
+979,232F01,(QBH) Quảng Ninh,Quảng Bình,Huyện Quảng Ninh,"Thôn Dinh 10, Xã Gia Ninh, Huyện Quảng Ninh, Tỉnh Quảng Bình",106.67764,17.363584,Cũ
+980,028K06,(HCM) Lê Đại Hành,Hồ Chí Minh,Quận 11,411/9 Lê Đại Hành Phường 11 Quận 11,106.65122,10.765933,Cũ
+981,028R03,(HCM) Tân Thới Nhì,Hồ Chí Minh,Huyện Hóc Môn,"A5/9 Ấp Thống Nhất, Xã Tân Thới Nhì, Huyện Hóc Môn, TP.H",106.5821515,10.89670812,Cũ
+982,028R05,(HCM) Xuân Thới Đông,Hồ Chí Minh,Huyện Hóc Môn,"470 Trần Văn Mười, Xã Xuân Thới Đông, Hóc Môn, Hồ Chí Minh",106.589059,10.86582415,Cũ
+983,028X02,(HCM) Củ Chi 2,Hồ Chí Minh,Huyện Củ Chi,"Ngã Tư Sala 103C Đường 458, Ấp Hội Thạnh, Xã Trung An, Huyện Củ Chi",106.585716,10.988935,Cũ
+984,028M03,(HCM) Trần Văn Giàu,Hồ Chí Minh,Huyện Bình Chánh,"2A13 Ấp 2 xã Phạm Văn Hai, Huyện Bình Chánh, Hồ Chí Minh",106.674174,10.8826988,Cũ
+985,028C02,(HCM) Nguyễn Gia Thiều,Hồ Chí Minh,Quận 3,"2/110 Nguyễn Gia Thiều, Phường Võ Thị Sáu, Quận 3, Thành Phố Hồ Chí Minh",106.689593,10.7791,Cũ
+986,028S06,(HCM) Nguyễn Kiệm,Hồ Chí Minh,Quận Phú Nhuận,"432A Nguyễn Kiệm, Phường 4, Quận Phú Nhuận, Tp. HCM",106.6795086,10.8016738,Cũ
+987,028L07,(HCM) Tân Thới Nhất,Hồ Chí Minh,Quận 12,"50 Tân thới nhất 02, khu phố 6, Phường Tân Thới Nhất, Quận 12",106.61364,10.835294,Cũ
+988,028O16,(HCM) Phường 2,Hồ Chí Minh,Quận Bình Thạnh,"137 Nguyễn Văn Đậu, Phường 1, Quận Bình Thạnh",106.6790971,10.8100824,Cũ
+989,028N12,(HCM) Tên Lửa,Hồ Chí Minh,Quận Bình Tân,128 đường số 28 Phường Bình Trị Đông B Quận Bình Tân,106.611284,10.748082,Cũ
+990,255B01,(QNI) Bình Sơn,Quảng Ngãi,Huyện Bình Sơn,"Gần Ngã 3 Trà Bồng, Quốc lộ 1A, Xã Bình Long, Huyện Bình Sơn, Quảng Ngãi",108.764343,15.29012,Cũ
+991,232A03,(QBH) Đồng Hới 3,Quảng Bình,Thành phố Đồng Hới,"244 Lý Thái Tổ, Phường Đồng Sơn, Thành phố Đồng Hới, Quảng Bình",106.586577,17.4454178,Cũ
+992,274D06,(BDG) Thái Hòa,Bình Dương,Thị xã Tân Uyên,"1051B ĐT747, tổ 5, Kp Vĩnh Phước, Phường Thái Hòa, Thành phố Tân Uyên, Bình Dương",106.7588526,10.9763769,Cũ
+993,028O17,(HCM) Điện Biên Phủ P22,Hồ Chí Minh,Quận Bình Thạnh,"602/24 Điện Biên Phủ, Phường 22, Quận Bình Thạnh, TPHCM",106.717776,10.798757,Cũ
+994,028U11,(HCM) Phú Thọ Hòa,Hồ Chí Minh,Quận Tân Phú,"77 Đường Lê Lư, Phường Phú Thọ Hòa, Quận Tân Phú, TP Hồ Chí Minh",106.622104,10.785204,Cũ
+995,028T12,(HCM) Tân Bình 3,Hồ Chí Minh,Quận Tân Bình,"87 Phan Sào Nam, P.11, Q.Tân bình, Tp. HCM",106.6450632,10.7881314,Cũ
+996,028T19,(HCM) Lạc Long Quân 2,Hồ Chí Minh,Quận Tân Bình,"1226 Lạc Long Quân , Phường 8, Quận Tân Bình, TpHCM",106.65151,10.787771,Cũ
+997,222F03,(BNH) Nghĩa Đạo,Bắc Ninh,Huyện Thuận Thành,"Gần trường cấp 1 Nghĩa Đạo, Xã Nghĩa Đạo, Thị xã Thuận Thành, Bắc Ninh",106.1200567,21.00488709,Cũ
+998,222D02,(BNH) Yên Phong,Bắc Ninh,Huyện Yên Phong,Thôn ấp đồn- xã yên trung-huyện yên phong-tp bắc ninh,105.998875,21.205365,Cũ
+999,222D03,(BNH) Đông Yến,Bắc Ninh,Huyện Yên Phong,"Thôn Đông Yên, Xã Đông Phong, Huyện Yên Phong, Tỉnh Bắc Ninh",106.01096,21.18968,Cũ
+1000,256A03,(BĐH)Phú Tài,Bình Định,Thành phố Qui Nhơn,"129 Lạc Long Quân, Phường Trần Quang Diệu, Thành phố Quy Nhơn, Bình Định",109.1479,13.79165,Cũ
+1001,271E01,(BPC)Chơn Thành,Bình Phước,Huyện Chơn Thành,"Thửa đất số 91, tờ bản đồ số 60, KP3, Phường Hưng Long, Thị xã Chơn Thành, Bình Phước",106.6153323,11.4284511,Cũ
+1002,028G10,(HCM) Tân Thuận Tây,Hồ Chí Minh,Quận 7,"150A Đường số 47, Phường Tân Quy, Quận 7, Hồ Chí Minh",106.7127038,10.74220986,Cũ
+1003,221F01,(HYN) Phù Cừ,Hưng Yên,Huyện Phù Cừ,"Ngã tư khu dân cư số 3, Thị trấn Trần Cao, Huyện Phù Cừ, Hưng Yên",106.177023,20.732736,Cũ
+1004,221H02,(HYN) Tân Việt,Hưng Yên,Huyện Yên Mỹ,"Thôn Yến Đô, xã Tân Việt, huyện Yên Mỹ, tỉnh Hưng Yên",106.070394,20.8551558,Cũ
+1005,271F01,(BPC)Bù Đăng,Bình Phước,Huyện Bù Đăng,"Quốc Lộ 14, Khu Phố Đức Lập, Thị Trấn Đức Phong, Huyện Bù Đăng, Bình Phước",107.2367995,11.8110034,Cũ
+1006,271F02,(BPC) BomBo,Bình Phước,Huyện Bù Đăng,"Ấp 4, Xã Bom Bo, Huyện Bù Đăng, Tỉnh Bình Phước",107.18623,11.909754,Cũ
+1007,235K01,(QNM) Đại Lộc,Quảng Nam,Huyện Đại Lộc,86 Quang Trung - Thị Trấn Ái Nghĩa - Huyện Đại Lộc - Quảng Nam,108.1178981,15.88655254,Cũ
+1008,232C01,(QBH)Hùng Vương,Quảng Bình,Thị xã Ba Đồn,"158 Hùng Vương, P Ba Đồn, Thị xã Ba Đồn, Quảng Bình",106.418535,17.755305,Cũ
+1009,263B06,(LĐG) Hùng Vương,Lâm Đồng,Thành phố Đà Lạt,"25/9 Hùng Vương, phường 9, thành phố Đà Lạt, Lâm Đồng",108.462097,11.943695,Cũ
+1010,274E10,(BDG) Tân Định,Bình Dương,Thị xã Bến Cát,"Quốc lộ 13, 456 Số 16, Phường Tân Định, Thị Xã Bến Cát, Tỉnh Bình Dương",106.6287633,11.0579483,Cũ
+1011,274A08,(BDG) Phú Tân,Bình Dương,Thành Phố Thủ Dầu Một,"147 Đường N25, khu phố 1, Phường Phú Tân, Thành Phố Thủ Dầu Một, Bình Dương",106.6919134,11.04060828,Cũ
+1012,222E01,(BNH)Gia Bình,Bắc Ninh,Huyện Gia Bình,"Gần THPT Lê Van Thịnh ĐT 280, Xã Đông Cứu, Huyện Gia Bình, Bắc Ninh",106.17762,21.05355,Cũ
+900,024B10,(HNI) Nguyễn Du,Hà Nội,Quận Hoàn Kiếm,"Số 36 Trương Hán Siêu, Phường Trần Hưng Đạo, Quận Hoàn Kiếm, Hà Nội",105.848565,21.01914591,Cũ
+1014,256C02,(BĐH) Cát Khánh,Bình Định,Huyện Phù Cát,"Thôn An Quang Tây, Đề Gi, Xã Cát Khánh, Huyện Phù Cát, Bình Định",109.19672,14.12493,Cũ
+1015,222H01,(BNH) Thôn Đình Cả,Bắc Ninh,Huyện Tiên Du,"Thôn Hoài Thượng, Xã Liên Bão, Huyện Tiên Du, Bắc Ninh",106.028306,21.126685,Cũ
+1016,222C01,(BNH) Phố Mới,Bắc Ninh,Huyện Quế Võ,"720 Khu 5, Pường Phố Mới, Thị xã Quế Võ, Bắc Ninh",106.150805,21.159735,Cũ
+1017,222C04,(BNH) Đào Viên,Bắc Ninh,Huyện Quế Võ,"KP Từ Phong, Phường Cách Bi, Thị xã Quế Võ, Bắc Ninh",106.18611,21.13376,Cũ
+1018,271B02,(BPC) Thác Mơ,Bình Phước,Thị xã Phước Long,"Số 05, khu phố 3, P. Thác Mơ, TX Phước Long, tỉnh Bình Phước",106.9926577,11.8399262,Cũ
+1019,274H02,(BDG) Cổng Xanh,Bình Dương,Huyện Bắc Tân Uyên,"Ấp Cổng Xanh, Xã Tân Bình, Huyện Bắc Tân Uyên, Tỉnh Bình Dương",106.7202384,11.1844734,Cũ
+1020,222A05,(BNH) Tiên Xá,Bắc Ninh,Thành phố Bắc Ninh,"Đường Nguyễn Trãi, phường Hạp Lĩnh, thành phố Bắc Ninh",106.07456,21.14141,Cũ
+1021,213H01,(LCU) Nậm Nhùn,Lai Châu,Huyện Nậm Nhùn,"TDP Pa Kéo, TT. Nậm Nhùn, Huyện Nậm Nhùn, Lai Châu",103.025315,22.14111,Cũ
+1022,274E07,(BDG) Trừ Văn Thố,Bình Dương,Huyện Bàu Bàng,"310 KP Bàu Lòng, Thị trấn Lai Uyên, Huyện Bàu Bàng, Bình Dương",106.639555,11.343869,Cũ
+1023,274E12,(BDG) Thới Hòa,Bình Dương,Thị xã Bến Cát,"Đường DJ10- Đới Diện Quán Cơm Xứ nghệ-, Phường Thới Hòa, Thị Xã Bến Cát, Bình Dương",106.641081,11.103928,Cũ
+1024,274G02,(BDG) Thanh Tuyền,Bình Dương,Huyện Dầu Tiếng,"Thửa đất số 282, Tờ bản đồ số 19, Tổ 16, Ấp Chợ, Xã Thanh Tuyền, Huyện Dầu Tiếng, Tỉnh Bình Dương",106.4424133,11.1610327,Cũ
+1025,222C02,(BNH) Phương Liễu,Bắc Ninh,Huyện Quế Võ,"Thôn Giang Liễu, Phường Phương Liễu, Thị xã Quế Võ, Bắc Ninh",106.12434,21.16037,Cũ
+1026,276A05,(TNH) Châu Thành,Tây Ninh,Huyện Châu Thành(TN),"968 Hoàng Lê Kha, Khu phố 4, Thị trấn Châu Thành, Huyện Châu Thành, Tây Ninh",106.038827,11.312912,Cũ
+1027,276A04,(TNH)Tân Châu,Tây Ninh,Huyện Tân Châu,"167 tổ 7,khu phố 1,thị trấn Tân châu ,Tỉnh Tây ninh",106.1580928,11.5484433,Cũ
+1028,203A06,(QNH) Giếng Đáy,Quảng Ninh,Thành phố Hạ Long,"Tổ 13, khu 4B, phường Hùng Thắng, TP. Hạ Long, Quảng Ninh",107.0013646,20.9715453,Cũ
+1029,276F01,(TNH) Dương Minh Châu,Tây Ninh,Huyện Dương Minh Châu,"619 Đường Tỉnh 784, Khởi Hà ,Huyện Dương Minh Châu ,Tây Ninh",106.2137353,11.27805969,Cũ
+1030,276C01,(TNH)Thị Xã Gò Dầu,Tây Ninh,Huyện Gò Dầu,"Khu phố Thanh Hà, Thị trấn Gò Dầu, Huyện Gò Dầu, Tây Ninh",106.269934,11.086138,Cũ
+1031,235J03,(QNM) Điện Bàn,Quảng Nam,Thị xã Điện Bàn,"31 Lý Thái Tổ, phường Điện An, Thị xã Điện Bàn, tỉnh Quảng Nam",108.2424898,15.90280131,Cũ
+1032,235A02,(QNM) Phan Chu Trinh,Quảng Nam,Thành phố Tam Kỳ,"202 Thái Phiên, Phường An Sơn, Thành phố Tam Kỳ, Quảng Nam",108.4963009,15.55369316,Cũ
+1033,208H01,(TNN) Võ Nhai,Thái Nguyên,Huyện Võ Nhai,"SN 231, Phố Thái Long, Thị trấn Đình Cả, Huyện Võ Nhai, Thái Nguyên",106.422241,21.455438,Cũ
+1034,208A04,(TNN) Quang Trung,Thái Nguyên,Thành phố Thái Nguyên,"999 Bắc Cạn, Phường Hoàng Văn Thụ,Thành phố Thái Nguyên, Thái nguyên",105.8229068,21.6012915,Cũ
+1035,208B01,(TNN) Đồng Hỷ,Thái Nguyên,Thành phố Thái Nguyên,"319 QL 1B, Phường Chùa Hang, Thành phố Thái Nguyên, Thái Nguyên",105.8371691,21.6140157,Cũ
+1036,028F06,(HCM) Mai Xuân Thưởng,Hồ Chí Minh,Quận 6,"151 Mai Xuân Thưởng, Phường 4, Quận 6, Tp.HCM",106.648132,10.747068,Cũ
+1037,208B02,(TNN) Trại Cau,Thái Nguyên,Huyện Đồng Hỷ,"tổ 4, Trị trấn Trại Cau, huyện Đồng Hỷ, Thái Nguyên",105.9539507,21.5879051,Cũ
+1038,235O01,(QNM) Nam Giang,Quảng Nam,Huyện Nam Giang,"Tổ 8, Thôn Thạnh Mỹ 2, Thị Trấn Thạnh Mỹ, Huyện Nam Giang",107.836805,15.751807,Cũ
+1039,203H01,(QNH) Thị trấn Tiên Yên,Quảng Ninh,Huyện Tiên Yên,Khu QH phố Thống Nhất thị trấn Tiên Yên – huyện Tiên Yên,107.397352,21.32969,Cũ
+1040,271B01,(BPC)Phước Long,Bình Phước,Thị xã Phước Long,"02 Đường Độc Lập , Khu Phố 2 , Phường Phước Bình , Thị Xã Phước Long, Bình Phước",106.954852,11.814814,Cũ
+1041,221E01,(HYN) Nguyễn Lương Bằng,Hưng Yên,Huyện Kim Động,346 Nguyễn Lương Bằng-Huyện Kim Động-TP Hưng Yên,106.057891,20.737674,Cũ
+1042,028O07,(HCM) Thanh Đa,Hồ Chí Minh,Quận Bình Thạnh,"860/59 Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",106.717285,10.812306,Cũ
+1043,028O13,(HCM) Nguyễn Xí,Hồ Chí Minh,Quận Bình Thạnh,"375 Nguyễn Xí, Phường 13, Quận Bình Thạnh, Hồ Chí Minh",106.70236,10.82371,Cũ
+1044,028U09,(HCM) Phú Trung,Hồ Chí Minh,Quận Tân Phú,"147 Hoàng Xuân Nhị, P Phú Trung, Q Tân Phú",106.641437,10.776699,Cũ
+1045,292F01,(CTO)Phong Điền,Cần Thơ,Huyện Phong Điền(CT),"Số 45 – 47 đường Phan Văn Trị, Thị trấn Phong Điền, Huyện Phong Điền, Thành phố Cần Thơ",105.672348,9.997335,Cũ
+1046,028T21,(HCM) Nguyễn Phúc Chu,Hồ Chí Minh,Quận Tân Bình,"18 Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, TpHCM",106.6311713,10.82187284,Cũ
+1047,028T15,(HCM) Tân Bình,Hồ Chí Minh,Quận Tân Bình,"A55 Bạch Đằng , Phường 2 , QuậnTân Bình, Tp HCM",106.669383,10.816125,Cũ
+1048,028H08,(HCM) Dạ Nam,Hồ Chí Minh,Quận 8,"316 Phạm Thế Hiển, Phường 3, Quận 8, TPHCM",106.682262,10.748769,Cũ
+1049,028Z08,(HCM) DC Quận 7,Hồ Chí Minh,Quận 7,"10 Trần Trọng Cung, Phường Tân Thuận Đông, Quận 7, Hồ Chí Minh",106.73049,10.742271,Cũ
+1050,235H02,(QNM) Kế Xuyên,Quảng Nam,Huyện Thăng Bình,"Thôn Kế Xuyên 2, Bình Trung, Huyện Thăng Bình, Tỉnh Quảng Nam",108.410225,15.67281,Cũ
+1051,225B04,(HPG) Thành Tô,Hải Phòng,Quận Hải An,"239 Đường 7/3, Phường Thành Tô, Quận Hải An, Hải Phòng",106.71198,20.82093,Cũ
+1052,251J02,(ĐNI) Thạnh Phú,Đồng Nai,Huyện Vĩnh Cửu,"Thửa đất số 773, tờ bản đồ số 18, xã Thạnh Phú, huyện Vĩnh Cửu, tỉnh Đồng Nai",106.847437,11.015957,Cũ
+1053,251D03,(ĐNI) Long Phước,Đồng Nai,Huyện Nhơn Trạch,"chợ Long Thọ, ấp 1 Huyện Nhơn Trạch, Đồng Nai",106.953645,10.720981,Cũ
+1054,225H07,(HPG) Thủy Triều,Hải Phòng,Huyện Thủy Nguyên,"Xóm 3 , Thôn Tuy Lạc, Xã Thuỷ Triều, Huyện Thuỷ Nguyên, TP Hải Phòng",106.70962,20.93447,Cũ
+1055,225N02,(HPG) Mỹ Đức,Hải Phòng,Huyện An Lão(HP),"268 Quán Rẽ, Xã Mỹ Đức, Huyện An Lão, Hải Phòng",106.608604,20.768657,Cũ
+45,024J01,(HNI)Giải Phóng,Hà Nội,Quận Hoàng Mai,"17/141/23 Giáp Nhị - mặt đường ven sông Sét, Phường Thịnh Liệt, Quận Hoàng Mai",105.8471164,20.97711046,Cũ
+46,024J09,(HNI) Vĩnh Hưng 2,Hà Nội,Quận Hoàng Mai,"NV-05-06 khu 12 ngõ 13 Lĩnh Nam, Phường Mai Động, Quận Hoàng Mai, Hà Nội",105.865225,20.990511,Cũ
+47,024J07,(HNI) Linh Đàm 2,Hà Nội,Quận Hoàng Mai,"LK01TT04 Tây Nam Linh Đàm, Phường Hoàng Liệt, Quận Hoàng Mai, Hà Nội",105.822412,20.95827241,Cũ
+48,024J08,(HNI) Yên Sở,Hà Nội,Quận Hoàng Mai,"NV1-1 ô số 11, Dự án xây dựng khu nhà ở quận Hoàng Mai, Yên Sở, Hoàng Mai, Hà Nội",105.868805,20.974318,Cũ
+51,024J10,(HNI) Nguyễn Đức Cảnh,Hà Nội,Quận Hoàng Mai,"Số 56 Lương Khánh Thiện, Tân Mai, Hoàng Mai, Hà Nội",105.8513451,20.98475234,Cũ
+53,024J02,(HNI)Linh Đàm,Hà Nội,Quận Hoàng Mai,"38TT02 Tây Nam Linh Đàm, Phường Linh Đàm, Quận Hoàng Mai, Hà Nội",105.823778,20.957083,Cũ
+54,024J04,(HNI) Vĩnh Hưng,Hà Nội,Quận Hoàng Mai,"11 ngõ 95 Nam Dư, Phường Lĩnh Nam, Quận Hoàng Mai, Hà Nội",105.88894,20.984813,Cũ
+98,024J11,(HNI) Hoàng Văn Thụ,Hà Nội,Quận Hoàng Mai,"Nhà C45, Khu nhà ở và công trình công cộng ngõ 409 Tam Trinh, P. Hoàng Văn Thụ, Q. Hoàng Mai, Hà Nội",105.8638023,20.98509845,Cũ
+103,024J12,(HNI) Nguyễn Khoái,Hà Nội,Quận Hoàng Mai,"Số 739 Nguyễn Khoái, phường Thanh Trì, quận Hoàng Mai, thành phố Hà Nội",105.8928749,20.9940278,Cũ
+1065,225K02,(HPG) Bắc Hưng,Hải Phòng,Huyện Tiên Lãng,"Thôn Đồng Tiến, xã Bắc Hưng, huyện Tiên Lãng, TP Hải Phòng",106.6330647,20.6746141,Cũ
+1066,251K02,(ĐNI) Cọ Dầu,Đồng Nai,Huyện Cẩm Mỹ,"Xã Xuân Đông, Huyện Cẩm Mỹ, Tỉnh Đồng Nai",107.365735,10.828474,Cũ
+18,024L01,(HNI)Ngọc Lâm,Hà Nội,Quận Long Biên,"Số 122 Ái Mộ, phường Bồ Đề, quận Long Biên, thành phố Hà Nội",105.872665,21.039776,Cũ
+19,024L09,(HNI) Lâm Hạ,Hà Nội,Quận Long Biên,"Số 9, Ngõ 63 Lâm Hạ, Phường Bồ Đề, Quận Long Biên, Hà Nội",105.88136,21.038026,Cũ
+20,024L04,(HNI) Thạch Bàn,Hà Nội,Quận Long Biên,"Số 509 Bát Khối, tổ 5 phường Thạch Bàn, quận Long Biên, thành phố Hà Nội",105.902945,21.019625,Cũ
+21,024L07,(HNI) Bát Khối,Hà Nội,Quận Long Biên,"Số 141 đường Bát Khối, Tổ 7, phường Long Biên, quận Long Biên, thành phố Hà Nội",105.886036,21.024081,Cũ
+888,024L03,(HNI)Đức Giang,Hà Nội,Quận Long Biên,"Số 18, Ngõ 755 Ngô Gia Tự, Phường Đức Giang, Quận Long Biên, Hà Nội",105.9056044,21.07263592,Cũ
+1087,024L05,(HNI) Phúc Lợi,Hà Nội,Quận Long Biên,"BT1-11 tổ 8 Phúc Lợi, phường Phúc Lợi, Long Biên, Hà Nội",105.922926,21.048282,Cũ
+1073,234A06,(HUE) Nguyễn Huệ,Thừa Thiên – Huế,Thành phố Huế,"67 Lê Minh, Phường An Đông, Thành phố Huế, Thừa Thiên – Huế",107.604762,16.45894,Cũ
+1074,028Q12,(HCM) Thống Nhất,Hồ Chí Minh,Quận Gò Vấp,"288B Thống Nhất,  Phường 16, Quận Gò Vấp, TpHCM",106.6650871,10.84070761,Cũ
+1075,028Q07,(HCM) Lê Văn Thọ 2,Hồ Chí Minh,Quận Gò Vấp,328A Lê Văn Thọ P11 Quận Gò Vấp,106.657089,10.84633479,Cũ
+1076,028Q14,(HCM) Hạnh Thông Tây,Hồ Chí Minh,Quận Gò Vấp,"720 Phan Văn Trị, Phường 10, Quận Gò Vấp, TP.HCM",106.665651,10.835162,Cũ
+1077,296F02,(AGG) Bình Khánh,An Giang,Thành phố Long Xuyên,"865 Trần Hưng Đạo, Phường Bình Khánh, Thành phố Long Xuyên, An Giang",105.42575,10.392556,Cũ
+1078,296F01,(AGG) Trần Hưng Đạo,An Giang,Thành phố Long Xuyên,"Phạm Cự Lượng, P. Mỹ Phước, Thành phố Long Xuyên, An Giang",105.436386,10.36097,Cũ
+291,024E02,(HNI)Tổ 13,Hà Nội,Quận Nam Từ Liêm,"Số 9, ngõ 139 đường Mỹ Đình, phường Mỹ Đình I, Nam Từ Liêm, Hà Nội",105.7759807,21.02226571,Cũ
+1080,251A23,(ĐNI) Long Bình,Đồng Nai,Thành phố Biên Hoà,"14A/1 Tổ 8, Khu phố 11, Phường An Bình, Thành phố Biên Hòa, Đồng Nai",106.875475,10.930252,Cũ
+292,024E09,(HNI) Hải Đăng,Hà Nội,Quận Nam Từ Liêm,"166 Nguyễn Văn Giáp, Phường Cầu Diễn, Quận Nam Từ Liêm, Hà Nội",105.759229,21.033767,Cũ
+885,024E06,(HNI) Xuân Phương,Hà Nội,Quận Nam Từ Liêm,"Số 2, TT10, Forexa 2, Đô thị Xuân Phương, Phường Xuân Phương, Quận Nam Từ Liêm, Hà Nội",105.742144,21.028748,Cũ
+886,024E12,(HNI) Đồng Me,Hà Nội,Quận Nam Từ Liêm,"A108 BT 2A Khu đô thị mới Mễ Trì Thượng, Phường Mễ Trì, Quận Nam Từ Liêm, Hà Nội",105.776834,21.005149,Cũ
+1084,222C03,(BNH) Quế Võ 2,Bắc Ninh,Huyện Quế Võ,"Thôn Mao Trung, Phường Phượng Mao, Thị xã Quế Võ, Bắc Ninh",106.142972,21.152639,Cũ
+887,024E08,(HNI) Mễ Trì Hạ,Hà Nội,Quận Nam Từ Liêm,"Ô 18-BT2 Khu dự án Mễ Trì Hạ, P. Mễ Trì, Q. Nam Từ Liêm, Hà Nội",105.782981,21.013999,Cũ
+1086,024E03,(HNI)Phùng Khoang,Hà Nội,Quận Nam Từ Liêm,"Số 13- lô 9 khu biệt thự Nam Thắng ngõ 67 Phùng Khoang, Phường Trung Văn, quận Nam Từ Liêm, Hà Nội",105.790446,20.986755,Cũ
+221,024G06,(HNI) Tứ Liên,Hà Nội,Quận Tây Hồ,"Tổ 5B cụm 1, Phường Tứ Liên, Quận Tây Hồ, Hà Nội",105.8381103,21.06110534,Cũ
+1071,024G05,(HNI) Nhật Tân,Hà Nội,Quận Tây Hồ,"Số 704 Lạc Long Quân, Phường Nhật Tân, Quận Tây Hồ, Hà Nội",105.8171036,21.0798252,Cũ
+1089,220C02,(HDG) Lai Cách,Hải Dương,Huyện Cẩm Giàng,"Thôn Gạch, Thị trấn Lai Cách, Huyện Cẩm Giàng, Hải Dương",106.24893,20.93451,Cũ
+1072,024G01,(HNI)Lạc Long Quân,Hà Nội,Quận Tây Hồ,"ct36 số 50 ngõ 28 Xuân La, Phường Xuân La, Quận Tây Hồ, Hà Nội",105.808039,21.064619,Cũ
+1085,024G02,(HNI) Thụy Khuê,Hà Nội,Quận Tây Hồ,"Số 14, Ngõ 270 Đường Hoàng Hoa Thám, P. Thụy Khuê, Q. Tây Hồ, Hà Nội",105.817541,21.042505,Cũ
+1093,024G07,(HNI) Yên Phụ,Hà Nội,Quận Tây Hồ,"Số 170 Phố Yên Phụ, Phường Yên Phụ, Quận Tây Hồ, Hà Nội",105.8357187,21.05556235,Cũ
+253,024I07,(HNI) Khương Đình,Hà Nội,Quận Thanh Xuân,"Số 438 Khương Đình, phường Hạ Đình, quận Thanh Xuân, Hà Nội",105.813152,20.986979,Cũ
+1094,261H02,(DKG) Quảng Sơn,Đắk Nông,Huyện Đăk Glong,"Thôn Quảng Hợp, Quảng Sơn, Đắk Glong, Đăk Nông",107.872308,12.154159,Cũ
+1095,251A28,(ĐNI) Thánh Tâm,Đồng Nai,Thành phố Biên Hoà,"388 Điểu Xiển, Long Bình, Thành phố Biên Hòa, Đồng Nai",106.927028,10.961971,Cũ
+1096,277I02,(ĐTP) Tam Nông 2,Đồng Tháp,Huyện Tam Nông(ĐT),"Xã An Long, Huyện Tam Nông, Tỉnh Đồng Tháp",105.3797281,10.7023912,Cũ
+1097,263B01,(LĐG) Trần Lê Đà Lạt,Lâm Đồng,Thành phố Đà Lạt,"Lô A25 khu Quy hoạch Hoàng Văn Thụ, Phường 4, Thành phố Đà Lạt, Lâm Đồng",108.427944,11.937097,Cũ
+1098,263H03,(LĐG) Tân Hà,Lâm Đồng,Huyện Lâm Hà,"Thôn Liên Trung, Xã Tân Hà, Huyện Lâm Hà, Lâm Đồng",108.203093,11.738429,Cũ
+1099,258B04,(KHH) Đồng Khởi,Khánh Hòa,Huyện Diên Khánh,"Số 167 Đồng Khởi, Thị trấn Diên Khánh, Huyện Diên Khánh, Khánh Hòa",109.0977996,12.26753158,Cũ
+1100,221D02,(HYN) Như Quỳnh,Hưng Yên,Huyện Văn Lâm,Số 5 Tổ 3 Thị Trấn Như Quỳnh Huyện Văn Lâm Tỉnh Hưng Yên,105.9791438,20.9859007,Cũ
+1101,238A08,(NAA) Lê Viết Thuật,Nghệ An,Thành phố Vinh,"272 Đường Lê Viết Thuật, Phường Hưng Lộc, TP Vinh, Tỉnh Nghệ An",105.7029352,18.6911634,Cũ
+1102,263G02,(LĐG)Đức Trọng,Lâm Đồng,Huyện Đức Trọng,"35 Nguyễn Văn Linh, Thị trấn Liên Nghĩa, Huyện Đức Trọng, Lâm Đồng",108.370284,11.730055,Cũ
+1103,271E02,(BPC) Minh Hưng,Bình Phước,Huyện Chơn Thành,"Tổ 7 Ấp 3A, Phường Minh Hưng, Thị Xã Chơn Thành, Bình Phước",106.6148864,11.479163,Cũ
+1104,292D04,(CTO) Nguyễn Văn Linh,Cần Thơ,Quận Ninh Kiều,"Đường số 1, Khu TĐC Trường Đại học Y Dược Cần Thơ, Phường An Khánh, Quận Ninh Kiều, Thành Phố Cần Thơ",105.745579,10.042364,Cũ
+1105,292D03,(CTO)Trần Ngọc Quế,Cần Thơ,Quận Ninh Kiều,"Cạnh 131 Đường 3/2, Hưng Lợi, Ninh Kiều, Cần Thơ",105.761841,10.017837,Cũ
+1106,236G02,(ĐNG) Hòa Sơn,Đà Nẵng,Huyện Hòa Vang,"Khu tái định cư Hòa Sơn, Xã Hòa Sơn, Huyện Hòa Vang, Đà Nẵng",108.111886,16.076998,Cũ
+1107,028W04,(HCM) Nhơn Đức,Hồ Chí Minh,Huyện Nhà Bè,"Số 3/5 C Ấp 3 đường Lê Văn Lương, Xã Nhơn Đức, Huyện Nhà Bè, Thành Phố Hồ Chí Minh",106.698294,10.674016,Cũ
+1108,028R04,(HCM) Đông Thạnh,Hồ Chí Minh,Huyện Hóc Môn,"39 Bùi Công Trừng, Xã Đông Thạnh, Huyện Hóc Môn, HCM",106.652704,10.907918,Cũ
+1109,028R02,(HCM)Nguyễn Ảnh Thủ,Hồ Chí Minh,Huyện Hóc Môn,"59 đường Bà Điểm 4, ấp Bắc Lân, xã Bà Điểm, huyện Hóc Môn, Thành phố Hồ Chí Minh",106.598472,10.847833,Cũ
+1110,028X06,(HCM) Củ Chi 6,Hồ Chí Minh,Huyện Củ Chi,"Số 252Tỉnh Lộ 15, Ấp 11, Xã Tân Thạnh Đông,  Huyện Củ Chi, TPHCM",106.60587,10.946075,Cũ
+1111,028M09,(HCM) Ấp 3 4 Vĩnh Lộc B,Hồ Chí Minh,Huyện Bình Chánh,"F9/35A đường Vĩnh Lộc, ấp 6, Xã Vĩnh Lộc B, huyện Bình Chánh, TP.Hồ Chí Minh",106.5621015,10.8040216,Cũ
+1112,028M10,(HCM) Tân Kiên Tân Nhựt,Hồ Chí Minh,Huyện Bình Chánh,"910 Nguyễn Cửu Phú, Ấp 1 Xã Tân Kiên, Huyện Bình Chánh, TP. Hồ Chí Minh",106.581891,10.715466,Cũ
+1113,028M08,(HCM) Ấp 4AB Bình Hưng,Hồ Chí Minh,Huyện Bình Chánh,"C5/20K6 tổ 119 ấp 04, xã Bình Hưng, huyện Bình Chánh, Hồ Chí Minh",106.6737208,10.73396279,Cũ
+1114,028A04,(HCM) Phan Văn Trường,Hồ Chí Minh,Quận 1,"Số 2 Phan Văn Trường, Phường Cầu Ông Lãnh, Quận 1, TP.HCM",106.697824,10.766672,Cũ
+1115,028L05,(HCM) Hà Huy Giáp,Hồ Chí Minh,Quận 12,"221 Đường TL 19, Phường Thạnh Lộc, Quận 12, Hồ Chí Minh",106.687868,10.872723,Cũ
+1116,028L19,(HCM) Tân Thới Hiệp New,Hồ Chí Minh,Quận 12,"254 Nguyễn Thị Đặng, Phường Tân Thới Hiệp, Quận 12, TP.HCM",106.6412463,10.86653003,Cũ
+1117,028L09,(HCM) Tân Chánh Hiệp,Hồ Chí Minh,Quận 12,"457 Tân Chánh Hiệp 10, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh",106.622959,10.871643,Cũ
+1118,028J01,(HCM)Lê Hồng Phong,Hồ Chí Minh,Quận 10,"16A Lê Hồng Phong, Phường 12, Quận 10, Hồ Chí Minh",106.6719854,10.77412792,Cũ
+1119,028J10,(HCM) Hoàng Dư Khương,Hồ Chí Minh,Quận 10,"16A Lê Hồng Phong, Phường 12, Quận 10, Thành Phố Hồ Chí Minh",106.6719854,10.77412792,Cũ
+1120,028O05,(HCM) Nguyễn Hữu Cảnh,Hồ Chí Minh,Quận Bình Thạnh,"140G1 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, TP.HCM",106.709299,10.810053,Cũ
+1121,028O06,(HCM) Chu Văn An,Hồ Chí Minh,Quận Bình Thạnh,"47A Bùi Đình Túy, Phường 24, Quận Bình Thạnh, HCM",106.7072213,10.80817151,Cũ
+1122,028U07,(HCM) Tân Thành,Hồ Chí Minh,Quận Tân Phú,"11 Diệp Minh Châu, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh",106.658463,10.793008,Cũ
+1123,028U12,(HCM) Tân Quý,Hồ Chí Minh,Quận Tân Phú,"346 Đường Gò Dầu, Phường Tân Quý, Quận Tân Phú, TP Hồ Chí Minh",106.615433,10.795552,Cũ
+1124,028U10,(HCM) Tây Thạnh,Hồ Chí Minh,Quận Tân Phú,"19 đường S2, Phường Tây Thạnh, Quận Tân Phú, Tp Hồ Chí Minh",106.621036,10.812418,Cũ
+1125,028T16,(HCM) Đường A4,Hồ Chí Minh,Quận Tân Bình,"23 Nhất Chi Mai, Phường 13, Quận Tân Bình, Tp. Hồ Chí Minh",106.639736,10.803738,Cũ
+1126,028T01,(HCM)Cộng Hòa,Hồ Chí Minh,Quận Tân Bình,"16 đường A4, Phường 12, Quận Tân Bình, TP.HCM",106.649542,10.800976,Cũ
+1127,028H06,(HCM) Phạm Đức Sơn,Hồ Chí Minh,Quận 8,"42 Phạm Đức Sơn, Phường 16, Quận 8, Tp HCM",106.622496,10.71988,Cũ
+1128,028H07,(HCM) Phạm Thế Hiển 3,Hồ Chí Minh,Quận 8,"3555 Phạm Thế Hiển, Phường 7,  Quận 8, TP HCM",106.621963,10.70323,Cũ
+1129,028G12,(HCM) Tân Phú,Hồ Chí Minh,Quận 7,"12 Đường số 14, Phường Tân Phú, Quận 7, Hồ Chí Minh",106.7207696,10.73661266,Cũ
+1130,028G06,(HCM) Tân Phong,Hồ Chí Minh,Quận 7,"18 Đường số 53, KDC Tân Quy Đông, Phường Tân Phong, Quận 7, Hồ Chí Minh",106.7054323,10.7365197,Cũ
+1131,028G09,(HCM) Phú Thuận,Hồ Chí Minh,Quận 7,"20 Gò Ô Môi, khu phố 2, Phường Phú Thuận, Quận 7, HCM",106.7234972,0.7288309,Cũ
+1132,028G07,(HCM) Phú Mỹ,Hồ Chí Minh,Quận 7,"01 Đường 1B, Phường Phú Mỹ, Quận 7, Hồ Chí Minh",106.726413,10.717972,Cũ
+1133,028F05,(HCM) Phú Lâm,Hồ Chí Minh,Quận 6,N7 - Cư xá Phú Lâm A - Phường 12 - Quận 6,106.630809,10.749803,Cũ
+1134,028N11,(HCM) Tân Tạo A,Hồ Chí Minh,Quận Bình Tân,"162 đường 55, KP9, P Tân Tạo, Q Bình Tân, TP HCM",106.594593,10.751969,Cũ
+1135,028N09,(HCM) Tân Tạo,Hồ Chí Minh,Quận Bình Tân,"951/15 Tỉnh Lộ 10, Khu Phố 8, Phường Tân Tạo, Quận Bình Tân",106.604439,10.752862,Cũ
+1136,028N07,(HCM) Bình Hưng Hoà B,Hồ Chí Minh,Quận Bình Tân,"554 Đường số 1, phường Bình Hưng Hòa B, quận Bình Tân, HCM",106.5852364,10.8120802,Cũ
+1137,028N05,(HCM) Bình Hưng Hoà,Hồ Chí Minh,Quận Bình Tân,"27 Đường số 5, Khu Phố 3, Phường Bình Hưng Hòa, Quận Bình Tân, Tp HCM",106.601013,10.806308,Cũ
+1138,028L08,(HCM) Tô Ký,Hồ Chí Minh,Quận 12,"144/1A Đường Tô Ký, Phường Tân Chánh Hiệp, Quận 12, Hồ Chí Minh",106.6173723,10.86206171,Cũ
+1139,028L02,(HCM) Nguyễn Thị Kiêu,Hồ Chí Minh,Quận 12,"119 Nguyễn Thị Kiêu, phường Thới An, Q12, TP.HCM",106.653393,10.875851,Cũ
+1140,222F01,(BNH)Thuận Thành,Bắc Ninh,Huyện Thuận Thành,"Phố Hồ, Thị trấn Hồ, Huyện Thuận Thành, tỉnh Bắc Ninh",106.08775,21.06109,Cũ
+1141,271J01,(BPC) Bù Gia Mập,Bình Phước,Huyện Bù Gia Mập,"Thôn 9, Xã Đak Ơ, Huyện Bù Gia Mập, Tỉnh Bình Phước",107.0914659,12.0446279,Cũ
+1142,274E05,(BDG) An Tây,Bình Dương,Thị xã Bến Cát,"Thửa đất số 96, Tờ bản đồ số 44, Xã An Tây, TX. Bến Cát , Tỉnh Bình Dương",106.561653,11.078532,Cũ
+1143,274X02,(BDG) DC Bến Cát,Bình Dương,Thị xã Bến Cát,"Số 681, QL13, Khu phố 4, phường Mỹ Phước, TX Bến Cát, tỉnh Bình Dương",106.6081688,11.1368384,Cũ
+1144,274E06,(BDG) Nhật Huy,Bình Dương,Thị xã Bến Cát,"Nguyễn Văn Thành, Kp Phú Nghị, Phường Hòa Lợi, Thị Xã Bến Cát, Bình Dương",106.6615614,11.0760789,Cũ
+1145,274E08,(BDG) Chánh Phú Hòa,Bình Dương,Thị xã Bến Cát,"Thửa đất số 196, tờ bản đồ số 7, Phường Chánh Phú Hòa, TX Bến Cát, T. Bình Dương",106.6698801,11.1452199,Cũ
+1146,274X05,(BDG) DC Phú Hòa,Bình Dương,Thành Phố Thủ Dầu Một,"Thửa đất số 843 và thửa đất số 844 (tách từ thửa 812) tờ bản đồ số 49, Phường Phú Hòa, TP. Thủ Dầu Một, Bình Dương",106.68734,10.979919,Cũ
+1147,274X07,(BDG) DC Thủ Dầu Một,Bình Dương,Thành Phố Thủ Dầu Một,"439 Đại Lộ Bình Dương, P. Phú Cường, TP Thủ Dầu Một, tỉnh Bình Dương",106.6671304,10.98038942,Cũ
+1148,274A06,(BDG) Sở Sao,Bình Dương,Thành Phố Thủ Dầu Một,"1508 Đại lộ Bình Dương, phường Định Hòa, TP Thủ Dầu Một, tỉnh Bình Dương",106.6383319,11.0334715,Cũ
+1149,274X04,(BDG) DC Tân Uyên,Bình Dương,Thị xã Tân Uyên,"Đường DT746 Bình Chánh, P. Khánh Bình, TX. Tân Uyên, T. Bình Dương",106.7711409,11.0553877,Cũ
+1150,276A08,(TNH) An Cơ,Tây Ninh,Huyện Châu Thành(TN),"Số Nhà 302 Ấp Vịnh, Xã An Cơ, Huyện Châu Thành, Tỉnh Tây Ninh",105.969733,11.394766,Cũ
+1151,028Q10,(HCM) Phường 14 GV,Hồ Chí Minh,Quận Gò Vấp,"17/6A Phan Huy Ích, Phường 14, quận Gò Vấp, TP HCM",106.6341297,10.83807959,Mở mới
+290,024I10,(HNI) Thượng Đình,Hà Nội,Quận Thanh Xuân,"K16 tòa Pandora - 53 Triều Khúc, Phường Thanh Xuân Nam, Quận Thanh Xuân, Hà Nội",105.7985391,20.98606486,Cũ
+1153,236A11,(ĐNG) Hải Châu,Đà Nẵng,Quận Hải Châu,"31 Hàn Thuyên, Hoà Cường Bắc, Hải Châu, Đà Nẵng",108.2203884,16.03981298,Mở mới
+1154,256E04,(BĐH) Nguyễn Huệ,Bình Định,Huyện Phù Mỹ,"210 Nguyễn Huệ, Thị trấn Bình Dương, Huyện Phù Mỹ, Bình Định",109.078512,14.29323,Mở mới
+1155,256E03,(BĐH) Quang Trung,Bình Định,Huyện Phù Mỹ,"135 Quang Trung, Thị trấn Phù Mỹ, Huyện Phù Mỹ, Bình Định",109.052106,14.17811,Mở mới
+1156,273A04,(TGG) TP Mỹ Tho 1,Tiền Giang,Thành phố Mỹ Tho,"115 Ấp Bắc, khu phố 3, phường 10, tp. Mỹ Tho, Tiền Giang",106.345212,10.375573,Mở mới
+1157,028M02,(HCM) Nguyễn Hữu Trí,Hồ Chí Minh,Huyện Bình Chánh,"674 đường Đoàn Nguyễn Tuấn, ấp 3, xã Hưng Long, Huyện Bình Chánh, Hồ Chí Minh",106.6092686,10.6564185,Mở mới
+1158,028O10,(HCM) Bình Quới,Hồ Chí Minh,Quận Bình Thạnh,"250 quốc lộ 13, phường 26, quận Bình Thạnh, Tp. Hồ Chí Minh",106.713261,10.816946,Mở mới
+1159,257D01,(PYN) Tuy An,Phú Yên,Huyện Tuy An,"367 quốc lộ cũ, Thị trấn Chí Thạnh, Huyện Tuy An, Phú Yên",109.2162357,13.3109064,Mở mới
+1160,257D02,(PYN) Hòa Đa,Phú Yên,Huyện Tuy An,"Thôn Hòa Đa, xã An Mỹ, huyện Tuy An, tỉnh Phú Yên",109.2701442,13.202655,Mở mới
+1161,257C02,(PYN) Phú Thứ,Phú Yên,Huyện Tây Hoà,"Khu phố Phú Thứ, Thị trấn Phú Thứ, Huyện Tây Hoà, Phú Yên",109.2403709,13.00008657,Mở mới
+1162,251B03,(ĐNI) Cơ Giới,Đồng Nai,Huyện Trảng Bom,"1956 QL1A, Ấp Bắc Hòa, Trảng Bom, Đồng Nai",106.962396,10.957219,Mở mới
+891,024I04,(HNI) Lê Văn Lương,Hà Nội,Quận Thanh Xuân,"Số 57 ngõ 21 Lê Văn Lương, phường Nhân Chính, Q Thanh Xuân, Hà Nội",105.808043,21.006979,Cũ
+1164,028G05,(HCM) Tân Quy,Hồ Chí Minh,Quận 7,"24 đường 85, P. Tân Quy, Q7, HCM",106.7118186,10.73943421,Mở mới
+1064,024I08,(HNI) Khương Mai,Hà Nội,Quận Thanh Xuân,"98 Hoàng Văn Thái, phường Khương Mai, quận Thanh Xuân, thành phố Hà Nội",105.8264308,20.99651291,Cũ
+1166,216D02,(YBI) Đông An,Yên Bái,Huyện Văn Yên,"Thôn Toàn An, Xã Đông An, Huyện Văn Yên, Yên Bái",104.586795,21.969607,Mở mới
+1167,214D02,(LCI) Bảo Nhai,Lào Cai,Huyện Bắc Hà,"Thôn Bảo Tân 2, Xã Bảo Nhai, Huyện Bắc Hà, Lào Cai",104.260084,22.421452,Mở mới
+1168,276C03,(TNH) Phước Hiệp,Tây Ninh,Huyện Gò Dầu,"Thửa đất số: 234, tờ bản đồ 60, Ấp Giữa, Xã Hiệp Thạnh, Huyện Gò Dầu, Tỉnh Tây Ninh",106.239472,11.150389,Mở mới
+1169,276E02,(TNH) Phước Bình,Tây Ninh,Huyện Trảng Bàng,"Thửa đất số: 510, tờ bản đồ số 10, Ấp Gò Ngãi, Xã Phước Lưu, Huyện Trảng Bàng,Tỉnh Tây",106.228306,11.041333,Mở mới
+1070,024I03,(HNI)Khuất Duy Tiến,Hà Nội,Quận Thanh Xuân,"Số 15, ngõ 90 Khuất Duy Tiến, P. Nhân Chính, Q.Thanh Xuân, Hà Nội",105.8002672,20.99657984,Cũ
+1171,262H02,(ĐLK) Ea Phê,Đắk Lắk,Huyện Krông Pắc,"Km43, Xã Krông Búk, Huyện Krông Pắc, Tỉnh Đắk Lắk",108.3862857,12.77147988,Mở mới
+1172,236F03,(ĐNG) Nguyễn Duy Hiệu,Đà Nẵng,Quận Sơn Trà,"170 Nguyễn Duy Hiệu, An Hải Đông, Sơn Trà, Đà Nẵng",108.241912,16.05641532,Mở mới
+1173,237N01,(THA) Triệu Sơn,Thanh Hóa,Huyện Triệu Sơn,"Số 71, phố Tân Sơn, Thị trấn Triệu Sơn, Huyện Triệu Sơn, Thanh Hóa",105.7627242,19.8138599,Mở mới
+1174,251G02,(ĐNI) Phú Túc,Đồng Nai,Huyện Định Quán,"KM 106 ấp 3, Xã Phú Ngọc, Huyện Định Quán, Đồng Nai",107.294947,11.165533,Mở mới
+1175,204N01,(BGG) Vân Trung,Bắc Giang,Huyện Yên Dũng,"Xóm Xi, Xã Nội Hoàng, Huyện Yên Dũng, Bắc Giang",106.152695,21.234222,Mở mới
+1176,204F02,(BGG) Nghĩa Phương,Bắc Giang,Huyện Lục Nam,"Thôn Quỷnh Sành,  Xã Nghĩa Phương, H Lục Nam, T. Bắc Giang",106.2775497,21.40773964,Mở mới
+1177,204E02,(BGG) Kép,Bắc Giang,Huyện Lạng Giang,"Tổ dân phố Đồng 1, Thị trấn Kép, Huyện Lạng Giang, Bắc Giang",106.4540013,21.2718438,Mở mới
+1178,222D01,(BNH) Trung Nghĩa,Bắc Ninh,Huyện Yên Phong,"75 Phố Mới, Thị trấn Chờ, Huyện Yên Phong, Bắc Ninh",105.955929,21.199039,Mở mới
+1179,203D02,(QNH) Trưng Vương,Quảng Ninh,Thành phố Uông Bí,"Khu cầu Sến khu 7 Phường Thanh Sơn, Thành phố Uông Bí, Quảng Ninh",106.70924,21.0414,Mở mới
+1180,028V60,(HCM) Kho Lazada,Hồ Chí Minh,Thành Phố Thủ Đức,"421 Ụ Ghe, Phường Tam Phú, Thành phố Thủ Đức, Tp Hồ Chí Minh",106.7392663,10.85270489,Mở mới
+1181,028M07,(HCM) Bình Hưng,Hồ Chí Minh,Huyện Bình Chánh,"A6/6 QL50 xã Bình Hưng, huyện Bình Chánh, TP HCM",106.656321,10.731842,Mở mới
+1182,212A01,CDP SLA,Sơn La,Thành phố Sơn La,"Số nhà 15, đường 26/8, tổ 8 Chiềng Lề, TP Sơn La, Tỉnh Sơn La",103.905498,21.334751,Đóng cửa
+1183,214A03,(LCI)Cốc Lếu,Lào Cai,Thành phố Lào Cai,"Lô 4F, KCN Đông Phố Mới, phường Lào Cai, TP Lào Cai, Lào Cai",103.9774603,22.4954028,Đóng cửa
+1088,024J06,(HNI) Bắc Linh Đàm,Hà Nội,Quận Thanh Xuân,"Số 551 Vũ Tông Phan, Phường Khương Đình, Quận Thanh Xuân, Hà Nội",105.8150511,20.98487743,Cũ
+1185,232A04,(QBH) Lê Lợi,Quảng Bình,Thành phố Đồng Hới,"89 Lê Lợi, Phường Hải Đình, Thành Phố Đồng Hới, Quảng Bình",106.6217821,17.4593252,Đóng cửa
+547,024Q02,(HNI) Trung Sơn Trầm,Hà Nội,Thị xã Sơn Tây,"115 Thanh Vị, phường Sơn Lộc, thị xã Sơn Tây, Hà Nội",105.488812,21.13575,Cũ
+1187,225B05,(HPG) Đông Hải 1,Hải Phòng,Quận Hải An,"Số 773 Đông Hải, tổ dân phố Hạ Đoạn 4, Phường Đông Hải 2, Quận Hải An, Hải Phòng",106.73716,20.841322,Đóng cửa
